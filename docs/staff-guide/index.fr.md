@@ -1,4 +1,4 @@
-# Store staff guide
+# Guide de l'employé
 
 Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
 superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.

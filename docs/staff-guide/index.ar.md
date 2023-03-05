@@ -1,4 +1,4 @@
-# Store staff guide
+# دليل المستخدمين
 
 Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
 superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
