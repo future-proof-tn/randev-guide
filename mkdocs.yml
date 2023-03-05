@@ -14,6 +14,9 @@ theme:
   name: material
   favicon: img/logo.ico
   logo: img/logo-white.png
+  custom_dir: overrides
+  icon:
+    alternate: fontawesome/globe-europe-solid
   features:
     - navigation.instant
     - navigation.tracking
@@ -44,18 +47,24 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
 extra_css:
   - stylesheets/extra.css
 extra:
   alternate:
     - name: English
-      link: en/
+      link: ./en/
       lang: en
     - name: Français
-      link: fr/
+      link: ./fr/
       lang: fr
     - name: العربيّة
-      link: ar/
+      link: ./ar/
       lang: ar
 plugins:
   - search:
