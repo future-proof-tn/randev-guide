@@ -1,0 +1,105 @@
+site_name: Randev user guide
+site_url: https://help.randev.io/
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Store owner guide: store-owner-guide/index.md
+  - Staff guide: staff-guide/index.md
+  - User guide: user-guide/index.md
+  - About:
+      - Release Notes: about/release-notes.md
+      - Contributing: about/contributing.md
+      - Getting in touch: about/contact.md
+theme:
+  name: material
+  favicon: img/logo.ico
+  logo: img/logo-white.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css
+extra:
+  alternate:
+    - name: English
+      link: en/
+      lang: en
+    - name: Français
+      link: fr/
+      lang: fr
+    - name: العربيّة
+      link: ar/
+      lang: ar
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+      lang:
+        - en
+        - fr
+        - ar
+  - i18n:
+      default_language: en
+      material_alternate: true
+      languages:
+        en:
+          name: English
+          site_name: Randev documentation
+          build: true
+        fr:
+          name: Français
+          site_name: Documentation Randev
+          material_alternate: true
+          build: true
+        ar:
+          name: العربيّة
+          site_name: رندف - دليل المستخدم
+          material_alternate: true
+          build: true
+      nav_translations:
+        fr:
+          Home: Accueil
+          Getting started: Démarrage rapide
+          Store owner guide: Guide patron
+          Staff guide: Guide employé
+          User guide: Guide utilisateur
+          Release Notes: Notes de la release
+          Contributing: Contributions
+          Getting in touch: Prise de contact
+          About: A propos
+        ar:
+          Home: البداية
+          Getting started: بداية سريعة
+          Store owner guide: دليل صاحب المحل
+          Staff guide: دليل العملة والموضفين
+          User guide: دليل المستخدم
+          Release Notes: ملاحظات الاصدار
+          Contributing: المساهمة
+          Getting in touch: الاتصال بنا
+          About: حول البرنامج
