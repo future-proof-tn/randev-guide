@@ -55,33 +55,6 @@
          
     </url>
     <url>
-         <loc>https://help.randev.io/staff-guide/contact/</loc>
-         <lastmod>2023-03-05</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://help.randev.io/en/staff-guide/contact/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/fr/staff-guide/contact/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="https://help.randev.io/ar/staff-guide/contact/"/>
-         
-    </url>
-    <url>
-         <loc>https://help.randev.io/staff-guide/contributing/</loc>
-         <lastmod>2023-03-05</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://help.randev.io/en/staff-guide/contributing/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/fr/staff-guide/contributing/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="https://help.randev.io/ar/staff-guide/contributing/"/>
-         
-    </url>
-    <url>
-         <loc>https://help.randev.io/staff-guide/release-notes/</loc>
-         <lastmod>2023-03-05</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://help.randev.io/en/staff-guide/release-notes/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/fr/staff-guide/release-notes/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="https://help.randev.io/ar/staff-guide/release-notes/"/>
-         
-    </url>
-    <url>
          <loc>https://help.randev.io/store-owner-guide/</loc>
          <lastmod>2023-03-05</lastmod>
          <changefreq>daily</changefreq>
@@ -91,66 +64,12 @@
          
     </url>
     <url>
-         <loc>https://help.randev.io/store-owner-guide/contact/</loc>
-         <lastmod>2023-03-05</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://help.randev.io/en/store-owner-guide/contact/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/fr/store-owner-guide/contact/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="https://help.randev.io/ar/store-owner-guide/contact/"/>
-         
-    </url>
-    <url>
-         <loc>https://help.randev.io/store-owner-guide/contributing/</loc>
-         <lastmod>2023-03-05</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://help.randev.io/en/store-owner-guide/contributing/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/fr/store-owner-guide/contributing/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="https://help.randev.io/ar/store-owner-guide/contributing/"/>
-         
-    </url>
-    <url>
-         <loc>https://help.randev.io/store-owner-guide/release-notes/</loc>
-         <lastmod>2023-03-05</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://help.randev.io/en/store-owner-guide/release-notes/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/fr/store-owner-guide/release-notes/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="https://help.randev.io/ar/store-owner-guide/release-notes/"/>
-         
-    </url>
-    <url>
          <loc>https://help.randev.io/user-guide/</loc>
          <lastmod>2023-03-05</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://help.randev.io/en/user-guide/"/>
          <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/fr/user-guide/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="https://help.randev.io/ar/user-guide/"/>
-         
-    </url>
-    <url>
-         <loc>https://help.randev.io/user-guide/contact/</loc>
-         <lastmod>2023-03-05</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://help.randev.io/en/user-guide/contact/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/fr/user-guide/contact/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="https://help.randev.io/ar/user-guide/contact/"/>
-         
-    </url>
-    <url>
-         <loc>https://help.randev.io/user-guide/contributing/</loc>
-         <lastmod>2023-03-05</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://help.randev.io/en/user-guide/contributing/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/fr/user-guide/contributing/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="https://help.randev.io/ar/user-guide/contributing/"/>
-         
-    </url>
-    <url>
-         <loc>https://help.randev.io/user-guide/release-notes/</loc>
-         <lastmod>2023-03-05</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://help.randev.io/en/user-guide/release-notes/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/fr/user-guide/release-notes/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="https://help.randev.io/ar/user-guide/release-notes/"/>
          
     </url>
 </urlset>
