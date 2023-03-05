@@ -7,9 +7,9 @@ nav:
   - Staff guide: staff-guide/index.md
   - User guide: user-guide/index.md
   - About:
+      - Getting in touch: about/contact.md
       - Release Notes: about/release-notes.md
       - Contributing: about/contributing.md
-      - Getting in touch: about/contact.md
 theme:
   name: material
   favicon: img/logo.ico
