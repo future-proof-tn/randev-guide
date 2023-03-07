@@ -20,6 +20,7 @@ and also install the theme and plugins from command line:
 ```bash
 pip install mkdocs-material
 pip install mkdocs-static-i18n
+pip install mkdocs-glightbox
 ```
 
 ## Commands
