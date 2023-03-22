@@ -1,58 +1,38 @@
 # Guide de l'employé
+Bienvenue dans le guide de l'employé ! Ce guide vous aidera à comprendre les attentes et les responsabilités de votre rôle en tant qu'employé, ainsi que les politiques et procédures du magasin. Si vous avez des questions sur votre rôle, n'hésitez pas à en discuter avec votre superviseur.
 
-Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
-superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
-Iamque **vineta nigri esse** cupit duae. Videnda in commisit his sub noxque
-conatur tulisti prudens, inter, se quid sub. Excipit barbarus et orbem talibus
-melioribus vultus tecta cruorem vagina non de servo Philemon!
 
 ## Store owner invitation
-
+Pour accéder à la boutique en ligne , vous receviez une invitation de la part du prestataire du magasin ,vous receviez une notification lorsque vous recevez cette invitation.
+Vérifiez la barre de notification qui se trouve en haut de l'écran .
+Si vous avez reçu une invitation, vous devriez voir une notification à ce sujet dans la barre de notification. 
 ## Instant booking
-
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+C'est une fonctionnalité qui permet aux prestataire de service de réserver immédiatement un service a un client puisque les clients sont plus susceptibles de réserver une annonce lorsqu'ils peuvent le faire immédiatement.
+Cette reservation sera automatiquement désigner a vous .
 
 ## Manage bookings
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+Vous devez verifier que votre calendrier soit à jour et qu'ils disposent de politiques d'annulation claires pour éviter tout problème de double réservation ou d'annulation de dernière minute. Vous pouvez Modifier l'horraire ou supprimer une reservation , vous pouvez aussi entrener toutes modifivation que vous souhaiter faire seuelement pour les reservation qui son désigner a vous .
 
 ### Check my calendar
-
+Vous pouvez acceder a votre calandrier et voir touts vos reservations .
 ### Modify booking
+ Si vous avez besoin de modifier un événement existant, cliquez sur l'événement correspondant dans votre calendrier et apportez les modifications nécessaires.
 
 ### Cancel booking
+ Si vous avez besoin de supprimer un événement existant, cliquez sur l'événement correspondant dans votre calendrier et supprimer le .
 
 ## Inviting Staff to your store
-
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
-
-
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
-
+En tant que employee , vous pouvez aussi avoir un magasin et etre un prestataire de magasin avec le meme compte , vous pouvez envoyez une invitation à l'employé en utilisant la fonction d'invitation de la plateforme .
+Pour ajouter un membre de vos employee a votre magasin sur l'application il suffit d'acceder a la section membres du staff , cliquer sur le bouton plus en haut de la page et ajouter son nom et son numero de telephone .
 
 ## Sharing store with clients
-
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+Pour partager votre magasin avec vos client , vous vouvez le faire avec le QR code ou par transfer de votre lien .
 
 ### Via link
 
 ### Via QR code
 
 ## Managing calendar (time-off & holidays)
+La prise de congés est un droit pour tout les employer. Cependant, pour une bonne organisation de l'entreprise, il est important que les employés notes leurs congés dans leurs calendrier .
+ l'employer peut préciser les conditions de prise de congé (dates exactes, durée, etc.) ainsi que la date de retour au travail.

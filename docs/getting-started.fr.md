@@ -1,7 +1,7 @@
 # Prise en main rapide
 
 ## Création de compte
-
+Pour créer un compte, cliquez sur le bouton "creer un compte" et suivez les instructions. Vous devrez fournir votre nom, votre adresse e-mail et créer un mot de passe. Une fois votre compte créé, vous pourrez commencer à utiliser l'application.
 ### Moyennant d'un email et mot de passe
 
 
@@ -70,18 +70,50 @@ Vous recevez un code de confirmation par message dans quelques instants .
 </figure>
 
 ## Modification des information de profil de l'utilisateur
+Si vous souhaitez modifier les informations de profil de votre compte utilisateur dans Randev, voici les étapes à suivre :
+
+Accédez à la section "Profil" de l'application où vous pouvez consulter et modifier les informations de votre compte.
+
+Recherchez les champs que vous souhaitez modifier, tels que votre nom, votre adresse e-mail, votre numéro de téléphone, etc.
+
+Cliquez sur le champ que vous souhaitez modifier et apportez les modifications nécessaires.
+
+Vérifiez que toutes les informations sont correctes avant de valider les modifications.
+
+Enregistrez les modifications en cliquant sur le bouton "mettre a jours".
 <figure markdown> 
   ![Cree un compte](./about/assets/Editer le profil.png){ width="700" }
   <figcaption></figcaption>
 </figure>
 
 ### Association d'un compte google ou facebook
+Si vous souhaitez associer un compte Google ou Facebook à votre compte utilisateur dans Randev,
+
+
+Recherchez la section "Profil" de l'application où vous pouvez modifier les informations de votre compte.
+
+Recherchez l'option "Associer un compte" et choisissez Google ou Facebook.
+
+Si vous n'êtes pas déjà connecté à votre compte Google ou Facebook, suivez les instructions pour vous connecter.
+
+Donnez l'autorisation à l'application pour accéder à votre compte Google ou Facebook en cliquant sur le bouton "Autoriser".
 <figure markdown> 
   ![Cree un compte](./about/assets/associer.png){ width="700" }
   <figcaption></figcaption>
 </figure>
 
 ### Mise à jour de la photo de profil
+Recherchez la section "Profil" de l'application où vous pouvez consulter et modifier les informations de votre compte.
+
+Cliquez sur la photo de profil actuelle pour accéder à l'option de modification.
+
+Vous pouvez maintenant choisir de télécharger une nouvelle photo à partir de votre appareil ou de prendre une photo en temps réel en utilisant votre caméra.
+
+Sélectionnez la photo que vous souhaitez utiliser comme nouvelle photo de profil et ajustez-la si nécessaire.
+
+Vérifiez que la nouvelle photo de profil est correctement cadrée et que l'orientation est correcte.
+
+Enregistrez la nouvelle photo de profil en cliquant sur le bouton de confirmation .
 <figure markdown> 
   ![Cree un compte](./about/assets/mise a jour photo.png){ width="700" }
   <figcaption></figcaption>
