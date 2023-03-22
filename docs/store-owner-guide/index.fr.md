@@ -91,8 +91,7 @@ Service designee :  Déterminent ce que chaque membre peut faire , Vous pouvez a
 
 
 ## Instant booking
-C'est une fonctionnalité qui permet aux prestataire de service de réserver immédiatement un service a un client puisque les clients sont plus susceptibles de réserver un service lorsqu'ils peuvent le faire immédiatement.
-vous pouvez désigner un service à un membre spécifique.
+C'est une fonctionnalité qui permet aux prestataire de service de réserver immédiatement un service a un client sans rendez vous prealable pour garder une trassabilite de l'activite dans son magasin .
 
 ## Manage bookings
 
