@@ -121,6 +121,11 @@ Vous pouvez aussi acceder au calandrier d'un employee en cliquant sur l'icone pr
 
 ### Annuler la réservation
  Si vous avez besoin de supprimer un événement existant, cliquez sur l'événement correspondant dans votre calendrier et supprimer le .
+ 
+ <figure markdown> 
+  ![Cree un compte](../about/assets/annuler rendez vous.png){ width="700" }
+  <figcaption></figcaption>
+</figure>
 
 ## Inviter du personnel dans votre magasin
 
