@@ -25,9 +25,18 @@ Vous devez verifier que votre calendrier soit à jour et qu'ils disposent de pol
 
 ### Consulter mon calendrier
 Vous pouvez acceder a votre calandrier et voir touts vos reservations .
+<figure markdown> 
+  ![Cree un compte](../about/assets/check my calendar.png){ width="700" }
+  <figcaption></figcaption>
+</figure>
 
 ### Annuler la réservation
  Si vous avez besoin de supprimer un événement existant, cliquez sur l'événement correspondant dans votre calendrier et supprimer le .
+
+ <figure markdown> 
+  ![Cree un compte](../about/assets/annuler rendez vous.png){ width="700" }
+  <figcaption></figcaption>
+</figure>
 
 
 ## Partager le magasin avec les clients
