@@ -13,12 +13,20 @@ Accédez au menu ,  Une fois que vous êtes dans le menu de l'application, cherc
 </figure>
 
 ### Configuration des détails du magasin
-Suivez les instructions à l'écran pour personnaliser votre boutique, ajouter des produits, des services , des ressources , configurer les options , et tout ce dont vous avez besoin pour créer votre boutique en ligne.
+Suivez les instructions à l'écran pour personnaliser votre boutique, ajouter des produits, des services , des ressources , configurer les options , et tout ce dont vous avez besoin pour créer votre boutique en ligne :
+-Le nom de votre boutique: il servira d'enseigne pour votre boutique en ligne.
+-Vos domaines d'activité: cliquer sur la liste déroulante pour choisir un ou plusieurs domaine d'activité
+-Votre téléphone
+-Votre email
+-L'adresse de votre boutique, vous utiliser le 'Google map' pour la fournir, ainsi votre boutique sera visible sur les résultats de recherches à travers la carte géographique.
+-votre site web: ce champ est totalement optionel.
 
 
 ### Mise en place du calendrier du magasin
-Identifiez les besoins spécifiques de votre magasin en matière de calendrier. Par exemple, vous devrez peut-être tenir compte des jours fériés, des heures d'ouverture et de fermeture spéciales, ou des horaires de travail de vos employés.
-Configurez le calendrier en fonction des besoins de votre magasin.
+Le calendrier vous permet de définir votre emploi du temps pour la semaine. Il vous offre une flexibilité pour définir plusieur sessions de travail pour chaque jour en déterminant les temps d'ouverture et de fermeture de votre boutique
+Pour ajouter une session:
+-Cliquez sur 'ajouter une session' 
+-fournissez le temp du début et le temps de fin de la session
 <figure markdown> 
   ![Cree un compte](../about/assets/calendar.png){ width="700" }
   <figcaption></figcaption>
@@ -116,12 +124,10 @@ Une fois que vous avez ouvert votre calendrier, vérifiez les événements à ve
 ### Vérifier le calendrier du personnel
 Vous pouvez aussi acceder au calandrier d'un employee en cliquant sur l'icone profil , la liste de touts vos employees va etre afficher et la vous pouver choisir lequel vous voulez consulter.
 
-### Modifier la réservation
- Si vous avez besoin de modifier un événement existant, cliquez sur l'événement correspondant dans votre calendrier et apportez les modifications nécessaires.
 
 ### Annuler la réservation
  Si vous avez besoin de supprimer un événement existant, cliquez sur l'événement correspondant dans votre calendrier et supprimer le .
- 
+
  <figure markdown> 
   ![Cree un compte](../about/assets/annuler rendez vous.png){ width="700" }
   <figcaption></figcaption>
