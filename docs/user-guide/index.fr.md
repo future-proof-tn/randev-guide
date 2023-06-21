@@ -24,13 +24,13 @@ Ouvrez l'application et accédez à l'onglet "Recherche" dans le menu principal 
 
 Tapez le nom de la boutique ou du service que vous recherchez dans la barre de recherche.
 
-<p align="center"><img src=./img/fr/Recherche.png><p>
+<p align="center"><img src=./img/Recherche.fr.png><p>
 
 ### Localisation de la boutique sur la carte
 
 Si vous le souhaitez, vous pouvez également la localisation de la boutique sur la carte.
 
-<p align="center"><img src=./img/fr/Location.png><p>
+<p align="center"><img src=./img/Location.fr.png><p>
 
 ### Recherche avancée
 
@@ -42,7 +42,7 @@ Les résultats de la recherche s'afficheront sous forme de liste.
 
 Si vous trouvez une boutique ou un service qui vous intéresse, vous pouvez l'ajouter à vos favoris ou contacter directement la boutique ou le service via l'application.
 
-<p align="center"><img src=./img/fr/RechercheAvancée.png><p>
+<p align="center"><img src=./img/RechercheAvancée.fr.png><p>
 
 ## Vérification des attributs de la boutique
 
@@ -56,25 +56,25 @@ Apres avoir accédez à la boutique que vous souhaitez explorer,vous trouverez l
 
 Vous pouvez trouver les horaires d'ouverture de la boutique et vous assurer que vous pouvez planifier votre visite et vos rendez vous en toute confiance.
 
-<p align="center"><img src=./img/fr/HeuresDeTravail.png><p>
+<p align="center"><img src=./img/HeuresDeTravai.fr.png><p>
 
 ### Services de la boutique
 
 Vous pouvez trouver les services proposés par la boutique et vous assurer que vous pouvez profiter de tout ce que la boutique a à offrir. les services proposés par la boutique sont disponibles, vous les trouverez dans la section "Services" de la boutique.
 
-<p align="center"><img src=./img/fr/Services.png><p>
+<p align="center"><img src=./img/Services.fr.png><p>
 
 ### Avis d'utilisateurs
 
 les avis des utilisateurs vous aide pour faire des choix éclairés sur les services proposés dans l'application. Si des avis d'utilisateurs sont disponibles, vous les trouverez généralement dans la section "Avis".
 
-<p align="center"><img src=./img/fr/ratings.png><p>
+<p align="center"><img src=./img/ratings.fr.png><p>
 
 ## Ajout d'un avis d'utilisateur
 
 Vous pouvez partager votre avis avec d'autres utilisateurs et aider à améliorer la qualité des services proposés dans l'application. Choisissez une note ou une évaluation pour le produit ou le service, généralement sur une échelle de 1 à 5 étoiles.
 
-<p align="center"><img src=./img/fr/avis.png><p>
+<p align="center"><img src=./img/avis.fr.png><p>
 
 ## Effectuer une réservation
 
@@ -86,7 +86,7 @@ Si nécessaire, choisissez le type de service que vous souhaitez réserver.
 
 Entrez les informations requises pour la réservation, Vérifiez que toutes les informations de réservation sont correctes et validez votre réservation en appuyant sur le bouton "Réserver".
 
-<p align="center"><img src=./img/fr/reserve.png><p>
+<p align="center"><img src=./img/reserve.fr.png><p>
 
 ## Ajouter un rappel pour une réservation
 
@@ -100,13 +100,13 @@ Si votre rappel est configuré avec succès, vous recevrez une confirmation imme
 
 Si vous devez modifier ou annuler votre rappel, recherchez l'option correspondante dans l'application et suivez les instructions.
 
-<p align="center"><img src=./img/fr/notification.png><p>
+<p align="center"><img src=./img/notification.fr.png><p>
 
 ## Suppression d'un rappel pour une réservation
 
 Pour supprimer un rappel pour une réservation,Trouvez la réservation pour laquelle vous souhaitez supprimer le rappel,Recherchez l'option "Rappels" et cliquez dessus. Vous devriez voir une liste le rappel associés à cette réservation, cliquer sur supprimer , Confirmez que vous souhaitez supprimer le rappel en appuyant sur le bouton de confirmation.
 
-<p align="center"><img src=./img/fr/SupressionNotification.png><p>
+<p align="center"><img src=./img/SupressionNotification.fr.png><p>
 
 ## Modification d'une réservation
 
@@ -114,6 +114,6 @@ Vous pouvez également supprimer une réservation.
 
 Pour faire cela, vous devez ouvrir l'application Randev, cliquez sur le menu déroulant en haut de la page. Après cela cliquez sur agenda et enfin mes réservations. De là, vous pouvez trouver une icône de suppression à côté de la réservation. Vous pouvez également supprimer une réservation.
 
-<p align="center"><img src=./img/fr/SuppressionReservation.png><p>
+<p align="center"><img src=./img/SuppressionReservation.fr.png><p>
 
 ## Accès à une boutique via QR Code
