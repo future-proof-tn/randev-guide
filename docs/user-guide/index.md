@@ -1,123 +1,115 @@
 # User guide
 
-In this guide exists all the information that the user of the Randev application would require in order to enjoy using it.
-
-Randev is made to help the user with maximising the profit and minimising the time loss.
-
-This guide will walk the user step by step to understand how Randev works and what is the utility of each section in it.
+Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
+superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
+Iamque **vineta nigri esse** cupit duae. Videnda in commisit his sub noxque
+conatur tulisti prudens, inter, se quid sub. Excipit barbarus et orbem talibus
+melioribus vultus tecta cruorem vagina non de servo Philemon!
 
 ## Logging in to the application
 
-There are multiple ways to login into the application.
+Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
+hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
+atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
+**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
+mundi referitur et veri credit, arbore cognoscere plausus adest.
 
-First of you need to open the application. then click on the menu dropdown icon then click on login.
 
-as soon as you are in the Login page, you will see multiple choices. The fisst one of them is to continue with Google. With one simple click and you are logged in.
-
-The second option is to continue with Facebook.
-
-The last option to login is to use the sign in with Email option that requires you to already have an account. Which if you do not have you can use the create an account option to make one.
-
-<p align="center"><img src=./img/Login.jpg><p>
+Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
+[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
+sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
+Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
+petit, lacrimisque quodque placet, invito. Concipiunt copia.
 
 ## Searching for a store
 
-One of the exciting features Randev has is the search for a store feature
+Hector *sua*. Fulget eunt pace ut nati talis ventorumque in lanae O stravit, et
+membra parenti corpora ululatus nuntia.
 
-First of you need to open the application
-
-Then simply click on the search button that is on top of the page.
-
-After that type in the name of the store.
-
-<p align="center"><img src=./img/search.jpg><p>
+- Animumque genetrix arbor suspiria in ignotas
+- Apolline nec dedit gerens quaeque pervia causa
+- Illa ille numinis
+- Ubi passis telum docui nec positis
 
 ### Locating the store on the map
 
-Our application provides the exact store location that the business owner fills when creating his store.
-
-To do this you need to open the application and click on the store to check its details.
-
-<p align="center"><img src=./img/Location.png><p>
+**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
+spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
+inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
+hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
+vocalia: latere mihi toto mixtaeque putetis moenia?
 
 ### Refining the search criteria
 
-If you want more options than just looking up a business by its name or its service you can use the more advanced search option that has more criterias to go by.
-
-<p align="center"><img src=./img/AdvancedSearch.jpg><p>
+**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
+spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
+inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
+hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
+vocalia: latere mihi toto mixtaeque putetis moenia?
 
 ## Checking out store details
 
-Each store has multiple details filled by the owner when created. Those details can help the client decide if he needs the service to be provided by that store or not.
-
-To do that the client need to open the Randev application then click on the card of the store that he wants to check its details.
-
-<p align="center"><img src=./img/Details.png><p>
+Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
+hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
+atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
+**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
+mundi referitur et veri credit, arbore cognoscere plausus adest.
 
 ### Checking out the Gallery
 
-Every store owner has the luxury to add pictures of his own work to the details page. In a matter of fact, that is the most effective way to improve the visibility of his work.
-
 ### Checking out the opening times
-
-This feature makes the bookings easier for both the owner and the client. As the former provides his working sessions and the latter finds them on Randev without having to physically go to the store.
-
-The client finds these timings in the store details page.
-
-<p align="center"><img src=./img/WorkHours.png><p>
 
 ### Checking out the services
 
-This feature allows the client to see all of the services provided by the store. The same business can have multiple services and the client can check all of them in this section.
-
-<p align="center"><img src=./img/services.png><p>
-
 ### Checking out the reviews
 
-Can't decide which store to choose? This is where the reviews feature shines. You can simply see what other clients gave as ratings for each one to help you make up your mind.
-
-<p align="center"><img src=./img/ratings.png><p>
+Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
+[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
+sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
+Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
+petit, lacrimisque quodque placet, invito. Concipiunt copia.
 
 ## Adding a store review
 
-You dealt with a store and liked their service? Why not leave a review for them so that other clients realise how awesome that store is!
+Hector *sua*. Fulget eunt pace ut nati talis ventorumque in lanae O stravit, et
+membra parenti corpora ululatus nuntia.
 
-<p align="center"><img src=./img/review.png><p>
+- Animumque genetrix arbor suspiria in ignotas
+- Apolline nec dedit gerens quaeque pervia causa
+- Illa ille numinis
+- Ubi passis telum docui nec positis
+
+**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
+spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
+inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
+hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
+vocalia: latere mihi toto mixtaeque putetis moenia?
 
 ## Performing a booking
 
-All of the above features are made so that the client can finally perform a booking. This is the pivotal feature of the application. the client checks all of information above and then decides when and where to make his booking.
-
-In order to do that the client needs to access the store details page then click on the service that he needs then click on book this service.
-
-<p align="center"><img src=./img/book.png><p>
+Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
+tecta! Sive nunc petit presserat *iamque*: novorum foret.
 
 ## Adding a reminder for a booking
 
-After you have made a booking, you might need a reminder so you don't forget it.
-
-To do that you need to open the Randev application, click on the dropdown menu on the top of the page. After that click on agenda and last my bookings. In this section you would find all the bookings that you have.
-
-You can delete a booking or add a reminder for it by simply clicking on the bell icon.
-
-<p align="center"><img src=./img/Rmeinder.png><p>
+Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
+tecta! Sive nunc petit presserat *iamque*: novorum foret.
 
 ## Removing a reminder for a booking
 
-Just like you can add a reminder for a booking, you can remove one.
+Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
+tecta! Sive nunc petit presserat *iamque*: novorum foret.
 
-To do that you need to open the Randev application, click on the dropdown menu on the top of the page. After that click on agenda and last my bookings. In this section you would find all the bookings that you have.
-
-Click on the bell icon and a pop-up would show up with an edit and a delete icons
-
-<p align="center"><img src=./img/DeleteReminder.png><p>
 
 ## Editing a booking
 
-You can also delete a booking.
+Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
+tecta! Sive nunc petit presserat *iamque*: novorum foret.
 
-To do so you need to open the Randev application, click on the dropdown menu on the top of the page. After that click on agenda and last my bookings. From there you can find a delete icon next to the booking.
 
-<p align="center"><img src=./img/Rmeinder.png><p>
 
 ## Accessing a store by QR code
+
+Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
+tecta! Sive nunc petit presserat *iamque*: novorum foret.
+
