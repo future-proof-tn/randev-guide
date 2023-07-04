@@ -1,115 +1,128 @@
 # دليل المستخدم
 
-Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
-superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
-Iamque **vineta nigri esse** cupit duae. Videnda in commisit his sub noxque
-conatur tulisti prudens, inter, se quid sub. Excipit barbarus et orbem talibus
-melioribus vultus tecta cruorem vagina non de servo Philemon!
+يوجد في هذا الدليل جميع المعلومات التي يحتاجها مستخدم تطبيق Randev للاستمتاع باستخدامه.
+
+تم تصميم Randev لمساعدة المستخدم في تعظيم الربح وتقليل ضياع الوقت.
+
+سيوجه هذا الدليل المستخدم خطوة بخطوة لفهم كيفية عمل Randev وما فائدة كل قسم فيه.
 
 ## تسجيل الدخول
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+هناك عدة طرق لتسجيل الدخول إلى التطبيق.
 
+أولا عليك فتح التطبيق. ثم اضغط على أيقونة القائمة المنسدلة ثم اضغط على تسجيل الدخول.
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+بمجرد دخولك إلى صفحة تسجيل الدخول ، سترى خيارات متعددة. أول واحد منهم هو الاستمرار مع جوجل. بنقرة واحدة بسيطة ويتم تسجيل دخولك.
+
+الخيار الثاني هو الاستمرار في Facebook.
+
+الخيار الأخير لتسجيل الدخول هو استخدام خيار تسجيل الدخول بالبريد الإلكتروني الذي يتطلب أن يكون لديك حساب بالفعل. إذا لم يكن لديك ، يمكنك استخدام خيار إنشاء حساب لإنشاء حساب.
+
+<p align="center"><img src=./img/login.ar.png><p>
 
 ## البحث عن محلّ / مزوّد خدمة
 
-Hector *sua*. Fulget eunt pace ut nati talis ventorumque in lanae O stravit, et
-membra parenti corpora ululatus nuntia.
+إحدى الميزات المثيرة التي يتمتع بها Randev هي البحث عن خدمات المتجر
 
-- Animumque genetrix arbor suspiria in ignotas
-- Apolline nec dedit gerens quaeque pervia causa
-- Illa ille numinis
-- Ubi passis telum docui nec positis
+أولا عليك فتح التطبيق
+
+ثم انقر ببساطة على زر البحث الموجود أعلى الصفحة.
+
+بعد ذلك اكتب اسم المتجر.
+
+<p align="center"><img src=./img/search.ar.png><p>
 
 ### البحث عن طريق الخرائط
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+يوفر تطبيقنا موقع المتجر الدقيق الذي يملأه صاحب العمل عند إنشاء متجره.
+
+للقيام بذلك تحتاج إلى فتح التطبيق والنقر فوق المتجر للتحقق من تفاصيله.
+
+<p align="center"><img src=./img/location.ar.png><p>
 
 ### البحث المتقدّم
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+إذا كنت تريد خيارات أكثر من مجرد البحث عن شركة باسمها أو خدمتها ، فيمكنك استخدام خيار البحث الأكثر تقدمًا الذي يحتوي على المزيد من المعايير التي يمكنك اتباعها.
+
+للقيام بذلك ، انقر فوق رمز التصفية في أعلى يمين الصفحة.
+
+<p align="center"><img src=./img/advancedsearch.ar.png><p>
 
 ## التثبّت من معطيات محل/مزوّد خدمة
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+يحتوي كل متجر على تفاصيل متعددة يملأها المالك عند إنشائه. يمكن أن تساعد هذه التفاصيل العميل في تحديد ما إذا كان يحتاج إلى الإنتفاع بالخدمة بواسطة هذا المتجر أم لا.
 
-### Checking out the Gallery
+للقيام بذلك يحتاج العميل إلى فتح تطبيق Randev ثم الضغط على بطاقة المتجر التي يريد التحقق من تفاصيلها.
 
-### Checking out the opening times
+<p align="center"><img src=./img/details.ar.png><p>
 
-### Checking out the services
+### التحقق من صور الأعمال
 
-### Checking out the reviews
+يتمتع كل صاحب متجر برفاهية إضافة صور أعماله الخاصة إلى صفحة التفاصيل. في الواقع ، هذه هي الطريقة الأكثر فعالية لتحسين رؤية عمله.
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+كمستخدم ، من أجل التحقق من  صور الأعمال ، كل ما عليك فعله هو فتح تطبيق Randev ، والنقر فوق بطاقة المتجر التي تريد التحقق منها وستجد صور أعمال هذا المتجر أعلى الصفحة.
 
-## Adding a store review
+### التحقق من مواعيد العمل
 
-Hector *sua*. Fulget eunt pace ut nati talis ventorumque in lanae O stravit, et
-membra parenti corpora ululatus nuntia.
+هذه الميزة تجعل الحجوزات أسهل لكل من المالك والعميل. حيث يوفر الأول جلسات العمل الخاصة به ويجدها الأخير في Randev دون الحاجة إلى الذهاب فعليًا إلى المتجر.
 
-- Animumque genetrix arbor suspiria in ignotas
-- Apolline nec dedit gerens quaeque pervia causa
-- Illa ille numinis
-- Ubi passis telum docui nec positis
+يجد العميل هذه التوقيتات في صفحة تفاصيل المتجر.
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+<p align="center"><img src=./img/workhours.ar.png><p>
 
-## Performing a booking
+### التحقق من الخدمات
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+تتيح هذه الميزة للعميل الاطلاع على جميع الخدمات التي يقدمها المتجر. يمكن أن يكون للمتجر خدمات متعددة ويمكن للعميل التحقق منها جميعًا في هذا القسم.
 
-## Adding a reminder for a booking
+للقيام بذلك ، يحتاج العميل إلى فتح تطبيق Randev ، انقر فوق بطاقة المتجر التي يريد التحقق منها وانتقل لأسفل إلى الخدمات.
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+<p align="center"><img src=./img/services.ar.png><p>
 
-## Removing a reminder for a booking
+### التحقق من المراجعات
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+لا تستطيع أن تقرر أي متجر تختار؟ هذا هو المكان الذي تشرق فيه ميزة المراجعات. يمكنك ببساطة معرفة ما أعطاه العملاء الآخرون كتقييمات لكل منهم لمساعدتك على اتخاذ قرار.
+
+يظهر هذا بجوار اسم المتجر على بطاقته.
+
+<p align="center"><img src=./img/ratings.ar.png><p>
+
+## إضافة مراجعة المتجر
+
+هل تعاملت مع متجر وأعجبك خدمتهم؟ لماذا لا تترك تعليقًا لهم حتى يدرك العملاء الآخرون مدى روعة هذا المتجر!
+
+للقيام بذلك ، تحتاج إلى فتح تطبيق Randev ، والنقر على بطاقة المتجر التي تريد مراجعتها ، والنقر على أيقونة النجوم ، ثم إعطاء تقييمك الخاص مع تعليق إذا أردت وإرساله.
+
+<p align="center"><img src=./img/avis.ar.png><p>
+
+## إجراء الحجز
+
+تتيح جميع الميزات المذكورة أعلاه  للعميل في النهاية إجراء الحجز. هذه هي الميزة المحورية للتطبيق. يتحقق العميل من جميع المعلومات الواردة أعلاه ثم يقرر متى وأين يقوم بالحجز.
+
+وللقيام بذلك يحتاج العميل إلى الوصول إلى صفحة تفاصيل المتجر ثم الضغط على الخدمة التي يحتاجها ثم الضغط على حجز هذه الخدمة.
+
+<p align="center"><img src=./img/Book.ar.png><p>
+
+## إضافة تذكير للحجز
+
+بعد إجراء الحجز ، قد تحتاج إلى تذكير حتى لا تنساه.
+
+للقيام بذلك ، تحتاج إلى فتح تطبيق Randev ، انقر فوق القائمة المنسدلة في الجزء العلوي من الصفحة. بعد ذلك اضغط على البرنامج وأخيراً مواعيدي. ستجد في هذا القسم جميع الحجوزات التي لديك.
+
+يمكنك حذف حجز أو إضافة تذكير له بمجرد النقر على أيقونة الجرس.
+
+<p align="center"><img src=./img/reminder.ar.png><p>
+
+## إزالة تذكير للحجز
+
+مثلما يمكنك إضافة تذكير للحجز ، يمكنك إزالة واحد.
+
+للقيام بذلك ، تحتاج إلى فتح تطبيق Randev ، انقر فوق القائمة المنسدلة في الجزء العلوي من الصفحة. بعد ذلك اضغط على البرنامج وأخيراً مواعيدي. ستجد في هذا القسم جميع الحجوزات التي لديك.
+
+انقر فوق رمز الجرس وستظهر نافذة منبثقة تحتوي على أيقونات تغيير وحذف
+
+<p align="center"><img src=./img/DeleteReminder.ar.png><p>
 
 
-## Editing a booking
-
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
 
 
-
-## Accessing a store by QR code
-
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
 
