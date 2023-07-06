@@ -36,17 +36,37 @@ Si vous le souhaitez, vous pouvez également voir la localisation de la boutique
 
 Pour accéder à la recherche avancée,Utilisez les différents critères de recherche disponibles pour affiner vos résultats de recherche. Vous pouvez utiliser des filtres tels que la localisation, le prix, ou tout autre critère disponible.
 
+vous pouvez entrer le nom du service.
+
+Utiliser votre location actuelle.
+
+Ajouter un rayon a ne pas depasser.
+
+Choisir combien d'etoiles la boutique a comme un miminum.
+
+Choisir le prix minimum et maximum.
+
 Une fois que vous avez défini les critères de recherche, cliquez sur "Rechercher" pour lancer la recherche avancée.
 
-Les résultats de la recherche s'afficheront sous forme de liste.
+Vous pouvez contacter directement la boutique ou réserver le service via l'application.
 
-Si vous trouvez une boutique ou un service qui vous intéresse, vous pouvez l'ajouter à vos favoris ou contacter directement la boutique ou réservé le service via l'application.
+## Liste de favoris
+
+Si vous trouvez une boutique ou un service qui vous intéresse, vous pouvez l'ajouter à vos favoris.
+
+Pour faire ceci vous devez:
+
+Ouvrir l'application Randev.
+
+Clicker sur la carte de la boutique.
+
+Clicker sur le cœur en haut de la page.
 
 <p align="center"><img src=./img/RechercheAvancée.fr.png><p>
 
-## Vérification des attributs de la boutique
+## Explorer les détails de la boutique
 
-Vous pouvez cliquer sur chaque résultat pour en savoir plus sur la boutique ou le service, notamment l'adresse, les horaires d'ouverture , les services et les avis des utilisateurs.
+Une fois que vous aurez trouvé une boutique qui vous intresse, Randev vous permet de la visiter sans quitter votre siège. Il vous suiffit de cliquer sur la carte de la boutique pour accéder au détails suivant.
 
 ### Gallerie photos de la boutique
 
@@ -78,13 +98,15 @@ Vous pouvez partager votre avis avec d'autres utilisateurs et aider à améliore
 
 ## Effectuer une réservation
 
-Vous pouvez réserver facilement des services proposés dans l'application. Consultez les disponibilités et les tarifs pour les dates et heures souhaitées.
+Vous pouvez réserver facilement des services proposés dans l'application. 
+
+Consultez les disponibilités et les tarifs pour les dates et heures souhaitées.
 
 Sélectionnez la date et l'heure qui vous conviennent le mieux.
 
-Choisissez le type de service que vous souhaitez réserver.
+Choisissez le service que vous souhaitez réserver.
 
-Entrez les informations requises pour la réservation, Vérifiez que toutes les informations de réservation sont correctes et validez votre réservation en appuyant sur le bouton "Réserver".
+validez votre réservation en appuyant sur le bouton "Réserver".
 
 <p align="center"><img src=./img/reserve.fr.png><p>
 
@@ -92,7 +114,7 @@ Entrez les informations requises pour la réservation, Vérifiez que toutes les 
 
 Vous pouvez ajouter un rappel pour vos réservations afin de ne pas manquer votre service réservé. Recherchez le bouton d'Ajouter un rappel dans le calendrier ,
 
-Définissez le moment du rappel, Vous pouvez généralement choisir de recevoir un rappel quelques minutes, heures ou jours avant votre service réservé.
+Définissez le moment du rappel, Vous pouvez généralement choisir de recevoir un rappel en 15 minutes, 30 minutes ou bien une heure.
 
 Vérifiez que toutes les informations sont correctes, puis appuyez sur le bouton "Ajouter".
 

@@ -6,39 +6,70 @@ Randev is made to help the user with maximising the profit and minimising the ti
 
 This guide will walk the user step by step to understand how Randev works and what is the utility of each section in it.
 
-## Logging into the application
+## Login
 
 There are multiple ways to login into the application.
 
 First of all you need to open the application, click on the menu dropdown icon then click on login.
 
-as soon as you are in the Login page, you will see multiple choices. The first one of them is to continue with Google. With one simple click and you are logged in.
+as soon as you are in the Login page, you will see multiple choices. 
+
+### Google
+
+The first one of them is to continue with Google.
+
+once in the login page just click on log in with Google.
+
+### Facebook
 
 The second option is to continue with Facebook.
 
-The last option to login is to use the sign in with Email option that requires you to already have an account. Which if you do not have you can use the create an account option to make one.
+once in the login page just click on log in with Facebook.
+
+### Existing account
+
+The last option to login is to use the sign in with Email option.
+
+ that requires you to already have an account. 
+ 
+ Which if you do not have you can use the create an account option to make one.
 
 <p align="center"><img src=./img/Login.jpg><p>
 
-## Searching for a store
+## Searching a store
 
-One of the exciting features Randev has is the search for a store feature
+### search by sector
+### Quick search
 
-First of you need to open the application
+If you are looking for a store with a specific name, Randev makes this as simple as:
 
-Then simply click on the search button that is on top of the page.
+opening the application
 
-After that type in the name of the store.
+Clicking on the search icon in the top of the home screen
+
+entering the name you are looking for
+
+Clicking on the search icon
+
+You can now see all the stores whose name are similar to the text you entered in the search field
 
 <p align="center"><img src=./img/search.jpg><p>
 
-### Locating the store on the map
+### Advanced search
+
+
+
+### Advanced search from the map
 
 Our application provides the exact store location that the business owner fills in when creating his store.
 
 To check where the store is you need to open the application and click on the store to check its details.
 
 <p align="center"><img src=./img/Location.png><p>
+
+### Locating the store on the map
+
+
 
 ### Refining the search criteria
 
@@ -47,14 +78,6 @@ If you want more options than just looking up a business by its name or its serv
 to do so click on the filter icon on the top right of the page.
 
 <p align="center"><img src=./img/AdvancedSearch.jpg><p>
-
-## Checking out store details
-
-Each store has multiple details filled by the owner when created. Those details can help the client decide if he needs the service to be provided by that store or not.
-
-To do that the client needs to open the Randev application then click on the card of the store that he wants to check its details.
-
-<p align="center"><img src=./img/Details.png><p>
 
 ### Checking out the Gallery
 
@@ -82,7 +105,7 @@ To do that the client needs to open the Randev application, click on the store c
 
 Can't decide which store to choose? This is where the reviews feature shines. You can simply see what other clients gave as ratings for each one to help you make up your mind.
 
-This shows up right next to the store name on its card.
+you can find the star rating next to the name of the store.
 
 <p align="center"><img src=./img/ratings.png><p>
 
@@ -94,11 +117,15 @@ To do that you need to open the Randev application, click on the store card that
 
 <p align="center"><img src=./img/review.png><p>
 
-## Performing a booking
+## Booking a service
 
 All of the above features are made so that the client can finally perform a booking. This is the pivotal feature of the application. the client checks all of information above and then decides when and where to make his booking.
 
-In order to do that the client needs to access the store details page then click on the service that he needs then click on book this service.
+In order to do that the client needs to access the store details page 
+
+ click on the service that he needs 
+ 
+ click on book this service.
 
 <p align="center"><img src=./img/book.png><p>
 
@@ -106,9 +133,15 @@ In order to do that the client needs to access the store details page then click
 
 After you have made a booking, you might need a reminder so you don't forget it.
 
-To do that you need to open the Randev application, click on the dropdown menu on the top of the page. After that click on agenda and last my bookings. In this section you would find all the bookings that you have.
+To do that you need to 
 
-You can delete a booking or add a reminder for it by simply clicking on the bell icon.
+ Open the Randev application
+ 
+ Click on the dropdown menu on the top of the page
+ 
+ Click on agenda and last my bookings
+ 
+ In this section you would find all the bookings that you have.
 
 <p align="center"><img src=./img/Rmeinder.png><p>
 
@@ -116,7 +149,13 @@ You can delete a booking or add a reminder for it by simply clicking on the bell
 
 Just like you can add a reminder for a booking, you can remove one.
 
-To do that you need to open the Randev application, click on the dropdown menu on the top of the page. After that click on agenda and last my bookings. In this section you would find all the bookings that you have.
+To do that you need to open the Randev application
+
+ Click on the dropdown menu on the top of the page
+ 
+ Click on agenda and last my bookings
+ 
+ In this section you would find all the bookings that you have.
 
 Click on the bell icon and a pop-up would show up with an edit and a delete icons
 
