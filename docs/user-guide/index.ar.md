@@ -1,115 +1,124 @@
 # دليل المستخدم
 
-Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
-superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
-Iamque **vineta nigri esse** cupit duae. Videnda in commisit his sub noxque
-conatur tulisti prudens, inter, se quid sub. Excipit barbarus et orbem talibus
-melioribus vultus tecta cruorem vagina non de servo Philemon!
+هاذا دليل المستخدم لتطبيق رندف.
+يسخر هاذا الدليل جميع المعلومات اللازمة للإستمتاع وإستخدام تطبيق رندف.
+
+هذه هي الخطوات لكي تستعمل التطبيق:  
+
+## قم بتحميل التطبيق من المتجر.
 
 ## تسجيل الدخول
+لتسجيل الدخول في تطبيق رندف يوجد ثلاث طرق.
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+إستعمال حساب Google.
 
+إستعمال حساب Facebook.
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+او الدخول بحسابك الشخصي بعد إنشاإه.
+
+<p align="center"><img src=./img/login.ar.png><p>
 
 ## البحث عن محلّ / مزوّد خدمة
+توفر لك رندف إمكانية البحث عن المتجر المرغوب فيه.
 
-Hector *sua*. Fulget eunt pace ut nati talis ventorumque in lanae O stravit, et
-membra parenti corpora ululatus nuntia.
+للقيام بذالك عليك
 
-- Animumque genetrix arbor suspiria in ignotas
-- Apolline nec dedit gerens quaeque pervia causa
-- Illa ille numinis
-- Ubi passis telum docui nec positis
+أولا فتح التطبيق
+
+ثم انقر ببساطة على زر البحث الموجود أعلى الصفحة.
+
+بعد ذلك اكتب اسم المتجر.
+
+<p align="center"><img src=./img/search.ar.png><p>
 
 ### البحث عن طريق الخرائط
+يقوم موفر الخدمة بإدخال الموقع لمتجره ويمكن للمستخدم رؤية هاذا الموقع و البحث به عن المتجر.
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+<p align="center"><img src=./img/location.ar.png><p>
 
 ### البحث المتقدّم
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+رندف يوفر لك إمكانية البحث المتقدم بخاصيات اخرى اكثر من الإسم
+
+للقيام بذلك ، انقر فوق رمز التصفية في أعلى يمين الصفحة.
+
+<p align="center"><img src=./img/advancedsearch.ar.png><p>
 
 ## التثبّت من معطيات محل/مزوّد خدمة
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+يقوم مزود الخدمة بإدخال جميع المعطيات اللازمة عند صناعة المتجر ويمكن للمستخدم رؤية هاذه المعطيات
 
-### Checking out the Gallery
+للقيام بذلك يحتاج العميل إلى فتح تطبيق رندف ثم الضغط على بطاقة المتجر التي يريد التحقق من تفاصيلها.
 
-### Checking out the opening times
+<p align="center"><img src=./img/details.ar.png><p>
 
-### Checking out the services
+### التحقق من صور الأعمال
 
-### Checking out the reviews
+يقوم صاحب الخدمة بإدراج صور لاعاله ويمكن للمستعمل مشاهدتها.
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+كمستخدم ، من أجل التحقق من  صور الأعمال ، كل ما عليك فعله هو فتح تطبيق رندف ، والنقر فوق بطاقة المتجر التي تريد التحقق منها وستجد صور أعمال هذا المتجر أعلى الصفحة.
 
-## Adding a store review
+### التحقق من مواعيد العمل
 
-Hector *sua*. Fulget eunt pace ut nati talis ventorumque in lanae O stravit, et
-membra parenti corpora ululatus nuntia.
+يوفر تطبيق رندف إماكنية التحقق من اوفات العمل للمتجر الذي يريد زيارتته.
 
-- Animumque genetrix arbor suspiria in ignotas
-- Apolline nec dedit gerens quaeque pervia causa
-- Illa ille numinis
-- Ubi passis telum docui nec positis
+يجد العميل هذه التوقيتات في صفحة تفاصيل المتجر.
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+<p align="center"><img src=./img/workhours.ar.png><p>
 
-## Performing a booking
+### التحقق من الخدمات
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+علاوة عن المواعيد يوفر تطبيق رندف إمكانية الاتكد من الخدمات التي يوفرها المتجر و رؤية وصف موجز لكل خدمة.
 
-## Adding a reminder for a booking
+للقيام بذلك ، يحتاج العميل إلى فتح تطبيق رندف ، انقر فوق بطاقة المتجر التي يريد التحقق منها وانتقل لأسفل إلى الخدمات.
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+<p align="center"><img src=./img/services.ar.png><p>
 
-## Removing a reminder for a booking
+### التحقق من المراجعات
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+يقوم عدة مستعملين بتقييم المتاجر الذين تعاملوا معهم و يمكن للمستخدم التحقق من هاذه التقييمات.
+
+يظهر هذا بجوار اسم المتجر على بطاقته.
+
+<p align="center"><img src=./img/ratings.ar.png><p>
+
+## إضافة مراجعة المتجر
+
+إذا كنت قد تعاملت مع متجر واعجبتك الخدمة التي يقدمونها يمكنك تقييم المتجر بنفسك.
+
+للقيام بذلك ، تحتاج إلى فتح تطبيق رندف ، والنقر على بطاقة المتجر التي تريد مراجعتها ، والنقر على أيقونة النجوم ، ثم إعطاء تقييمك الخاص مع تعليق إذا أردت وإرساله.
+
+<p align="center"><img src=./img/avis.ar.png><p>
+
+## إجراء الحجز
+
+تعتبر هاذه الخاصية الاهم في التطبيق. إذ تسخر إمكانية القيام بحجز في اي وقت تتوفر فه الخدمة.
+
+وللقيام بذلك يحتاج المستخدم إلى الوصول إلى صفحة تفاصيل المتجر ثم الضغط على الخدمة التي يحتاجها ثم الضغط على حجز هذه الخدمة.
+
+<p align="center"><img src=./img/Book.ar.png><p>
+
+## إضافة تذكير للحجز
+
+قمت بحجز ولا تريد ان تنساه؟ يمكنك القيام بإجراء تذكير للنوعد.
+
+للقيام بذلك ، تحتاج إلى فتح تطبيق رندف ، انقر فوق القائمة المنسدلة في الجزء العلوي من الصفحة. بعد ذلك اضغط على البرنامج وأخيراً مواعيدي. ستجد في هذا القسم جميع الحجوزات التي لديك.
+
+يمكنك حذف حجز أو إضافة تذكير له بمجرد النقر على أيقونة الجرس.
+
+<p align="center"><img src=./img/reminder.ar.png><p>
+
+## إزالة تذكير للحجز
+
+يمكنك إزالة تذكير بعد إضافته.
+
+للقيام بذلك ، تحتاج إلى فتح تطبيق رندف ، انقر فوق القائمة المنسدلة في الجزء العلوي من الصفحة. بعد ذلك اضغط على البرنامج وأخيراً مواعيدي. ستجد في هذا القسم جميع الحجوزات التي لديك.
+
+انقر فوق رمز الجرس وستظهر نافذة منبثقة تحتوي على أيقونات تغيير وحذف
+
+<p align="center"><img src=./img/DeleteReminder.ar.png><p>
 
 
-## Editing a booking
-
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
 
 
-
-## Accessing a store by QR code
-
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
 
