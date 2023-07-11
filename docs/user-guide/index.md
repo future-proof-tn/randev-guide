@@ -17,27 +17,38 @@ In order to enjoy using our application you need to make an account.
    -Password
    -Surname
    -Name
-   -Phone number
+   -Phone number that you have to verify with an SMS that you recieve with 6 numbers in it.
    -An optional birthdate
 
 ## Logging into the application
 
-There are multiple ways to login into the application.
+There are three ways to login into the application.
 
- -First of all you need to open the application
- -click on the menu dropdown icon 
- -click on login.
+-Login with Google
+ --Open the Randev application
+ --Click on the dropdown menu icon
+ --Click on login
+ --Click on continue with Google
 
-as soon as you are in the Login page, you will see multiple choices. 
-  -The first one of them is to continue with Google. With one simple click and you are logged in.
-  -The second option is to continue with Facebook.
-  -The last option to login is to use the sign in with Email option that requires you to already have an account. Which if you do not have you can use the create an account option to make one.
+-Login with Facebook
+ --Open the Randev application
+ --Click on the dropdown menu icon
+ --Click on login
+ --Click on continue with Facebook
+
+ -Login with an account
+ --Open the Randev application
+ --Click on the dropdown menu icon
+ --Click on login
+ --Click on continue with email and to do this you must create an account like the previous section shows then enter the right email and password
 
 <p align="center"><img src=./img/Login.jpg><p>
 
 ## Searching for a store
 
 One of the exciting features Randev has is the search for a store feature
+
+### Quick search
 
   -need to open the application
   -click on the search button that is on top of the page.
@@ -49,8 +60,12 @@ One of the exciting features Randev has is the search for a store feature
 
 Our application provides the exact store location that the business owner fills in when creating his store.
 
-To check where the store is you need to open the application and click on the store to check its details.
+To check where the store is you need to
 
+ -Open the Randev application
+ -Click on the dropdown menu icon
+ -Click on map
+ 
 <p align="center"><img src=./img/Location.png><p>
 
 ### Refining the search criteria
@@ -71,14 +86,6 @@ To do that the client needs to
   -click on the card of the store that he wants to check its details.
 
 <p align="center"><img src=./img/Details.png><p>
-
-### Checking out the Gallery
-
-Every store owner has the luxury to add pictures of his own work to the details page. In a matter of fact, that is the most effective way to improve the visibility of his work.
-
-as a user, in order to check out the gallery all you have to do is 
-  -open the Randev application
-  -click on the card of the store that you want to check out and you will find the gallery of that store on top of the page.
 
 ### Checking out the opening times
 

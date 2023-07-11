@@ -19,28 +19,39 @@ Pour utiliser Randev il faut créer un compte. Pour faire ceci il faut
    -Mot de passe
    -Prénom
    -Nom
-   -Numéro de téléphone.
+   -Numéro de téléphone que vous devez confirmer avec un SMS qui vous donne un numéro à 6 chiffres à fournir à l'application.
    -Une date de naissance qui est optionelle.
 
 ## Connection avec un compte d'utilisateur
 
 Il existe plusieurs façons de se connecter à l'application.
 
-  -Vous devez d'abord ouvrir l'application. 
-  -cliquez sur l'icône du menu déroulant
-  -cliquez sur connexion.
+Vous avez trois foçons de vous connecter
 
-dès que vous êtes dans la page de connexion, vous verrez plusieurs choix. 
-  -Le premier d'entre eux est de continuer avec Google. Un simple clic et vous êtes connecté.
-  -Il y'a l'option de se connecter avec Facebook.
-  -La dernière option pour vous connecter consiste à utiliser l'option de connexion avec e-mail qui nécessite que vous ayez déjà un compte. Si vous n'en avez pas, vous pouvez utiliser l'option Créer un compte pour en créer un.
+-Connexion avec google
+ --Ouvrez l'application
+ --Ouvrez le menu déroulant
+ --Cliquez sur " continuer avec Google"
+
+-Connexion avec Facebook
+ --Ouvrez l'application
+ --Ouvrez le menu déroulant
+ --Cliquez sur " continuer avec Facebook"
+
+-Connexion avec un compte existant
+ --Ouvrez l'application
+ --Ouvrez le menu déroulant
+ --Cliquez sur " continuer avec email" Pour utilier cette methode de connexion vous devez deja avoir creéer un compte comme le montre la section dessus et il faut avoir un email et un mot de passe correct
 
 ## Recherche de boutique / service
 
+Notre application vous permet de rechercher n'importe quel boutique ou service que vous souhaitez.
+
+### Recherche rapide
+
   -Ouvrez l'application
   -accédez à l'onglet "Recherche" dans le menu principal de l'application.
-
-Tapez le nom de la boutique ou du service que vous recherchez dans la barre de recherche.
+  -Tapez le nom de la boutique ou du service que vous recherchez dans la barre de recherche.
 
 <p align="center"><img src=./img/Recherche.fr.png><p>
 
@@ -48,11 +59,20 @@ Tapez le nom de la boutique ou du service que vous recherchez dans la barre de r
 
 Si vous le souhaitez, vous pouvez également voir la localisation de la boutique sur la carte.
 
+Pour faire ceci il faut
+
+ -Ouvrir l'application Randev
+ -Cliquer sur l'icone du menu déroulant
+ -Cliquer sur carte
+
 <p align="center"><img src=./img/Location.fr.png><p>
 
 ### Recherche avancée
 
-Pour accéder à la recherche avancée,Utilisez les différents critères de recherche disponibles pour affiner vos résultats de recherche. 
+Pour accéder à la recherche avancée,Utilisez les différents critères de recherche disponibles pour affiner vos résultats de recherche il faut
+
+   -Ouvrir l'application Randev
+   -Cliquer sur l'icone de filtre en haut de la page
 
  Vous pouvez utiliser des filtres tels que 
 
@@ -72,10 +92,6 @@ Si vous trouvez une boutique ou un service qui vous intéresse, vous pouvez l'aj
 ## Vérification des attributs de la boutique
 
 Vous pouvez cliquer sur chaque résultat pour en savoir plus sur la boutique ou le service, notamment l'adresse, les horaires d'ouverture , les services et les avis des utilisateurs.
-
-### Gallerie photos de la boutique
-
-après avoir accédez à la boutique que vous souhaitez explorer,vous trouverez la galerie de photos en haut . Faites défiler a droite et a gauche pour voir toutes les photos de la boutique. Vous pouvez zoomer sur chaque photo .
 
 ### Horaires d'ouverture de la boutique
 
@@ -106,7 +122,7 @@ Vous pouvez partager votre avis avec d'autres utilisateurs et aider à améliore
 Vous pouvez réserver des services proposés dans l'application.
 
    -Sélectionnez le service que vous souhaitez réserver
-   -Vous pouvez (oprionellement) choisir la personnes qui vous offre le service
+   -Vous pouvez (optionellement) choisir la personnes qui vous offre le service
    -Sélectionnez la jour de la réservation
    -Sélectionnez l'intervalle de temps qui vous convient le mieux
    -Clicker sur le bouton "réservez"
