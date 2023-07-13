@@ -1,58 +1,37 @@
 # Guide de l'employé
 
-Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
-superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
-Iamque **vineta nigri esse** cupit duae. Videnda in commisit his sub noxque
-conatur tulisti prudens, inter, se quid sub. Excipit barbarus et orbem talibus
-melioribus vultus tecta cruorem vagina non de servo Philemon!
+Bienvenue dans le guide de l'employé ! Ce guide vous aidera à comprendre les attentes et les responsabilités de votre rôle en tant qu'employé, ainsi que les politiques et procédures du magasin. si vous avez d'autres questions, n'hésitez pas à nous contacter!
 
-## Store owner invitation
+## Invitation du propriétaire du magasin
 
-## Instant booking
+Pour devenir un membre du personnel d'une boutique,le propriétaire doit vous envoyer une invitation au préalable. Vérifier la cloche barre de notification en haut de l'écran pour pour accéder à l'invitation. Vous aurez alors le choix de :
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+Accepter l'invitation : vous devenez alors un membre de staff confirmé, votre interface changera pour vous donner l'accès à votre boutique.
 
-## Manage bookings
+Refuser l'invitation: rien ne changera pour vous et aucun lien ne sera effectué entre votre compte et le magasin duquel vous avez reçu l'invitation.
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+<p align="center"><img src=./img/invitationstaff.fr.png><p>
 
-### Check my calendar
+## Réservation instantanée
 
-### Modify booking
+Si un client de vos client n'est pas un utilisateur de randev, vous pouvez toujours continuer à gérer vos réservations via l'application grâce à la fonctionnalitée de la 'Réservation instantanée'. Cette réservation vous sera automatiquement attribué et vous pourrez la consulter dans votre calendrier de travail.
 
-### Cancel booking
+<p align="center"><img src=./img/instantbooking.fr.png><p>
 
-## Inviting Staff to your store
+## Consulter les réservations
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+Vous devez verifier que votre calendrier soit à jour et qu'il dispose de politiques claires pour éviter tout problème .
 
+### Consulter mon calendrier
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+Vous pouvez acceder a votre calendrier et voir toutes vos reservations .
 
+<p align="center"><img src=./img/calendar.fr.png><p>
 
-## Sharing store with clients
+## Partager le magasin avec les clients
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+Pour partager votre magasin avec vos client , vous vouvez le faire avec le QR code ou par transfer de votre lien .
 
-### Via link
+### Par lien
 
-### Via QR code
-
-## Managing calendar (time-off & holidays)
+### Par code QR

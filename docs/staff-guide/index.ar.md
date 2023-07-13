@@ -1,58 +1,60 @@
 # دليل المستخدمين
 
-Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
-superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
-Iamque **vineta nigri esse** cupit duae. Videnda in commisit his sub noxque
-conatur tulisti prudens, inter, se quid sub. Excipit barbarus et orbem talibus
-melioribus vultus tecta cruorem vagina non de servo Philemon!
+هل أنت موظف في متجر؟ هذا الدليل موجهٌ لك لتستعمل تطبيق رندف.
 
-## Store owner invitation
+اتبع الخطوات التالية وستتمكن من الاستمتاع باستخدام رندف في أي وقت من الأوقات.
 
-## Instant booking
+## دعوة صاحب المتجر
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+لكي تصبح موظفًا في أحد المتاجر ، عليك الحصول على دعوة من مالك المتجر أولاً والتي ستظهر في قسم الإشعارات. يمكنك قبول الدعوة أو رفضها.
 
-## Manage bookings
+للقيام بذلك ، تحتاج إلى فتح تطبيق رندف
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+ثم النقر فوق رمز الإشعار في أعلى اليسار
+واختيار قبول العرض أو رفضه.
 
-### Check my calendar
+<p align="center"><img src=./img/invitationstaff.ar.png><p>
 
-### Modify booking
+## الحجز الفوري
 
-### Cancel booking
+أحد حرفائك لا يمتلك تطبيق رندف ؟ يمكنك إستعمال خاصية الحجز الفوري لكي تقوم بالحجز له
 
-## Inviting Staff to your store
+للقيام بذلك ،
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+افتح تطبيق رندف ،
 
+وانقر على أيقونة القائمة المنسدلة ،
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+وانقر على متجري ثم الحجز الفوري.
 
+سيعيد توجيهك إلى صفحة حيث يجب عليك تقديم رقم هاتف العميل ، اسمه ، وما الخدمة التي يريدها ويوجد زر الذي يظهر جدول المواعيد عند النقر عليه في حالة رغبته في الحجز في يوم آخر
 
-## Sharing store with clients
+<p align="center"><img src=./img/instantbooking.ar.png><p>
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+## إدارة الحجوزات
 
-### Via link
+يحتاج الموظفون إلى الحصول على معلومات كاملة حول موعد الحجوزات والأشخاص .
 
-### Via QR code
+### تحقق من جدول المواعيد الخاص بي
 
-## Managing calendar (time-off & holidays)
+كن على اطلاع دائم بالحجوزات القادمة .
+
+جدول المواعيد هو ميزة مهمة تسهل تنظيم الوقت للموظفين.
+
+للتحقق من جدول المواعيد الخاص بك ، تحتاج إلى فتح تطبيق رندف ،
+
+النقر فوق رمز القائمة المنسدلة ،
+
+النقر فوق البرنامج
+
+ثم النقر فوق جدول عملي .
+
+<p align="center"><img src=./img/calendar.ar.png><p>
+
+## مشاركة المتجر مع العملاء
+
+يمكنك دائمًا مشاركة متجرك مع عملائك عبر رابط أو عبر رمز الاستجابة السريعة فماذا تنتظر؟
+
+### عبر رابط
+
+### عبر رمز الاستجابة السريعة

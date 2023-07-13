@@ -1,58 +1,59 @@
 # Store staff guide
 
-Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
-superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
-Iamque **vineta nigri esse** cupit duae. Videnda in commisit his sub noxque
-conatur tulisti prudens, inter, se quid sub. Excipit barbarus et orbem talibus
-melioribus vultus tecta cruorem vagina non de servo Philemon!
+Welcome to Randev. In this guide we are about to show you what each section is for as a staff member.
+
+Follow the steps below and you will be able to enjoy using Randev in no time.
 
 ## Store owner invitation
 
+In order to become a staff member in a store you need to get a store owner invitation first which will show up in your notification section that you can accept or decline.
+
+To do so you need to open the Randev application 
+
+click on the notification icon on the top right
+
+choose to accept or refuse the offer.
+
+<p align="center"><img src=./img/invitationstaff.png><p>
+
 ## Instant booking
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+If a client showed up without a booking or simply that is not a Randev user you can simply instantly book for him.
+
+To do so open the Randev application, 
+
+click on the drop down menu icon, 
+
+click on my store then instant booking.
+
+it will redirect you to a page where you should provide the phone number of the client, an optional name field, which service does he want and there is a de-activated button that when clicked brings up the calendar in case he wants the booking for another day
+
+<p align="center"><img src=./img/InstantBooking.png><p>
 
 ## Manage bookings
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+Staff members need to have full information on when the bookings are and to who they are being provided to avoid double booking problems and last minute cancellations.
 
 ### Check my calendar
 
-### Modify booking
+Keep yourself up to date with what bookings you have coming up that day or even the days to come.
 
-### Cancel booking
+The calendar is an important feature that facilitates time organisation for the staff members.
 
-## Inviting Staff to your store
+To check your calendar you need to open the Randev application, 
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+click on the drop down menu icon, 
 
+click on agenda 
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+click on my work schedule.
 
+<p align="center"><img src=./img/calendar.png><p>
 
 ## Sharing store with clients
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+You can always share your store with your clients via link or via QR code so what are you waiting for?
 
 ### Via link
 
 ### Via QR code
-
-## Managing calendar (time-off & holidays)
