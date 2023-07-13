@@ -1,115 +1,136 @@
 # دليل المستخدم
 
-Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
-superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
-Iamque **vineta nigri esse** cupit duae. Videnda in commisit his sub noxque
-conatur tulisti prudens, inter, se quid sub. Excipit barbarus et orbem talibus
-melioribus vultus tecta cruorem vagina non de servo Philemon!
+يوجد في هذا الدليل جميع المعلومات التي يحتاجها مستخدم تطبيق رندف للاستمتاع باستخدامه.
+
+تم تصميم رندف لمساعدة المستخدم في كسب المزيد من المال و الوقت.
+
+سيوجه هذا الدليل المستخدم خطوة بخطوة لفهم كيفية عمل رندف وما فائدة كل قسم فيه.
 
 ## تسجيل الدخول
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+هناك عدة طرق لتسجيل الدخول إلى التطبيق.
 
+أولا عليك فتح التطبيق. ثم اضغط على أيقونة القائمة المنسدلة ثم اضغط على تسجيل الدخول.
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+بمجرد دخولك إلى صفحة تسجيل الدخول ، سترى عدة خيارات.
+أول واحد منهم هو تسجيل الدخول باستخدام جوجل. بنقرة واحدة بسيطة ويتم تسجيل دخولك.
+
+الخيار الثاني هو تسجيل الدخول باستخدام فايسبوك.
+
+الخيار الأخير لتسجيل الدخول هو استخدام البريد الإلكتروني الذي يتطلب أن يكون - لديك حساب بالفعل. إذا لم يكن لديك ، يمكنك استخدام خيار إنشاء حساب.
+
+<p align="center"><img src=./img/login.ar.png><p>
 
 ## البحث عن محلّ / مزوّد خدمة
 
-Hector *sua*. Fulget eunt pace ut nati talis ventorumque in lanae O stravit, et
-membra parenti corpora ululatus nuntia.
+إحدى الميزات التي يتمتع بها رندف هي البحث عن خدمات المتجر
 
-- Animumque genetrix arbor suspiria in ignotas
-- Apolline nec dedit gerens quaeque pervia causa
-- Illa ille numinis
-- Ubi passis telum docui nec positis
+- أولا عليك فتح التطبيق
+
+- ثم انقر ببساطة على زر البحث الموجود أعلى الصفحة.
+
+- بعد ذلك اكتب اسم المتجر.
+
+<p align="center"><img src=./img/search.ar.png><p>
 
 ### البحث عن طريق الخرائط
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+يوفر تطبيقنا موقع المتجر الذي يملأه صاحب العمل عند إنشاء متجره.
+
+للقيام بذلك تحتاج إلى
+
+- فتح التطبيق
+- والنقر فوق القائمة المنسدلة
+- ثم الضغط على الخريطة .
+
+<p align="center"><img src=./img/location.ar.png><p>
 
 ### البحث المتقدّم
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+إذا كنت تبحث على فئة معينة فنحن نوفر لك معايير تساعدك على البحث
+
+للقيام بذلك ، انقر فوق رمز التصفية في أعلى يسار الصفحة.
+
+<p align="center"><img src=./img/advancedsearch.ar.png><p>
 
 ## التثبّت من معطيات محل/مزوّد خدمة
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+يحتوي كل متجر على تفاصيل متعددة. يمكن أن تساعد هذه التفاصيل الحريف في تحديد ما إذا كان يحتاج إلى الإنتفاع بالخدمة بواسطة هذا المتجر أم لا.
 
-### Checking out the Gallery
+للقيام بذلك يحتاج الحريف إلى
 
-### Checking out the opening times
+- فتح تطبيق رندف
+- ثم الضغط على بطاقة المتجر التي يريد التحقق من تفاصيلها.
 
-### Checking out the services
+<p align="center"><img src=./img/details.ar.png><p>
 
-### Checking out the reviews
+### التحقق من مواعيد العمل
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+هذه الميزة تجعل الحجوزات أسهل لكل من المالك و الحريف. حيث يوفر للأول جلسات العمل الخاصة به ليجدها الحريف في رندف دون الحاجة إلى الذهاب فعليًا إلى المتجر.
 
-## Adding a store review
+يجد الحريف هذه التواقيت في صفحة تفاصيل المتجر.
 
-Hector *sua*. Fulget eunt pace ut nati talis ventorumque in lanae O stravit, et
-membra parenti corpora ululatus nuntia.
+<p align="center"><img src=./img/workhours.ar.png><p>
 
-- Animumque genetrix arbor suspiria in ignotas
-- Apolline nec dedit gerens quaeque pervia causa
-- Illa ille numinis
-- Ubi passis telum docui nec positis
+### التحقق من الخدمات
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+تتيح هذه الميزة للعميل الاطلاع على جميع الخدمات التي يقدمها المتجر. يمكن أن يكون للمتجر خدمات متعددة
 
-## Performing a booking
+للقيام بذلك ، يحتاج الحريف إلى
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+- فتح تطبيق رندف،
+- النقر فوق بطاقة المتجر التي يريد التحقق منها
+- والتنقل للأسفل إلى الخدمات.
 
-## Adding a reminder for a booking
+<p align="center"><img src=./img/services.ar.png><p>
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+## إضافة مراجعة المتجر
 
-## Removing a reminder for a booking
+لتقييم المتجر عليك
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+- فتح تطبيق رندف ،
+- والنقر على بطاقة المتجر التي تريد مراجعتها ،
+- والنقر على أيقونة النجوم ،
+- ثم إعطاء تقييمك الخاص مع تعليق إذا أردت وإرساله.
 
+<p align="center"><img src=./img/avis.ar.png><p>
 
-## Editing a booking
+## إجراء الحجز
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+تتيح جميع الميزات المذكورة أعلاه للعميل في النهاية إجراء الحجز. هذه هي الميزة المحورية للتطبيق. يتحقق الحريف من جميع المعلومات الواردة أعلاه ثم يقرر متى وأين يقوم بالحجز.
 
+- وللقيام بذلك يحتاج الحريف إلى الوصول إلى صفحة تفاصيل المتجر
+- ثم الضغط على الخدمة التي يحتاجها
+- ثم الضغط على حجز هذه الخدمة.
 
+<p align="center"><img src=./img/Book.ar.png><p>
 
-## Accessing a store by QR code
+## إضافة تذكير للحجز
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+بعد إجراء الحجز ، قد تحتاج إلى تذكير حتى لا تنساه.
 
+للقيام بذلك ، تحتاج إلى
+
+- فتح تطبيق رندف ،
+- النقر على القائمة المنسدلة في الجزء العلوي من الصفحة.
+- بعد ذلك الضغط على البرنامج
+- وأخيراً مواعيدي. ستجد في هذا القسم جميع حجوزاتك .
+
+يمكنك حذف حجز أو إضافة تذكير بمجرد النقر على أيقونة الجرس.
+
+<p align="center"><img src=./img/addreminder.ar.png><p>
+
+## إزالة تذكير للحجز
+
+مثلما يمكنك إضافة تذكير للحجز ، يمكنك إزالة واحد.
+
+للقيام بذلك ،
+
+- تحتاج إلى فتح تطبيق رندف ،
+- النقر فوق القائمة المنسدلة في الجزء العلوي من الصفحة.
+- بعد ذلك الضغط على البرنامج
+- وأخيراً مواعيدي. ستجد في هذا القسم جميع حجوزاتك.
+
+انقر فوق رمز الجرس وستظهر نافذة تحتوي على أيقونات تغيير وحذف
+
+<p align="center"><img src=./img/DeleteReminder.ar.png><p>

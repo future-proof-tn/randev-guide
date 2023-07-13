@@ -1,115 +1,161 @@
 # Guide de l'utilisateur
 
-Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
-superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
-Iamque **vineta nigri esse** cupit duae. Videnda in commisit his sub noxque
-conatur tulisti prudens, inter, se quid sub. Excipit barbarus et orbem talibus
-melioribus vultus tecta cruorem vagina non de servo Philemon!
+Bienvenue sur notre guide d'utilisateur pour l'application Randev ! Nous sommes là pour vous aider à vous familiariser avec les différentes fonctionnalités de l'application et vous guider tout au long de votre expérience utilisateur.
+
+Pour commencer, voici les étapes à suivre pour utiliser l'application :
+
+## Créer un compte
+
+Pour utiliser Randev il faut créer un compte. Pour faire ceci il faut
+
+- Ouvrir l'application
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur créer un compte
+
+  - Il faut un email
+  - Mot de passe
+  - Prénom
+  - Nom
+  - Numéro de téléphone
+  - Date de naissance (optionelle).
+
+  * Cliquer sur 'créer un compte'
+  * Entrer le code que vous avez reçu en SMS
+
+  Félicitation, vous êtes désormais un utilisateur Randev
 
 ## Connection avec un compte d'utilisateur
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+Il existe plusieurs façons de se connecter à l'application.
 
+Vous avez trois foçons de vous connecter
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+- Connexion avec google
+
+  - Ouvrez l'application
+  - Ouvrez le menu déroulant
+  - Cliquez sur " continuer avec Google"
+
+- Connexion avec Facebook
+
+  - Ouvrez l'application
+  - Ouvrez le menu déroulant
+  - Cliquez sur " continuer avec Facebook"
+
+- Connexion avec un compte existant
+  - Ouvrez l'application
+  - Ouvrez le menu déroulant
+  - Cliquez sur " continuer avec email" Pour utilier cette methode de connexion vous devez deja avoir creéer un compte comme le montre la section dessus et il faut avoir un email et un mot de passe correct
 
 ## Recherche de boutique / service
 
-Hector *sua*. Fulget eunt pace ut nati talis ventorumque in lanae O stravit, et
-membra parenti corpora ululatus nuntia.
+Notre application vous permet de rechercher n'importe quel boutique ou service que vous souhaitez.
 
-- Animumque genetrix arbor suspiria in ignotas
-- Apolline nec dedit gerens quaeque pervia causa
-- Illa ille numinis
-- Ubi passis telum docui nec positis
+### Recherche rapide
+
+- Ouvrez l'application
+- accédez à l'onglet "Recherche" dans le menu principal de l'application.
+- Tapez le nom de la boutique ou du service que vous recherchez dans la barre de recherche.
+
+<p align="center"><img src=./img/Recherche.fr.png><p>
 
 ### Localisation de la boutique sur la carte
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+Si vous le souhaitez, vous pouvez également voir la localisation de la boutique sur la carte.
+
+Pour faire ceci il faut
+
+- Ouvrir l'application Randev
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur carte
+
+<p align="center"><img src=./img/Location.fr.png><p>
 
 ### Recherche avancée
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+Pour accéder à la recherche avancée,Utilisez les différents critères de recherche disponibles pour affiner vos résultats de recherche il faut
+
+- Ouvrir l'application Randev
+- Cliquer sur l'icone de filtre en haut de la page
+
+Vous pouvez utiliser des filtres tels que
+
+- la localisation
+- le prix
+- le rayon
+- la position
+
+Une fois que vous avez défini les critères de recherche, cliquez sur "Rechercher" pour lancer la recherche avancée.
+
+Les résultats de la recherche s'afficheront sous forme de liste.
+
+Si vous trouvez une boutique ou un service qui vous intéresse, vous pouvez l'ajouter à vos favoris ou contacter directement la boutique ou réservé le service via l'application.
+
+<p align="center"><img src=./img/RechercheAvancée.fr.png><p>
 
 ## Vérification des attributs de la boutique
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
-
-### Gallerie photos de la boutique
+Vous pouvez cliquer sur chaque résultat pour en savoir plus sur la boutique ou le service, notamment l'adresse, les horaires d'ouverture , les services et les avis des utilisateurs.
 
 ### Horaires d'ouverture de la boutique
 
+Vous pouvez trouver les horaires d'ouverture de la boutique et vous assurer que vous pouvez planifier votre visite et vos rendez vous en toute confiance.
+
+<p align="center"><img src=./img/HeuresDeTravai.fr.png><p>
+
 ### Services de la boutique
 
-### Avis d'utilisateurs
+Vous pouvez trouver les services proposés par la boutique et vous assurer que vous pouvez profiter de tout ce que la boutique a à offrir. les services proposés par la boutique sont disponibles, vous les trouverez dans la section "Services" de la boutique.
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+<p align="center"><img src=./img/Services.fr.png><p>
 
 ## Ajout d'un avis d'utilisateur
 
-Hector *sua*. Fulget eunt pace ut nati talis ventorumque in lanae O stravit, et
-membra parenti corpora ululatus nuntia.
+Vous pouvez partager votre avis avec d'autres utilisateurs et aider à améliorer la qualité des services proposés dans l'application. Choisissez une note ou une évaluation pour le produit ou le service, généralement sur une échelle de 1 à 5 étoiles.
 
-- Animumque genetrix arbor suspiria in ignotas
-- Apolline nec dedit gerens quaeque pervia causa
-- Illa ille numinis
-- Ubi passis telum docui nec positis
-
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+<p align="center"><img src=./img/avis.fr.png><p>
 
 ## Effectuer une réservation
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+Vous pouvez réserver des services proposés dans l'application.
+
+- Sélectionnez le service que vous souhaitez réserver
+- Vous pouvez (optionellement) choisir la personnes qui vous offre le service
+- Sélectionnez la jour de la réservation
+- Sélectionnez l'intervalle de temps qui vous convient le mieux
+- Clicker sur le bouton "réservez"
+- Confirmer votre choix dans la pop up qui vous sera afficher
+
+<p align="center"><img src=./img/reserve.fr.png><p>
 
 ## Ajouter un rappel pour une réservation
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+Vous pouvez ajouter un rappel pour vos réservations afin de ne pas manquer votre service réservé. Recherchez le bouton d'Ajouter un rappel dans le calendrier ,
+
+Pour ajouter un rappel à une réservation:
+
+- Accéder à la page "mes rendez-vous"
+- cliquer sur la cloche sur la carte de réservation auquel vous souhaitez ajouter le rappel.
+- Choisissez le délai separera le rappel du temps de la reservation
+- Clique sur ajouter un rappel
+
+Définissez le moment du rappel, Vous pouvez généralement choisir de recevoir un rappel dans 15, 30 minutes ou yne heure avant votre service réservé.
+
+Vérifiez que toutes les informations sont correctes, puis appuyez sur le bouton "Ajouter".
+
+Si votre rappel est configuré avec succès, vous recevrez une confirmation immediate.
+
+Si vous devez modifier ou annuler votre rappel, recherchez l'option correspondante dans l'application et suivez les instructions.
+
+<p align="center"><img src=./img/addreminder.fr.png><p>
 
 ## Suppression d'un rappel pour une réservation
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+Pour supprimer un rappel pour une réservation,
 
+- Accéder à la page "mes rendez-vous"
+- Sur la carte de réservation auquel vous souhaitez supprimer le rappel, clique sur la cloche
+- Cliquer sur l'icone de suppression.
+- Cliquer sur confirmer.
 
-## Modification d'une réservation
-
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
-
-
-
-## Accès à une boutique via QR Code
-
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
-
+<p align="center"><img src=./img/deletereminder.fr.png><p>
