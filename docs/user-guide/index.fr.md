@@ -4,23 +4,25 @@ Bienvenue sur notre guide d'utilisateur pour l'application Randev ! Nous sommes 
 
 Pour commencer, voici les étapes à suivre pour utiliser l'application :
 
-## Téléchargez l'application depuis le magasin d'applications de votre appareil mobile.
-
-Créez un compte en cliquant sur le bouton "créer un compte" et en fournissant votre nom, votre adresse e-mail et en créant un mot de passe.
-
 ## Créer un compte
 
-Pour utiliser Randev il faut créer un compte. Pour faire ceci il faut 
+Pour utiliser Randev il faut créer un compte. Pour faire ceci il faut
 
--Ouvrir l'application
--Cliquer sur l'icone du menu déroulant 
--Cliquer sur créer un compte
-   -Il faut un email
-   -Mot de passe
-   -Prénom
-   -Nom
-   -Numéro de téléphone que vous devez confirmer avec un SMS qui vous donne un numéro à 6 chiffres à fournir à l'application.
-   -Une date de naissance qui est optionelle.
+- Ouvrir l'application
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur créer un compte
+
+  - Il faut un email
+  - Mot de passe
+  - Prénom
+  - Nom
+  - Numéro de téléphone
+  - Date de naissance (optionelle).
+
+  * Cliquer sur 'créer un compte'
+  * Entrer le code que vous avez reçu en SMS
+
+  Félicitation, vous êtes désormais un utilisateur Randev
 
 ## Connection avec un compte d'utilisateur
 
@@ -28,20 +30,22 @@ Il existe plusieurs façons de se connecter à l'application.
 
 Vous avez trois foçons de vous connecter
 
--Connexion avec google
- --Ouvrez l'application
- --Ouvrez le menu déroulant
- --Cliquez sur " continuer avec Google"
+- Connexion avec google
 
--Connexion avec Facebook
- --Ouvrez l'application
- --Ouvrez le menu déroulant
- --Cliquez sur " continuer avec Facebook"
+  - Ouvrez l'application
+  - Ouvrez le menu déroulant
+  - Cliquez sur " continuer avec Google"
 
--Connexion avec un compte existant
- --Ouvrez l'application
- --Ouvrez le menu déroulant
- --Cliquez sur " continuer avec email" Pour utilier cette methode de connexion vous devez deja avoir creéer un compte comme le montre la section dessus et il faut avoir un email et un mot de passe correct
+- Connexion avec Facebook
+
+  - Ouvrez l'application
+  - Ouvrez le menu déroulant
+  - Cliquez sur " continuer avec Facebook"
+
+- Connexion avec un compte existant
+  - Ouvrez l'application
+  - Ouvrez le menu déroulant
+  - Cliquez sur " continuer avec email" Pour utilier cette methode de connexion vous devez deja avoir creéer un compte comme le montre la section dessus et il faut avoir un email et un mot de passe correct
 
 ## Recherche de boutique / service
 
@@ -49,9 +53,9 @@ Notre application vous permet de rechercher n'importe quel boutique ou service q
 
 ### Recherche rapide
 
-  -Ouvrez l'application
-  -accédez à l'onglet "Recherche" dans le menu principal de l'application.
-  -Tapez le nom de la boutique ou du service que vous recherchez dans la barre de recherche.
+- Ouvrez l'application
+- accédez à l'onglet "Recherche" dans le menu principal de l'application.
+- Tapez le nom de la boutique ou du service que vous recherchez dans la barre de recherche.
 
 <p align="center"><img src=./img/Recherche.fr.png><p>
 
@@ -61,9 +65,9 @@ Si vous le souhaitez, vous pouvez également voir la localisation de la boutique
 
 Pour faire ceci il faut
 
- -Ouvrir l'application Randev
- -Cliquer sur l'icone du menu déroulant
- -Cliquer sur carte
+- Ouvrir l'application Randev
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur carte
 
 <p align="center"><img src=./img/Location.fr.png><p>
 
@@ -71,15 +75,15 @@ Pour faire ceci il faut
 
 Pour accéder à la recherche avancée,Utilisez les différents critères de recherche disponibles pour affiner vos résultats de recherche il faut
 
-   -Ouvrir l'application Randev
-   -Cliquer sur l'icone de filtre en haut de la page
+- Ouvrir l'application Randev
+- Cliquer sur l'icone de filtre en haut de la page
 
- Vous pouvez utiliser des filtres tels que 
+Vous pouvez utiliser des filtres tels que
 
-   -la localisation 
-   -le prix
-   -le rayon
-   -la position
+- la localisation
+- le prix
+- le rayon
+- la position
 
 Une fois que vous avez défini les critères de recherche, cliquez sur "Rechercher" pour lancer la recherche avancée.
 
@@ -105,12 +109,6 @@ Vous pouvez trouver les services proposés par la boutique et vous assurer que v
 
 <p align="center"><img src=./img/Services.fr.png><p>
 
-### Avis d'utilisateurs
-
-les avis des utilisateurs vous aide pour faire des choix éclairés sur les services proposés dans l'application. Si des avis d'utilisateurs sont disponibles, vous les trouverez généralement dans la section "Avis".
-
-<p align="center"><img src=./img/ratings.fr.png><p>
-
 ## Ajout d'un avis d'utilisateur
 
 Vous pouvez partager votre avis avec d'autres utilisateurs et aider à améliorer la qualité des services proposés dans l'application. Choisissez une note ou une évaluation pour le produit ou le service, généralement sur une échelle de 1 à 5 étoiles.
@@ -121,14 +119,12 @@ Vous pouvez partager votre avis avec d'autres utilisateurs et aider à améliore
 
 Vous pouvez réserver des services proposés dans l'application.
 
-   -Sélectionnez le service que vous souhaitez réserver
-   -Vous pouvez (optionellement) choisir la personnes qui vous offre le service
-   -Sélectionnez la jour de la réservation
-   -Sélectionnez l'intervalle de temps qui vous convient le mieux
-   -Clicker sur le bouton "réservez"
-   -Confirmer votre choix dans la pop up qui vous sera afficher
-
-
+- Sélectionnez le service que vous souhaitez réserver
+- Vous pouvez (optionellement) choisir la personnes qui vous offre le service
+- Sélectionnez la jour de la réservation
+- Sélectionnez l'intervalle de temps qui vous convient le mieux
+- Clicker sur le bouton "réservez"
+- Confirmer votre choix dans la pop up qui vous sera afficher
 
 <p align="center"><img src=./img/reserve.fr.png><p>
 
@@ -138,10 +134,10 @@ Vous pouvez ajouter un rappel pour vos réservations afin de ne pas manquer votr
 
 Pour ajouter un rappel à une réservation:
 
-  -Accéder à la page "mes rendez-vous"
-  -Sur la carte de réservation auquel vous souhaitez ajouter le rappel, clique sur la cloche
-  -Choisissez le délai separera le rappel du temps de la reservation
-  -Clique sur ajouter un rappel
+- Accéder à la page "mes rendez-vous"
+- cliquer sur la cloche sur la carte de réservation auquel vous souhaitez ajouter le rappel.
+- Choisissez le délai separera le rappel du temps de la reservation
+- Clique sur ajouter un rappel
 
 Définissez le moment du rappel, Vous pouvez généralement choisir de recevoir un rappel dans 15, 30 minutes ou yne heure avant votre service réservé.
 
@@ -151,15 +147,15 @@ Si votre rappel est configuré avec succès, vous recevrez une confirmation imme
 
 Si vous devez modifier ou annuler votre rappel, recherchez l'option correspondante dans l'application et suivez les instructions.
 
-<p align="center"><img src=./img/notification.fr.png><p>
+<p align="center"><img src=./img/addreminder.fr.png><p>
 
 ## Suppression d'un rappel pour une réservation
 
 Pour supprimer un rappel pour une réservation,
-  -Accéder à la page "mes rendez-vous"
-  -Sur la carte de réservation auquel vous souhaitez supprimer le rappel, clique sur la cloche
-  -Cliquer sur l'icone de suppression.
-  -Cliquer sur confirmer.
 
-<p align="center"><img src=./img/SupressionNotification.fr.png><p>
+- Accéder à la page "mes rendez-vous"
+- Sur la carte de réservation auquel vous souhaitez supprimer le rappel, clique sur la cloche
+- Cliquer sur l'icone de suppression.
+- Cliquer sur confirmer.
 
+<p align="center"><img src=./img/deletereminder.fr.png><p>
