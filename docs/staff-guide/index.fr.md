@@ -1,6 +1,6 @@
 # Guide de l'employé
 
-Bienvenue dans le guide de l'employé ! Ce guide vous aidera à comprendre les attentes et les responsabilités de votre rôle en tant qu'employé, ainsi que les politiques et procédures du magasin. si vous avez d'autres questions, n'hésitez pas à nous contacter!
+Bienvenue dans le guide de l'employé ! ce guide est conçue pour les employés pour mieux comprendre ce que vous pouvez faire avec cette application.
 
 ## Invitation du propriétaire du magasin
 
@@ -10,28 +10,41 @@ Accepter l'invitation : vous devenez alors un membre de staff confirmé, votre i
 
 Refuser l'invitation: rien ne changera pour vous et aucun lien ne sera effectué entre votre compte et le magasin duquel vous avez reçu l'invitation.
 
-<p align="center"><img src=./img/invitationstaff.fr.png><p>
+<p align="center"><img src=./img/invitationstaff.fr.jpg><p>
 
 ## Réservation instantanée
 
-Si un client de vos client n'est pas un utilisateur de randev, vous pouvez toujours continuer à gérer vos réservations via l'application grâce à la fonctionnalitée de la 'Réservation instantanée'. Cette réservation vous sera automatiquement attribué et vous pourrez la consulter dans votre calendrier de travail.
+Pour faire une réservation instantanée :
+
+- Ouvrez le menu déroulant
+- Sélectionnez la section "Mon magasin"
+- Sélectionnez "Rérvation instantanée"
+- Entrez le numéro de téléphone de votre client
+- Entrez le nom de votre client (optionelle)
+- Sélectionnez le service que vous souhaitez offrir
+- cliquez sur le button de réservation qui contient en fait la première date disponible pour le service selctionner
+
+  Randev vous offre encore plus de flexibilité pour réserver des intervalles de temps futures. Pour ce faire il vous suffit de
+
+- activer le button reserve
+- le calendier sera alors afficher
+- vous pouvez consulter les intervalles de temps dans tous les jours à venir
 
 <p align="center"><img src=./img/instantbooking.fr.png><p>
 
 ## Consulter les réservations
 
-Vous devez verifier que votre calendrier soit à jour et qu'il dispose de politiques claires pour éviter tout problème .
+vous pouvez consulter vos réservations à tout moment et vérifier quand vous êtes libre et quand vous avez un travail a faire.
 
 ### Consulter mon calendrier
 
 Vous pouvez acceder a votre calendrier et voir toutes vos reservations .
 
+Pour faire ceci vous devez
+
+- Ouvrir l'application Randev
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur programme
+- Cliquer sur mon emploi du temps
+
 <p align="center"><img src=./img/calendar.fr.png><p>
-
-## Partager le magasin avec les clients
-
-Pour partager votre magasin avec vos client , vous vouvez le faire avec le QR code ou par transfer de votre lien .
-
-### Par lien
-
-### Par code QR

@@ -8,11 +8,13 @@ Follow the steps below and you will be able to enjoy using Randev in no time.
 
 In order to become a staff member in a store you need to get a store owner invitation first which will show up in your notification section that you can accept or decline.
 
-To do so you need to open the Randev application 
+To do so you need to
 
-click on the notification icon on the top right
+- Open the Randev application
 
-choose to accept or refuse the offer.
+- Click on the notification icon on the top right
+
+- Choose to accept or refuse the offer.
 
 <p align="center"><img src=./img/invitationstaff.png><p>
 
@@ -20,11 +22,13 @@ choose to accept or refuse the offer.
 
 If a client showed up without a booking or simply that is not a Randev user you can simply instantly book for him.
 
-To do so open the Randev application, 
+To do so
 
-click on the drop down menu icon, 
+- Open the Randev application,
 
-click on my store then instant booking.
+- Click on the drop down menu icon,
+
+- Click on my store then instant booking.
 
 it will redirect you to a page where you should provide the phone number of the client, an optional name field, which service does he want and there is a de-activated button that when clicked brings up the calendar in case he wants the booking for another day
 
@@ -40,20 +44,14 @@ Keep yourself up to date with what bookings you have coming up that day or even 
 
 The calendar is an important feature that facilitates time organisation for the staff members.
 
-To check your calendar you need to open the Randev application, 
+To check your calendar you need to
 
-click on the drop down menu icon, 
+- Open the Randev application,
 
-click on agenda 
+- Click on the drop down menu icon,
 
-click on my work schedule.
+- Click on agenda
+
+- Click on my work schedule.
 
 <p align="center"><img src=./img/calendar.png><p>
-
-## Sharing store with clients
-
-You can always share your store with your clients via link or via QR code so what are you waiting for?
-
-### Via link
-
-### Via QR code
