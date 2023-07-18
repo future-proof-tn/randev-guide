@@ -18,17 +18,18 @@ Pour faire une réservation instantanée :
 
 - Ouvrez le menu déroulant
 - Sélectionnez la section "Mon magasin"
-- Sélectionnez "Rérvation instantanée"
+- Sélectionnez "Réservation instantanée"
 - Entrez le numéro de téléphone de votre client
-- Entrez le nom de votre client (optionelle)
+- Entrez le nom de votre client (optionnel)
 - Sélectionnez le service que vous souhaitez offrir
-- cliquez sur le button de réservation qui contient en fait la première date disponible pour le service selctionner
+- Cliquez sur le button de réservation qui contient en fait la première date disponible pour le service sélectionner
 
   Randev vous offre encore plus de flexibilité pour réserver des intervalles de temps futures. Pour ce faire il vous suffit de
 
-- activer le button reserve
-- le calendier sera alors afficher
-- vous pouvez consulter les intervalles de temps dans tous les jours à venir
+- Activez le button réserver plus tard
+- Le calendrier sera alors afficher
+- Consultez les intervalles de temps dans tous les jours à venir
+- Cliquez sur réserver
 
 <p align="center"><img src=./img/instantbooking.fr.png><p>
 
@@ -38,13 +39,19 @@ vous pouvez consulter vos réservations à tout moment et vérifier quand vous �
 
 ### Consulter mon calendrier
 
-Vous pouvez acceder a votre calendrier et voir toutes vos reservations .
+Vous pouvez accéder a votre calendrier et voir toutes vos réservations .
 
 Pour faire ceci vous devez
 
-- Ouvrir l'application Randev
-- Cliquer sur l'icone du menu déroulant
-- Cliquer sur programme
-- Cliquer sur mon emploi du temps
+- Ouvrez l'application Randev
+- Cliquez sur l'icone du menu déroulant
+- Cliquez sur programme
+- Cliquez sur mon emploi du temps
 
-<p align="center"><img src=./img/calendar.fr.png><p>
+<p align="center"><img src=./img/advancedcalender.fr.png><p>
+
+Vous pouvez changer l'affichage des rendez-vous en cliquant sur le boutton a droite en haut de la page.
+
+<p align="center"><img src=./img/callmessage.fr.png><p>
+
+Vous pouvez appeler ou envoyer un message au client en cliquant sur l'icone qui convient avec votre besoin.

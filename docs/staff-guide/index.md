@@ -14,7 +14,9 @@ To do so you need to
 
 - Click on the notification icon on the top right
 
-- Choose to accept or refuse the offer.
+- choose to:
+  - Accept the invitation: you will become a confirmed staff member and the interface will change giving you access to the store
+  - Decline the invitation: nothing will change and there will be no link between you and the store that you were invited to
 
 <p align="center"><img src=./img/invitationstaff.png><p>
 
@@ -24,13 +26,21 @@ If a client showed up without a booking or simply that is not a Randev user you 
 
 To do so
 
-- Open the Randev application,
+- Open the Randev application
+- Click on the dropdown menu icon
+- Click on my store
+- Click on instant booking
+- Enter the phone number of your client
+- Enter the name of your client(optional)
+- Select the service that you want to provide
+- Click on the book button to choose the first available time slot
 
-- Click on the drop down menu icon,
+You can also choose another date to do so:
 
-- Click on my store then instant booking.
-
-it will redirect you to a page where you should provide the phone number of the client, an optional name field, which service does he want and there is a de-activated button that when clicked brings up the calendar in case he wants the booking for another day
+- click on the button book for later
+- Choose the date
+- Choose the timeslot
+- Click on book
 
 <p align="center"><img src=./img/InstantBooking.png><p>
 
@@ -44,14 +54,24 @@ Keep yourself up to date with what bookings you have coming up that day or even 
 
 The calendar is an important feature that facilitates time organisation for the staff members.
 
-To check your calendar you need to
+To check your calendar you need to:
 
-- Open the Randev application,
+- Open the Randev application
 
-- Click on the drop down menu icon,
+- Click on the drop down menu icon
 
 - Click on agenda
 
-- Click on my work schedule.
+- Click on my work schedule
+
+* Click on a booking to show more details about it.
 
 <p align="center"><img src=./img/calendar.png><p>
+
+You can change the layout of the page by clicking on the button on the top right.
+
+<p align="center"><img src=./img/advancedcalender.png><p>
+
+you can directly call or text message the client by clicking on the call or message icon.
+
+<p align="center"><img src=./img/callmessage.png><p>
