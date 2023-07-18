@@ -22,14 +22,14 @@ Pour faire une réservation instantanée :
 - Entrez le numéro de téléphone de votre client
 - Entrez le nom de votre client (optionnel)
 - Sélectionnez le service que vous souhaitez offrir
-- Cliquez sur le button de réservation qui contient en fait la première date disponible pour le service sélectionner
+- Cliquez sur le bouton de réservation qui contient en fait la première date disponible pour le service sélectionner
 
   Randev vous offre encore plus de flexibilité pour réserver des intervalles de temps futures. Pour ce faire il vous suffit de
 
-- Activez le button réserver plus tard
+- Activer le bouton réserver plus tard
 - Le calendrier sera alors afficher
-- Consultez les intervalles de temps dans tous les jours à venir
-- Cliquez sur réserver
+- Consulter les intervalles de temps dans tous les jours à venir
+- Cliquer sur réserver
 
 <p align="center"><img src=./img/instantbooking.fr.png><p>
 
@@ -41,7 +41,7 @@ vous pouvez consulter vos réservations à tout moment et vérifier quand vous �
 
 Vous pouvez accéder a votre calendrier et voir toutes vos réservations .
 
-Pour faire ceci vous devez
+Pour faire ceci:
 
 - Ouvrez l'application Randev
 - Cliquez sur l'icone du menu déroulant
@@ -50,7 +50,7 @@ Pour faire ceci vous devez
 
 <p align="center"><img src=./img/advancedcalender.fr.png><p>
 
-Vous pouvez changer l'affichage des rendez-vous en cliquant sur le boutton a droite en haut de la page.
+Vous pouvez changer l'affichage des rendez-vous en cliquant sur le bouton a droite en haut de la page.
 
 <p align="center"><img src=./img/callmessage.fr.png><p>
 
