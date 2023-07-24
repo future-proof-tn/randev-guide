@@ -1,58 +1,77 @@
 # Store staff guide
 
-Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
-superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
-Iamque **vineta nigri esse** cupit duae. Videnda in commisit his sub noxque
-conatur tulisti prudens, inter, se quid sub. Excipit barbarus et orbem talibus
-melioribus vultus tecta cruorem vagina non de servo Philemon!
+Welcome to Randev. In this guide we are about to show you what each section is for as a staff member.
+
+Follow the steps below and you will be able to enjoy using Randev in no time.
 
 ## Store owner invitation
 
+In order to become a staff member in a store you need to get a store owner invitation first which will show up in your notification section that you can accept or decline.
+
+To do so you need to
+
+- Open the Randev application
+
+- Click on the notification icon on the top right
+
+- choose to:
+  - Accept the invitation: you will become a confirmed staff member and the interface will change giving you access to the store
+  - Decline the invitation: nothing will change and there will be no link between you and the store that you were invited to
+
+<p align="center"><img src=./img/invitationstaff.png><p>
+
 ## Instant booking
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+If a client showed up without a booking or simply that is not a Randev user you can simply instantly book for him.
+
+To do so
+
+- Open the Randev application
+- Click on the dropdown menu icon
+- Click on my store
+- Click on instant booking
+- Enter the phone number of your client
+- Enter the name of your client(optional)
+- Select the service that you want to provide
+- Click on the book button to choose the first available time slot
+
+You can also choose another date to do so:
+
+- click on the button book for later
+- Choose the date
+- Choose the timeslot
+- Click on book
+
+<p align="center"><img src=./img/InstantBooking.png><p>
 
 ## Manage bookings
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+Staff members need to have full information on when the bookings are and to who they are being provided to avoid double booking problems and last minute cancellations.
 
 ### Check my calendar
 
-### Modify booking
+Keep yourself up to date with what bookings you have coming up that day or even the days to come.
 
-### Cancel booking
+The calendar is an important feature that facilitates time organisation for the staff members.
 
-## Inviting Staff to your store
+To check your calendar you need to:
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+- Open the Randev application
 
+- Click on the drop down menu icon
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+- Click on agenda
 
+- Click on my work schedule
 
-## Sharing store with clients
+* Click on a booking to show more details about it.
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+<p align="center"><img src=./img/calendar.png><p>
 
-### Via link
+You can change the layout of the page by clicking on the button on the top right.
 
-### Via QR code
+<p align="center"><img src=./img/advancedcalender.png><p>
 
-## Managing calendar (time-off & holidays)
+you can directly call or text message the client by clicking on the call or message icon.
+
+<p align="center"><img src=./img/callmessage.png><p>
