@@ -1,138 +1,197 @@
-# Guide patron
+# Guide du propriétaire
 
-Lorem markdownum omnia, lacertis per munera magna, oblita super? Sparsisque
-superest Iovis eventusque **sive lacrimas** praesagia: molle solet victae et.
-Iamque **vineta nigri esse** cupit duae. Videnda in commisit his sub noxque
-conatur tulisti prudens, inter, se quid sub. Excipit barbarus et orbem talibus
-melioribus vultus tecta cruorem vagina non de servo Philemon!
+Bienvenu dans le monde des propriétaire de Randev. voici un guide pour vous initier!
 
-## Create a store
+Créez un compte avec la plateforme de commerce électronique de votre choix. Suivez les instructions pour configurer votre boutique en ligne et ajoutez des services à votre catalogue. Voici un guide pour créer une boutique dans Randev :
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+## Créer une boutique
 
+Une fois votre téléphone est vérifié, vous pouvez procéder à la création de votre magasin.
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+Pour accéder à la page de création de la boutique vous devez
 
-### Setting up store details
+- ouvrir le menu
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+- cliquer sur le titre 'créer une boutique'
 
-### Setting up store calendar
+<p align="center"><img src=./img/createstor.fr.png><p>
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+### Configuration des détails du magasin
 
-### Setting up ressources and ressources categories
+Le nom de votre boutique: il servira d'enseigne pour votre boutique en ligne.
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+- Vos domaines d'activité: cliquer sur la liste déroulante pour choisir un ou plusieurs domaine d'activité
 
-### Adding staff to your store
+- Votre téléphone
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+- Votre email
 
-### Setting up service details
+- L'adresse de votre boutique, vous utiliser le 'Google map' pour la fournir, ainsi votre boutique sera visible sur les résultats de recherches à travers la carte géographique.
+- Votre site web: ce champ est totalement optionnel
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+<p align="center"><img src=./img/Storedetails.fr.png><p>
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+### Ajouter du personnel à votre magasin
 
-## Instant booking
+Vous êtes propriétaire d'un magasin et vous souhaitez ajouter du personnel à votre équipe, pour ajouter un employé
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur mon magasin
+- Cliquer sur membres du staff
+- cliquez sur le bouton "Ajouter un employé" et entrez son nom et ses informations de contact.
 
-## Manage bookings
+<p align="center"><img src=./img/addstaff.fr.png><p>
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+### Ressources matérielles
 
-### Check my calendar
+Déterminez les ressources que vous devez gérer dans votre boutique. Par exemple, vous pourriez avoir besoin de gérer des produits, des équipements ...
 
-### Check Staff calendar
+Pour faire ceci vous devez
 
-### Modify booking
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur mon magasin
+- Cliquer sur resources matérielles
+- Cliquer sur l'icone plus
 
-### Cancel booking
+<p align="center"><img src=./img/Resources.fr.png><p>
 
-## Inviting Staff to your store
+<p align="center"><img src=./img/AddResource.fr.png><p>
 
-Quem carmine, maiores, haec eodem umero narrat in ad **motu nomine sistere**
-hostem prope? Spectatosque vidit et validos demere. Recentem exposcere adit
-atque. Telum narratibus [umeros](http://radios.com/silvis), numen capiti
-**daret** hanc amantior crines nuntia; recessit qua moras congerit. **Ut** in
-mundi referitur et veri credit, arbore cognoscere plausus adest.
+### Configuration des détails du service
 
+La configuration des détails du service est une étape importante lors de la mise en place d'une boutique . Avant de commencer à configurer les détails du service, vous devez avoir une idée claire des besoins de votre ce service Cela peut inclure des exigences en matière de performance et de disponibilité,Une fois que vous avez défini les besoins, vous pouvez choisir le personnel de service qui répond le mieux à ces besoins. Remplissez le formulaire qui apparaît avec les informations nécessaires pour le nouveau service : le nom du service, une description, un coût, le nombre des employees , la durée , le type de reservation , la limite de reservation , le nom de la ressource et est ce que c'est une service designee a un employee spécifique ou pas.
 
-Et nequeat Belides ranae, bella amore? Quem fallere facta, crimine carent,
-[illic](http://www.conata-pereo.org/sanguinisrursus), has eosdem iterum
-sinuatoque. Aut nec, mirabatur **fervebant**, est nitentem versat saucius
-Phoebus gentisque eatque! Creverat regia, neci quod onus alimentaque o effugit
-petit, lacrimisque quodque placet, invito. Concipiunt copia.
+- Nom : Nommez votre service en fonction de ce qu'il fait , Vous pouvez également utiliser une combinaison de mots-clés pertinents pour nommer votre service , N'hésitez pas à être créatif dans votre choix de nom. Essayez de penser à des noms qui sonnent bien et qui seront faciles à retenir.
 
-## Managing Staff
+* Description : Pour ajouter une description pour un service , il est important de fournir des informations claires, concises et pertinentes aux utilisateurs Pour renforcer l'attractivité du service. Il est important de fournir un support client efficace.
 
-Hector *sua*. Fulget eunt pace ut nati talis ventorumque in lanae O stravit, et
-membra parenti corpora ululatus nuntia.
+* Prix : Mettez le prix que vous souhaiter pour fournir ce service.
 
-- Animumque genetrix arbor suspiria in ignotas
-- Apolline nec dedit gerens quaeque pervia causa
-- Illa ille numinis
-- Ubi passis telum docui nec positis
+* Nombre d'employée : déterminer le nombre d'employés necessaire pour exécuter le service.
 
-## Managing Resources
+* Durée : Introduisez la durée pour fournir le service.
 
-**Nondum submersum** saltu dei? Est parat demittite conplecti namque dolosae
-spectantia Athin me suo! Protinus flectitur currere. Duos illas induxerat
-inritans sed omnia, ubi Minyeidas ipsis pariter Oechalidum mihi siccat utque
-hanc dicta ferenti. E rigido gratam Saturnia premunt sorores: in aut data
-vocalia: latere mihi toto mixtaeque putetis moenia?
+* Type de reservation : L'application doit offrir une certaine flexibilité quant au type de réservation proposé. Il est important de considérer les différentes situations dans lesquelles le service peut être utilisé.
 
-## Managing Services
+  - Reservation direct : Si le service est autoriser a réserver sans aucune limite.
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+  - Reservation limitée : ce type de reservation veut dire que le client a un nombre spécifique de fois qu'il peut réserver le service.
 
+  - Limite de reservation : Les limites de réservation dans une application peuvent être établies pour diverses raisons, La limite de réservation doit être établie en fonction de la capacité du service proposé notamment pour assurer une bonne gestion et éviter les surréservations.
 
-## Sharing store with clients
+* Nom de la ressource : Il est important d'identifier les ressources que vous souhaitez ajouter au service. Cela peut inclure des options telles que du matériel, des équipements ou des fournitures.
 
-Dextera iuvenes. O sublimia nec Morphea! Reddidit robore fores attigit. Omni et
-tecta! Sive nunc petit presserat *iamque*: novorum foret.
+* Service désignée : Déterminent ce que chaque membre peut faire , Vous pouvez attribuer le service á un membre de staff a cause d'une competence particulière , Sélectionnez le membre de personnel qualifié pour executer ce service .
 
-### Via link
+<p align="center"><img src=./img/addservice.fr.png><p>
 
-### Via QR code
+### Mise en place de l'emploi du temps du magasin
 
+Le calendrier vous permet de définir votre emploi du temps pour la semaine. Il vous offre une flexibilité pour définir plusieurs sessions de travail pour chaque jour en déterminant les temps d'ouverture et de fermeture de votre boutique
+Pour ajouter une session:
+
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur mon magasin
+
+* Cliquer sur emploi du temps
+* fournissez le temp du début et le temps de fin de la session
+
+**Note : Vous pouvez copier la session des jours precedent dans le cas ou vous avez le même horaire de travail pendant plusieurs jours, ceci vous évitera de donner le même information plusieurs fois**
+
+<p align="center"><img src=./img/Schedule.frr.png><p>
+
+## Réservation instantanée
+
+C'est une fonctionnalité qui permet aux prestataire de service de réserver immédiatement un service a un client lorsque le client n'a pas l'application Randev. vous pouvez désigner un service à un membre spécifique.
+
+Pour faire ceci vous devez:
+* Cliquer sur l'icone déroulant
+* Cliquer sur mon magasin
+* Cliquer sur réservation instantanée
+
+<p align="center"><img src=./img/InstantBooking.fr.png><p>
+
+### Consulter mon calendrier
+
+Une fois que vous avez ouvert votre calendrier, vérifiez les événements à venir pour les prochains jours ou semaines. Vous pouvez les voir sous forme de vue de calendrier.
+
+Pour faire ceci vous devez:
+
+* Cliquer sur l'icone du menu déroulant
+* Cliquer sur programme
+* Cliquer sur mes rendez-vous
+
+<p align="center"><img src=./img/Calendar.fr.png><p>
+
+Vous pouvez changer l'affichage des rendez-vous en cliquant sur le bouton a droite en haut de la page.
+
+<p align="center"><img src=./img/advancedcalender.fr.png><p>
+
+Vous pouvez appeler ou envoyer un message au client en cliquant sur l'icone qui convient avec votre besoin.
+
+<p align="center"><img src=./img/callmessage.fr.png><p>
+
+### Vérifier le calendrier du personnel
+
+Vous pouvez aussi acceder au calendrier d'un employé en cliquant sur l'icone profil , la liste de touts vos employés va être afficher et la vous pouvez choisir lequel vous voulez consulter.
+
+<p align="center"><img src=./img/StaffSchedule.fr.png><p>
+
+### Annuler la réservation
+
+Si vous avez besoin de supprimer un événement existant, cliquez sur l'événement correspondant dans votre calendrier et supprimer le.
+
+pour faire ceci vous devez:
+* Cliquer sur l'icone du menu déroulant
+* Cliquer sure programme
+* Cliquer sur les rendez-vous
+* Cliquer sur l'icone de suppression 
+
+<p align="center"><img src=./img/deleteBooking.fr.png><p>
+
+## Inviter du personnel à votre magasin
+
+Pour ajouter un membre de vos employés a votre magasin sur l'application il suffit d'accéder a la section membres du staff pour faire ceci vous devez:
+
+* Cliquer sur le menu déroulant
+* Cliquer sur mon magasin
+* Cliquer sur membres du staff
+* Cliquer sur l'icone plus en haut de la page
+* ajouter le nom du staff 
+* ajouter son numéro de telephone .
+
+<p align="center"><img src=./img/addstaff.fr.png><p>
+
+## Gestion du personnel
+
+Pour la liste des employees , elle est composée de 3 sections :
+
+* Confirmé : une section qui contient les membres des employés qui ont déjà accepté votre invitation .
+
+* En attente : une section qui contient les membres que vous avez ajouter et qui n'ont pas encore accepté votre invitation .
+
+* Supprimé : une section qui contient les membres des employés que vous avez supprimer.
+
+<p align="center"><img src=./img/Mystaff.fr.png><p>
+
+## Gestion des ressources
+
+Vous pouvez acceder a toutes les ressources que vous avez ajouté , Si vous avez besoin de modifier ou supprimer une ressource existante , cliquez sur le bouton supprimer ou modifier correspondant pour apportez les modifications nécessaires.
+
+Pour faire ceci vous devez:
+* Cliquer sur l'icone du menu déroulant
+* Cliquer sur mon magasin
+* Cliquer sur resources matérielles
+
+<p align="center"><img src=./img/resources.fr.png><p>
+
+## Gestion des services
+
+Vous pouvez acceder a tout les services que vous avez ajouté , Si vous avez besoin de modifier ou supprimer un service existant , cliquez sur le bouton supprimer ou modifier correspondant pour apportez les modifications nécessaires.
+
+Pour faire ceci vous devez:
+* Cliquer sur l'icone du menu déroulant
+* Cliquer sur mon magasin
+* Cliquer sur les services
+
+<p align="center"><img src=./img/Services.fr.png><p>
