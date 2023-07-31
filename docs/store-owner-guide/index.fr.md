@@ -1,26 +1,30 @@
 # Guide du propriétaire
 
-Bienvenu dans le monde des propriétaire de Randev. voici un guide pour vous initier!
-
-Créez un compte avec la plateforme de commerce électronique de votre choix. Suivez les instructions pour configurer votre boutique en ligne et ajoutez des services à votre catalogue. Voici un guide pour créer une boutique dans Randev :
+Bienvenu dans le monde des propriétaires de Randev. voici un guide pour vous initier!
 
 ## Créer une boutique
 
-Une fois votre téléphone est vérifié, vous pouvez procéder à la création de votre magasin.
+Commencez par vous assurer que votre téléphone est vérifier, si ce n'est pas le cas référer à cette section pour le vérifier:
+
+* écrivez votre numéro du téléphone
+* Cliquez sur envoyer
+* Attendez le SMS
+* Entrez le numéro reçu dans l'SMS
+* Cliquez sur confirmer
 
 Pour accéder à la page de création de la boutique vous devez
 
-- ouvrir le menu
+- Ouvrir le menu
 
-- cliquer sur le titre 'créer une boutique'
+- Cliquer sur le titre 'créer une boutique'
 
 <p align="center"><img src=./img/createstor.fr.png><p>
 
 ### Configuration des détails du magasin
 
-Le nom de votre boutique: il servira d'enseigne pour votre boutique en ligne.
+Le nom de votre boutique: il servira d'enseigner pour votre boutique en ligne.
 
-- Vos domaines d'activité: cliquer sur la liste déroulante pour choisir un ou plusieurs domaine d'activité
+- Vos domaines d'activité: cliquez sur la liste déroulante pour choisir un ou plusieurs domaine d'activité
 
 - Votre téléphone
 
@@ -31,60 +35,6 @@ Le nom de votre boutique: il servira d'enseigne pour votre boutique en ligne.
 
 <p align="center"><img src=./img/Storedetails.fr.png><p>
 
-### Ajouter du personnel à votre magasin
-
-Vous êtes propriétaire d'un magasin et vous souhaitez ajouter du personnel à votre équipe, pour ajouter un employé
-
-- Cliquer sur l'icone du menu déroulant
-- Cliquer sur mon magasin
-- Cliquer sur membres du staff
-- cliquez sur le bouton "Ajouter un employé" et entrez son nom et ses informations de contact.
-
-<p align="center"><img src=./img/addstaff.fr.png><p>
-
-### Ressources matérielles
-
-Déterminez les ressources que vous devez gérer dans votre boutique. Par exemple, vous pourriez avoir besoin de gérer des produits, des équipements ...
-
-Pour faire ceci vous devez
-
-- Cliquer sur l'icone du menu déroulant
-- Cliquer sur mon magasin
-- Cliquer sur resources matérielles
-- Cliquer sur l'icone plus
-
-<p align="center"><img src=./img/Resources.fr.png><p>
-
-<p align="center"><img src=./img/AddResource.fr.png><p>
-
-### Configuration des détails du service
-
-La configuration des détails du service est une étape importante lors de la mise en place d'une boutique . Avant de commencer à configurer les détails du service, vous devez avoir une idée claire des besoins de votre ce service Cela peut inclure des exigences en matière de performance et de disponibilité,Une fois que vous avez défini les besoins, vous pouvez choisir le personnel de service qui répond le mieux à ces besoins. Remplissez le formulaire qui apparaît avec les informations nécessaires pour le nouveau service : le nom du service, une description, un coût, le nombre des employees , la durée , le type de reservation , la limite de reservation , le nom de la ressource et est ce que c'est une service designee a un employee spécifique ou pas.
-
-- Nom : Nommez votre service en fonction de ce qu'il fait , Vous pouvez également utiliser une combinaison de mots-clés pertinents pour nommer votre service , N'hésitez pas à être créatif dans votre choix de nom. Essayez de penser à des noms qui sonnent bien et qui seront faciles à retenir.
-
-* Description : Pour ajouter une description pour un service , il est important de fournir des informations claires, concises et pertinentes aux utilisateurs Pour renforcer l'attractivité du service. Il est important de fournir un support client efficace.
-
-* Prix : Mettez le prix que vous souhaiter pour fournir ce service.
-
-* Nombre d'employée : déterminer le nombre d'employés necessaire pour exécuter le service.
-
-* Durée : Introduisez la durée pour fournir le service.
-
-* Type de reservation : L'application doit offrir une certaine flexibilité quant au type de réservation proposé. Il est important de considérer les différentes situations dans lesquelles le service peut être utilisé.
-
-  - Reservation direct : Si le service est autoriser a réserver sans aucune limite.
-
-  - Reservation limitée : ce type de reservation veut dire que le client a un nombre spécifique de fois qu'il peut réserver le service.
-
-  - Limite de reservation : Les limites de réservation dans une application peuvent être établies pour diverses raisons, La limite de réservation doit être établie en fonction de la capacité du service proposé notamment pour assurer une bonne gestion et éviter les surréservations.
-
-* Nom de la ressource : Il est important d'identifier les ressources que vous souhaitez ajouter au service. Cela peut inclure des options telles que du matériel, des équipements ou des fournitures.
-
-* Service désignée : Déterminent ce que chaque membre peut faire , Vous pouvez attribuer le service á un membre de staff a cause d'une competence particulière , Sélectionnez le membre de personnel qualifié pour executer ce service .
-
-<p align="center"><img src=./img/addservice.fr.png><p>
-
 ### Mise en place de l'emploi du temps du magasin
 
 Le calendrier vous permet de définir votre emploi du temps pour la semaine. Il vous offre une flexibilité pour définir plusieurs sessions de travail pour chaque jour en déterminant les temps d'ouverture et de fermeture de votre boutique
@@ -94,7 +44,9 @@ Pour ajouter une session:
 - Cliquer sur mon magasin
 
 * Cliquer sur emploi du temps
+* Cliquer sur ajouter une séance
 * fournissez le temp du début et le temps de fin de la session
+* Cliquer sur soumettre.
 
 **Note : Vous pouvez copier la session des jours precedent dans le cas ou vous avez le même horaire de travail pendant plusieurs jours, ceci vous évitera de donner le même information plusieurs fois**
 
@@ -105,21 +57,41 @@ Pour ajouter une session:
 C'est une fonctionnalité qui permet aux prestataire de service de réserver immédiatement un service a un client lorsque le client n'a pas l'application Randev. vous pouvez désigner un service à un membre spécifique.
 
 Pour faire ceci vous devez:
-* Cliquer sur l'icone déroulant
-* Cliquer sur mon magasin
-* Cliquer sur réservation instantanée
+
+- Cliquer sur l'icone déroulant
+- Cliquer sur mon magasin
+- Cliquer sur réservation instantanée
+- Entrer le numéro de téléphone de votre client
+- Entrer le nom de votre client (optionnel)
+- Sélectionner le service que vous souhaitez offrir
+- Sélectionner le membre du staff qui va fournir le service
+- Cliquez sur le bouton de réservation qui contient en fait la première date disponible pour le service sélectionner
+
+Randev vous offre encore plus de flexibilité pour réserver des intervalles de temps futures. Pour faire ceci il vous suffit de
+
+- Activer le bouton réserver plus tard
+- Le calendrier sera alors afficher
+- Consulter les intervalles de temps dans tous les jours à venir
+- Cliquer sur réserver
 
 <p align="center"><img src=./img/InstantBooking.fr.png><p>
 
 ### Consulter mon calendrier
 
-Une fois que vous avez ouvert votre calendrier, vérifiez les événements à venir pour les prochains jours ou semaines. Vous pouvez les voir sous forme de vue de calendrier.
+Pour ouvrir votre calendrier vous devez:
+* Cliquer sur mon emploi du temps dans la page d'accueil 
+ou bien
+* Cliquer sur le menu déroulant
+* Cliquer sur programme
+* Cliquer sur mon emploi du temps
+Vous pouvez voir l'emploi du temps de votre staff ou bien de la sections "no staff" pour les services sans staff.
+  
+  vérifiez les événements à venir pour les prochains jours ou semaines.
 
 Pour faire ceci vous devez:
-
-* Cliquer sur l'icone du menu déroulant
-* Cliquer sur programme
-* Cliquer sur mes rendez-vous
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur programme
+- Cliquer sur mes rendez-vous
 
 <p align="center"><img src=./img/Calendar.fr.png><p>
 
@@ -142,56 +114,131 @@ Vous pouvez aussi acceder au calendrier d'un employé en cliquant sur l'icone pr
 Si vous avez besoin de supprimer un événement existant, cliquez sur l'événement correspondant dans votre calendrier et supprimer le.
 
 pour faire ceci vous devez:
-* Cliquer sur l'icone du menu déroulant
-* Cliquer sure programme
-* Cliquer sur les rendez-vous
-* Cliquer sur l'icone de suppression 
+
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur programme
+- Cliquer sur les rendez-vous
+- Cliquer sur l'icone de suppression
+Vous pouvez envoyer un SMS au client pour l'informer.
 
 <p align="center"><img src=./img/deleteBooking.fr.png><p>
 
-## Inviter du personnel à votre magasin
+## Gestion du personnel
 
-Pour ajouter un membre de vos employés a votre magasin sur l'application il suffit d'accéder a la section membres du staff pour faire ceci vous devez:
+Pour la liste des employés , elle est composée de 3 sections :
 
-* Cliquer sur le menu déroulant
-* Cliquer sur mon magasin
-* Cliquer sur membres du staff
-* Cliquer sur l'icone plus en haut de la page
-* ajouter le nom du staff 
-* ajouter son numéro de telephone .
+- Confirmé : une section qui contient les membres des employés qui ont déjà accepté votre invitation .
+
+- En attente : une section qui contient les membres que vous avez ajouter et qui n'ont pas encore accepté votre invitation .
+
+- Supprimé : une section qui contient les membres des employés que vous avez supprimer.
+
+<p align="center"><img src=./img/Mystaff.fr.png><p>
+
+### Ajouter du personnel à votre magasin
+
+Vous êtes propriétaire d'un magasin et vous souhaitez ajouter du personnel à votre équipe, pour ajouter un employé
+
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur mon magasin
+- Cliquer sur membres du staff
+- cliquez sur le bouton "Ajouter un employé" et entrez son nom et ses informations de contact.
 
 <p align="center"><img src=./img/addstaff.fr.png><p>
 
-## Gestion du personnel
+### Suppression de personnel de votre magasin
 
-Pour la liste des employees , elle est composée de 3 sections :
+Pour faire ceci vous devez:
+* Cliquer sur le menu déroulant
+* Cliquer sur mon magasin
+* Cliquer sur membres du staff
+* Cliquer sur l'icone de suppression 
 
-* Confirmé : une section qui contient les membres des employés qui ont déjà accepté votre invitation .
-
-* En attente : une section qui contient les membres que vous avez ajouter et qui n'ont pas encore accepté votre invitation .
-
-* Supprimé : une section qui contient les membres des employés que vous avez supprimer.
-
-<p align="center"><img src=./img/Mystaff.fr.png><p>
 
 ## Gestion des ressources
 
 Vous pouvez acceder a toutes les ressources que vous avez ajouté , Si vous avez besoin de modifier ou supprimer une ressource existante , cliquez sur le bouton supprimer ou modifier correspondant pour apportez les modifications nécessaires.
 
 Pour faire ceci vous devez:
-* Cliquer sur l'icone du menu déroulant
-* Cliquer sur mon magasin
-* Cliquer sur resources matérielles
+
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur mon magasin
+- Cliquer sur resources matérielles
 
 <p align="center"><img src=./img/resources.fr.png><p>
+
+### Ajouter des ressources matérielles
+
+Déterminez les ressources que vous devez gérer dans votre boutique. Par exemple, vous pourriez avoir besoin de gérer des produits, des équipements ...
+
+Pour faire ceci vous devez:
+
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur mon magasin
+- Cliquer sur resources matérielles
+- Cliquer sur l'icone plus
+
+<p align="center"><img src=./img/Resources.fr.png><p>
+
+<p align="center"><img src=./img/AddResource.fr.png><p>
+
+### Supprimer des ressources matérielles
+
+Pour faire ceci vous devez:
+* Cliquer sur l'icone du menu déroulant.
+* Cliquer sur mon magasin
+* Cliquer sur resources matérielles
+* Cliquer sur l'icone de suppression.
+
 
 ## Gestion des services
 
 Vous pouvez acceder a tout les services que vous avez ajouté , Si vous avez besoin de modifier ou supprimer un service existant , cliquez sur le bouton supprimer ou modifier correspondant pour apportez les modifications nécessaires.
 
 Pour faire ceci vous devez:
-* Cliquer sur l'icone du menu déroulant
-* Cliquer sur mon magasin
-* Cliquer sur les services
+
+- Cliquer sur l'icone du menu déroulant
+- Cliquer sur mon magasin
+- Cliquer sur les services
 
 <p align="center"><img src=./img/Services.fr.png><p>
+
+### Configuration des détails du service
+
+Lors de la création du service vous devez introduire quelques détails pour bien expliquer l'utilité de ce service au client.
+
+- Nom : Nommez votre service en fonction de ce qu'il fait. Le nom de vos services peuvent aider vos client à trouver votre boutique dans les résultats de recherche
+
+* Description : Pour ajouter une description pour un service , il est important de fournir des informations claires, concises et pertinentes aux utilisateurs Pour renforcer l'attractivité du service. Il est important de fournir un support client efficace.
+
+* Prix : Mettez le prix que vous souhaiter pour fournir ce service.
+
+* Nombre d'employée : déterminer le nombre d'employés necessaire pour fournir le service.
+
+* Durée : Introduisez la durée pour fournir le service.
+
+* Type de reservation : vous avez deux choix:
+
+  1- Reservation direct : Si le service est autoriser a réserver sans aucune limite.
+
+  2- Reservation limitée : ce type de reservation veut dire que le client a un nombre spécifique de fois qu'il peut réserver le service.
+
+  3- Limite de reservation : cette section ne s'active pour le type de réservation "Réservation limité", entrer le nombre maximal de réservation par jour.
+
+  **NB: Si vous choisissez une limite de réservation égale à zero, le client ne pourra pas la réserver, il doit vous contactez pour que vous effectuez la réservation pour lui par la fonctionnalité [réservation instantanée](/index.fr.md#réservation-instantanée)**
+
+* Nom de la ressource :Le nom de la resource. On peut choisir des resources qui ont déjà été crée.
+
+* Service désignée : si le service ne peut être fourni que par quelqu'un qui possède des compétences particulières,
+    * Activer le bouton 'service désigné
+    * sélectionner les membres de personnel qualifiés pour ce service
+
+<p align="center"><img src=./img/addservice.fr.png><p>
+
+### Suppression des services
+
+Pour faire ceci vous devez:
+* Cliquer sur le menu déroulant
+* Cliquer mon magasin
+* Cliquer sur les services
+* Cliquer sur l'icone de suppression
