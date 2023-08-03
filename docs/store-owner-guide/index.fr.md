@@ -6,13 +6,13 @@ Bienvenu dans le monde des propriétaires de Randev. voici un guide pour vous in
 
 Commencez par vous assurer que votre téléphone est vérifier, si ce n'est pas le cas :
 
-- Cliquant sur le menu déroulant
-- Cliquant sur ajouter votre numéro
-- écrivant le numéro
-- Cliquant sur soumettre
-- Consultant votre messagerie SMS
-- Entrant le numéro de l'SMS
-- Cliquant sur confirmer
+- Cliquez sur le menu déroulant
+- Cliquez sur ajouter votre numéro
+- Ecrivez le numéro
+- Cliquez sur soumettre
+- Consultez votre messagerie SMS
+- Entrez le numéro de l'SMS
+- Cliquez sur confirmer
 
 ## Créer une boutique
 
@@ -211,8 +211,8 @@ Pour faire ceci vous devez:
 
 Pour ajouter un service vous devez:
 
-* Cliquer sur le bouton plus
-* Entrer les champs suivants:
+- Cliquer sur le bouton plus
+- Entrer les champs suivants:
 
   - Nom : Nommez votre service en fonction de ce qu'il fait. Le nom de vos services peuvent aider vos client à trouver votre boutique dans les résultats de recherche
 
@@ -234,9 +234,9 @@ Pour ajouter un service vous devez:
 
   **NB: Si vous choisissez une limite de réservation égale à zero, le client ne pourra pas la réserver, il doit vous contactez pour que vous effectuez la réservation pour lui par la fonctionnalité [réservation instantanée](#réservation-instantanée)**
 
-  * Nom de la ressource :Le nom de la resource. On peut choisir des resources qui ont déjà été crée.
+  - Nom de la ressource :Le nom de la resource. On peut choisir des resources qui ont déjà été crée.
 
-  * Service désigné : si le service ne peut être fourni que par quelqu'un qui possède des compétences particulières,
+  - Service désigné : si le service ne peut être fourni que par quelqu'un qui possède des compétences particulières,
     - Activer le bouton 'service désigné
     - sélectionner les membres de personnel qualifiés pour ce service
 
