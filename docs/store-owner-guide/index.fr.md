@@ -4,23 +4,15 @@ Bienvenu dans le monde des propriétaires de Randev. voici un guide pour vous in
 
 ## Vérifier votre téléphone
 
-Commencez par vous assurer que votre téléphone est vérifier, si ce n'est pas le cas référer à cette section pour le vérifier:
+Commencez par vous assurer que votre téléphone est vérifier, si ce n'est pas le cas :
 
-- écrivez votre numéro du téléphone dans la fenêtre qui apparait lorsque vous créer votre compte.
-- Cliquez sur envoyer
-- Consulter votre messagerie SMS
-- Entrez le numéro reçu dans l'SMS
-- Cliquez sur confirmer
-
-Si vous êtes connecté depuis Google ou Facebook vous pouvez vérifier votre numéro en:
-
-* Cliquant sur le menu déroulant 
-* Cliquant sur ajouter votre numéro
-* écrivant le numéro 
-* Cliquant sur soumettre
-* Consultant votre messagerie SMS
-* Entrant le numéro de l'SMS
-* Cliquant sur confirmer
+- Cliquant sur le menu déroulant
+- Cliquant sur ajouter votre numéro
+- écrivant le numéro
+- Cliquant sur soumettre
+- Consultant votre messagerie SMS
+- Entrant le numéro de l'SMS
+- Cliquant sur confirmer
 
 ## Créer une boutique
 
@@ -67,7 +59,7 @@ Pour ajouter une session:
 
 ## Réservation instantanée
 
-C'est une fonctionnalité qui permet aux prestataire de service de réserver immédiatement un service a un client lorsque le client n'a pas l'application Randev. vous pouvez affecter un service à un membre spécifique.
+C'est une fonctionnalité qui permet aux prestataire de service de réserver immédiatement un service a un client lorsque le client n'a pas l'application Randev.
 
 Pour faire ceci vous devez:
 
@@ -217,33 +209,36 @@ Pour faire ceci vous devez:
 
 ### Ajouter un service
 
-C'est la partie la plus importante dans l'application Randev puisque c'est ce que le client va voir avant de réserver.
+Pour ajouter un service vous devez:
 
-- Nom : Nommez votre service en fonction de ce qu'il fait. Le nom de vos services peuvent aider vos client à trouver votre boutique dans les résultats de recherche
+* Cliquer sur le bouton plus
+* Entrer les champs suivants:
 
-* Description : Ajoutez une description à votre service pour bien expliquer son utilité au client.
+  - Nom : Nommez votre service en fonction de ce qu'il fait. Le nom de vos services peuvent aider vos client à trouver votre boutique dans les résultats de recherche
 
-* Prix : Mettez le prix que vous souhaiter pour fournir ce service.
+  * Description : Ajoutez une description à votre service pour bien expliquer son utilité au client.
 
-* Nombre d'employée : déterminer le nombre d'employés necessaire pour fournir le service.
+  * Prix : Mettez le prix que vous souhaiter pour fournir ce service.
 
-* Durée : Introduisez la durée pour fournir le service en minutes.
+  * Nombre d'employée : déterminer le nombre d'employés necessaire pour fournir le service.
 
-* Type de reservation : vous avez deux choix:
+  * Durée : Introduisez la durée pour fournir le service en minutes.
 
-  1- Reservation direct : dans ce cas un client peut effectuer autant de reservation qu'il veut pendant une journée.
+  * Type de reservation : vous avez deux choix:
 
-  2- Reservation limitée : ce type de reservation veut dire que le client a un nombre spécifique de fois qu'il peut réserver le service.
+    1- Reservation direct : dans ce cas un client peut effectuer autant de reservation qu'il veut pendant une journée.
 
-* Limite de reservation : cette section ne s'active pour le type de réservation "Réservation limité", entrer le nombre maximal de réservation par jour.
+    2- Reservation limitée : ce type de reservation veut dire que le client a un nombre spécifique de fois qu'il peut réserver le service.
+
+  * Limite de reservation : cette section ne s'active pour le type de réservation "Réservation limité", entrer le nombre maximal de réservation par jour.
 
   **NB: Si vous choisissez une limite de réservation égale à zero, le client ne pourra pas la réserver, il doit vous contactez pour que vous effectuez la réservation pour lui par la fonctionnalité [réservation instantanée](#réservation-instantanée)**
 
-* Nom de la ressource :Le nom de la resource. On peut choisir des resources qui ont déjà été crée.
+  * Nom de la ressource :Le nom de la resource. On peut choisir des resources qui ont déjà été crée.
 
-* Service désigné : si le service ne peut être fourni que par quelqu'un qui possède des compétences particulières,
-  - Activer le bouton 'service désigné
-  - sélectionner les membres de personnel qualifiés pour ce service
+  * Service désigné : si le service ne peut être fourni que par quelqu'un qui possède des compétences particulières,
+    - Activer le bouton 'service désigné
+    - sélectionner les membres de personnel qualifiés pour ce service
 
 <p align="center"><img src=./img/addservice.fr.png><p>
 
