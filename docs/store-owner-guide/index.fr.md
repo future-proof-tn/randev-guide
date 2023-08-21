@@ -38,7 +38,7 @@ Vous devez fournir :
   <img src="./img/Storedetails_fr.png">
 </p>
 
-### Mise en place de l'emploi du temps du magasin
+## Mise en place de l'emploi du temps du magasin
 
 Le calendrier vous permet de définir votre emploi du temps pour la semaine. Il vous offre une flexibilité pour définir plusieurs sessions de travail pour chaque jour en déterminant les temps d'ouverture et de fermeture de votre boutique. Pour ajouter une session :
 
@@ -59,7 +59,7 @@ Le calendrier vous permet de définir votre emploi du temps pour la semaine. Il 
   <img src="./img/CopyCalendar_fr.png">
 </p>
 
-<h2 id="réservation instantanée"> Réservation instantanée </h2>
+## <h2 id="réservation instantanée"> Réservation instantanée </h2>
 
 C'est une fonctionnalité qui permet aux prestataires de service de réserver immédiatement un service à un client lorsque le client n'a pas l'application Randev.
 
@@ -85,19 +85,13 @@ Randev vous offre encore plus de flexibilité pour réserver des intervalles de 
   <img src="./img/InstantBooking_fr.png">
 </p>
 
-### Consulter mon calendrier
+## Consulter mon calendrier
 
 Pour ouvrir votre calendrier, vous devez :
 
 - Cliquez sur "Mon emploi du temps" dans la page d'accueil
 
-Vous pouvez voir l'emploi du temps de votre staff ou bien de la section "no staff" pour les services sans staff. Vérifiez les événements à venir pour les prochains jours ou semaines.
-
-Pour faire ceci, vous devez :
-
-- Cliquez sur l'icône du menu déroulant
-- Cliquez sur "Programme"
-- Cliquez sur "Mes rendez-vous"
+Vous pouvez voir l'emploi du temps de votre staff ou bien de la section "no staff" pour les services sans staff.
 
 <p align="center">
   <img src="./img/Calendar_fr.png">
