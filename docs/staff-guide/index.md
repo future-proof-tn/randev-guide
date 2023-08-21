@@ -1,77 +1,79 @@
 # Store staff guide
 
-Welcome to Randev. In this guide we are about to show you what each section is for as a staff member.
+Welcome to Randev. In this guide, we will show you the purpose of each section as a staff member.
 
-Follow the steps below and you will be able to enjoy using Randev in no time.
+Follow these steps to quickly get acquainted with Randev.
 
 ## Store owner invitation
 
-In order to become a staff member in a store you need to get a store owner invitation first which will show up in your notification section that you can accept or decline.
+To become a staff member in a store, you need a store owner invitation. You will receive this invitation in your notification section, where you can accept or decline it.
 
-To do so you need to
+To proceed:
 
-- Open the Randev application
+- Open the Randev application.
+- Click on the notification icon in the top right corner.
+- Choose one of the following:
+    - Accept the invitation: This confirms your staff membership and grants access to the store.
+    - Decline the invitation: No changes will occur, and you won't be linked to the inviting store.
 
-- Click on the notification icon on the top right
-
-- choose to:
-  - Accept the invitation: you will become a confirmed staff member and the interface will change giving you access to the store
-  - Decline the invitation: nothing will change and there will be no link between you and the store that you were invited to
-
-<p align="center"><img src=./img/invitationstaff.png><p>
+<p align="center">
+  <img src="./img/invitationstaff.png">
+</p>
 
 ## Instant booking
 
-If a client showed up without a booking or simply that is not a Randev user you can simply instantly book for him.
+When a client arrives without a booking or isn't a Randev user, you can instantly make a booking for them.
 
-To do so
+To do this:
 
-- Open the Randev application
-- Click on the dropdown menu icon
-- Click on my store
-- Click on instant booking
-- Enter the phone number of your client
-- Enter the name of your client(optional)
-- Select the service that you want to provide
-- Click on the book button to choose the first available time slot
+- Open the Randev application.
+- Click on the dropdown menu icon.
+- Select "My Store."
+- Choose "Instant Booking."
+- Enter the client's phone number.
+- Optionally, enter the client's name.
+- Select the desired service.
+- Click "Book" to select the first available time slot.
 
-You can also choose another date to do so:
+You can also choose a different date:
 
-- click on the button book for later
-- Choose the date
-- Choose the timeslot
-- Click on book
+- Click on the "Book for Later" button.
+- Choose the date.
+- Select the timeslot.
+- Click "Book."
 
-<p align="center"><img src=./img/InstantBooking.png><p>
+<p align="center">
+  <img src="./img/InstantBooking.png">
+</p>
 
 ## Manage bookings
 
-Staff members need to have full information on when the bookings are and to who they are being provided to avoid double booking problems and last minute cancellations.
+For effective time management and to avoid double bookings or last-minute cancellations, staff members need comprehensive information about upcoming bookings.
 
 ### Check my calendar
 
-Keep yourself up to date with what bookings you have coming up that day or even the days to come.
+Stay updated on your upcoming bookings for the day and beyond with the calendar feature, vital for efficient time organization.
 
-The calendar is an important feature that facilitates time organisation for the staff members.
+To check your calendar:
 
-To check your calendar you need to:
+- Open the Randev application.
+- Click on the dropdown menu icon.
+- Select "Agenda."
+- Choose "My Work Schedule."
+- Click on a booking to view more details.
 
-- Open the Randev application
+<p align="center">
+  <img src="./img/calendar.png">
+</p>
 
-- Click on the drop down menu icon
+You can adjust the page layout by clicking the button in the top right corner.
 
-- Click on agenda
+<p align="center">
+  <img src="./img/advancedcalender.png">
+</p>
 
-- Click on my work schedule
+You can directly call or message the client by clicking on the respective icons.
 
-* Click on a booking to show more details about it.
-
-<p align="center"><img src=./img/calendar.png><p>
-
-You can change the layout of the page by clicking on the button on the top right.
-
-<p align="center"><img src=./img/advancedcalender.png><p>
-
-you can directly call or text message the client by clicking on the call or message icon.
-
-<p align="center"><img src=./img/callmessage.png><p>
+<p align="center">
+  <img src="./img/callmessage.png">
+</p>
