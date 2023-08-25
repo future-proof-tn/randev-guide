@@ -17,6 +17,10 @@ Pour utiliser Randev, il faut créer un compte. Voici comment :
     3.  Entrer le code reçu par SMS
 
   Félicitations, vous êtes désormais un utilisateur Randev !
+  <div style="display: flex; justify-content: center;">
+  <iframe src="https://drive.google.com/file/d/18ZwMV1QdTm614nz-5MjtdxDaDh-DhXAp/preview" width="310" height="480"></iframe>
+  </div>
+
 
 ## Connexion avec un compte d'utilisateur
 
@@ -36,6 +40,14 @@ Voici trois méthodes :
     - Ouvrir l'application
     - Ouvrir le menu déroulant
     - Cliquez sur "Continuer avec email" (vous devez avoir déjà créé un compte)
+  
+<div style="display: flex; justify-content: center;">
+ <iframe src="https://drive.google.com/file/d/1VPhSsV7_zgUErsn4TlwlK29DQiPHGhUY/preview" width="310" height="480"></iframe>
+ </div>
+  
+<div style="display: flex; justify-content: center;">
+ <iframe src="https://drive.google.com/file/d/1Ui4_UQlpfkE_Qyb2SyuSWsyLdLoCBGSL/preview" width="310" height="480"></iframe>
+ </div>
 
 ## Recherche de boutique / service
 
@@ -51,6 +63,10 @@ Notre application vous permet de rechercher n'importe quelle boutique ou service
   <img src="./img/Recherche_fr.png">
 </p>
 
+<div style="display: flex; justify-content: center;">
+ <iframe src="https://drive.google.com/file/d/1uMSLB84kllL4vIQc2EfzBhMe7wpjpcor/preview" width="310" height="480"></iframe>
+ </div>
+
 ### Localisation de la boutique sur la carte
 
 Si vous le souhaitez, vous pouvez également voir la localisation de la boutique sur la carte.
@@ -64,6 +80,9 @@ Pour faire ceci :
 <p align="center">
   <img src="./img/Location_fr.png">
 </p>
+<div style="display: flex; justify-content: center;">
+ <iframe src="https://drive.google.com/file/d/1ue9FvBQXUY-1ZP68PJ8Czl-wDHHoYX2j/preview" width="310" height="480"></iframe>
+ </div>
 
 ### Recherche avancée
 
@@ -78,6 +97,10 @@ Vous pouvez utiliser des filtres tels que la localisation, le prix, le rayon, la
   <img src="./img/RechercheAvancée_fr.png">
 </p>
 
+<div style="display: flex; justify-content: center;">
+ <iframe src="https://drive.google.com/file/d/1FT7k75dkOBSJA-ZG1Iigg-SDvW8vNJal/preview" width="310" height="480"></iframe>
+ </div>
+
 ## Vérification des attributs de la boutique
 
 Vous pouvez cliquer sur chaque résultat pour en savoir plus sur la boutique ou le service, notamment l'adresse, les horaires d'ouverture, les services et les avis des utilisateurs.
@@ -89,6 +112,10 @@ Vous pouvez trouver les horaires d'ouverture de la boutique pour planifier vos v
 <p align="center">
   <img src="./img/HeuresDeTravai_fr.png">
 </p>
+https://drive.google.com/file/d//view?usp=sharing
+<div style="display: flex; justify-content: center;">
+ <iframe src="https://drive.google.com/file/d/19dqDjMe11kYsEsfMFaDVvMvHz_-m48xf/preview" width="310" height="480"></iframe>
+ </div>
 
 ### Services de la boutique
 
@@ -105,6 +132,10 @@ Vous pouvez partager votre avis et aider à améliorer la qualité des services.
 <p align="center">
   <img src="./img/avis_fr.png">
 </p>
+<div style="display: flex; justify-content: center;">
+ <iframe src="https://drive.google.com/file/d/1KyUfsUGqRRXoE-5wsMNXDVXFjU7G3lrO/preview" width="310" height="480"></iframe>
+ </div>
+
 
 ## Effectuer une réservation
 
@@ -119,6 +150,9 @@ Vous pouvez réserver des services proposés dans l'application.
 <p align="center">
   <img src="./img/reserve_fr.png">
 </p>
+<div style="display: flex; justify-content: center;">
+ <iframe src="https://drive.google.com/file/d/1_TUixc0fL8u8n4rn2jhFZC1IUMNmvk-Y/preview" width="310" height="480"></iframe>
+ </div>
 
 ## Ajouter un rappel pour une réservation
 
@@ -134,6 +168,9 @@ Vérifiez les informations et appuyez sur "Ajouter".
 <p align="center">
   <img src="./img/addreminder_fr.png">
 </p>
+<div style="display: flex; justify-content: center;">
+ <iframe src="https://drive.google.com/file/d/1f2UZoa5BcStKaR-1DJ1tXh16tVr6J_1G/preview" width="310" height="480"></iframe>
+ </div>
 
 ## Suppression d'un rappel pour une réservation
 
@@ -147,3 +184,6 @@ Pour supprimer un rappel :
 <p align="center">
   <img src="./img/deletereminder_fr.png">
 </p>
+<div style="display: flex; justify-content: center;">
+ <iframe src="https://drive.google.com/file/d/1vEsAB5jDfArDwPO5uBIBWbk9PrI1F0fb/preview" width="310" height="480"></iframe>
+ </div>
