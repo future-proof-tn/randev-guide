@@ -31,27 +31,27 @@ Il existe plusieurs façons de se connecter à l'application.
 
 Voici trois méthodes :
 
-- Connexion avec Google
-    - Ouvrir l'application
-    - Ouvrir le menu déroulant
-    - Cliquez sur "Continuer avec Google"
-- Connexion avec Facebook
-    - Ouvrir l'application
-    - Ouvrir le menu déroulant
-    - Cliquez sur "Continuer avec Facebook"
-- Connexion avec un compte existant
-    - Ouvrir l'application
-    - Ouvrir le menu déroulant
-    - Cliquez sur "Continuer avec email" (vous devez avoir déjà créé un compte)
+### Connexion avec Google
+- Ouvrir l'application
+- Ouvrir le menu déroulant
+- Cliquez sur "Continuer avec Google"
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/GoogleLogin.mp4" type="video/mp4">
+</video>
+</div>
+### Connexion avec Facebook
+- Ouvrir l'application
+- Ouvrir le menu déroulant
+- Cliquez sur "Continuer avec Facebook"
+### Connexion avec un compte existant
+- Ouvrir l'application
+- Ouvrir le menu déroulant
+- Cliquez sur "Continuer avec email" (vous devez avoir déjà créé un compte)
   
   <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
 <source src="./Videos/FR/Final-product/Login_1.mp4" type="video/mp4">
-</video>
-</div>
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/GoogleLogin.mp4" type="video/mp4">
 </video>
 </div>
 
