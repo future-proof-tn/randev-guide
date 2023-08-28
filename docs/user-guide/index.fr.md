@@ -116,7 +116,7 @@ Vous pouvez utiliser des filtres tels que la localisation, le prix, le rayon, la
 </div>
 
 
-## Vérification des attributs de la boutique
+## Consulter les détails de la boutique
 
 Vous pouvez cliquer sur chaque résultat pour en savoir plus sur la boutique ou le service, notamment l'adresse, les horaires d'ouverture, les services et les avis des utilisateurs.
 
