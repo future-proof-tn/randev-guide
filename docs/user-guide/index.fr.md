@@ -17,6 +17,13 @@ Pour utiliser Randev, il faut créer un compte. Voici comment :
     3.  Entrer le code reçu par SMS
 
   Félicitations, vous êtes désormais un utilisateur Randev !
+  <div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/CreateAccount_2.mp4" type="video/mp4">
+</video>
+</div>
+ 
+
 
 ## Connexion avec un compte d'utilisateur
 
@@ -24,18 +31,29 @@ Il existe plusieurs façons de se connecter à l'application.
 
 Voici trois méthodes :
 
-- Connexion avec Google
-    - Ouvrir l'application
-    - Ouvrir le menu déroulant
-    - Cliquez sur "Continuer avec Google"
-- Connexion avec Facebook
-    - Ouvrir l'application
-    - Ouvrir le menu déroulant
-    - Cliquez sur "Continuer avec Facebook"
-- Connexion avec un compte existant
-    - Ouvrir l'application
-    - Ouvrir le menu déroulant
-    - Cliquez sur "Continuer avec email" (vous devez avoir déjà créé un compte)
+### Connexion avec Google
+- Ouvrir l'application
+- Ouvrir le menu déroulant
+- Cliquez sur "Continuer avec Google"
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/GoogleLogin.mp4" type="video/mp4">
+</video>
+</div>
+### Connexion avec Facebook
+- Ouvrir l'application
+- Ouvrir le menu déroulant
+- Cliquez sur "Continuer avec Facebook"
+### Connexion avec un compte existant
+- Ouvrir l'application
+- Ouvrir le menu déroulant
+- Cliquez sur "Continuer avec email" (vous devez avoir déjà créé un compte)
+  
+  <div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/Login_1.mp4" type="video/mp4">
+</video>
+</div>
 
 ## Recherche de boutique / service
 
@@ -51,6 +69,13 @@ Notre application vous permet de rechercher n'importe quelle boutique ou service
   <img src="./img/Recherche_fr.png">
 </p>
 
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/Search.mp4" type="video/mp4">
+</video>
+</div>
+
+
 ### Localisation de la boutique sur la carte
 
 Si vous le souhaitez, vous pouvez également voir la localisation de la boutique sur la carte.
@@ -64,6 +89,12 @@ Pour faire ceci :
 <p align="center">
   <img src="./img/Location_fr.png">
 </p>
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/SeearchMap.mp4" type="video/mp4">
+</video>
+</div>
+
 
 ### Recherche avancée
 
@@ -78,7 +109,14 @@ Vous pouvez utiliser des filtres tels que la localisation, le prix, le rayon, la
   <img src="./img/RechercheAvancée_fr.png">
 </p>
 
-## Vérification des attributs de la boutique
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/AdvancedSearch.mp4" type="video/mp4">
+</video>
+</div>
+
+
+## Consulter les détails de la boutique
 
 Vous pouvez cliquer sur chaque résultat pour en savoir plus sur la boutique ou le service, notamment l'adresse, les horaires d'ouverture, les services et les avis des utilisateurs.
 
@@ -89,6 +127,12 @@ Vous pouvez trouver les horaires d'ouverture de la boutique pour planifier vos v
 <p align="center">
   <img src="./img/HeuresDeTravai_fr.png">
 </p>
+
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/StoreSchedule.mp4" type="video/mp4">
+</video>
+</div>
 
 ### Services de la boutique
 
@@ -106,6 +150,13 @@ Vous pouvez partager votre avis et aider à améliorer la qualité des services.
   <img src="./img/avis_fr.png">
 </p>
 
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/Rate.mp4" type="video/mp4">
+</video>
+</div>
+
+
 ## Effectuer une réservation
 
 Vous pouvez réserver des services proposés dans l'application.
@@ -119,6 +170,12 @@ Vous pouvez réserver des services proposés dans l'application.
 <p align="center">
   <img src="./img/reserve_fr.png">
 </p>
+
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/Booking.mp4" type="video/mp4">
+</video>
+</div>
 
 ## Ajouter un rappel pour une réservation
 
@@ -135,6 +192,12 @@ Vérifiez les informations et appuyez sur "Ajouter".
   <img src="./img/addreminder_fr.png">
 </p>
 
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/AddReminder.mp4" type="video/mp4">
+</video>
+</div>
+
 ## Suppression d'un rappel pour une réservation
 
 Pour supprimer un rappel :
@@ -147,3 +210,9 @@ Pour supprimer un rappel :
 <p align="center">
   <img src="./img/deletereminder_fr.png">
 </p>
+
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/FR/Final-product/DeleteReminder.mp4" type="video/mp4">
+</video>
+</div>
