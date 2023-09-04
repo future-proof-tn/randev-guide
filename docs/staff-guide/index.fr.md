@@ -36,6 +36,11 @@ Pour faire une réservation instantanée :
 <p align="center">
   <img src="./img/instantbooking_fr.png">
 </p>
+ <div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/InstantBooking_1.mp4" type="video/mp4">
+</video>
+</div>
 
 ## Consulter les réservations
 
@@ -51,6 +56,11 @@ Pour faire ceci :
 - Cliquez sur l'icône du menu déroulant
 - Cliquez sur "Programme"
 - Cliquez sur "Mon emploi du temps"
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/Schedule_1.mp4" type="video/mp4">
+</video>
+</div>
 
 <p align="center">
   <img src="./img/advancedcalender_fr.png">
