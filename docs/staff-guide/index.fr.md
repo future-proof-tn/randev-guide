@@ -1,6 +1,6 @@
 # Guide de l'employé
 
-Bienvenue dans le guide de l'employé ! Ce guide est conçu pour les employés afin de mieux comprendre ce que vous pouvez faire avec cette application.
+Bienvenue dans le guide de l'employé ! Ce guide est conçu pour vous afin de mieux comprendre ce que vous pouvez faire avec cette application.
 
 ## Invitation du propriétaire du magasin
 
@@ -38,7 +38,7 @@ Pour faire une réservation instantanée :
 </p>
  <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/InstantBooking_1.mp4" type="video/mp4">
+<source src="./Videos/InstantBookingStaff.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -56,16 +56,16 @@ Pour faire ceci :
 - Cliquez sur l'icône du menu déroulant
 - Cliquez sur "Programme"
 - Cliquez sur "Mon emploi du temps"
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./Videos/Schedule_1.mp4" type="video/mp4">
-</video>
-</div>
+
 
 <p align="center">
   <img src="./img/advancedcalender_fr.png">
 </p>
-
+<div style="display: flex; justify-content: center;">
+<video controls width=" 310" height="480 ">
+<source src="./Videos/StaffSchedule.mp4" type="video/mp4">
+</video>
+</div>
 Vous pouvez changer l'affichage des rendez-vous en cliquant sur le bouton en haut à droite de la page.
 
 <p align="center">
