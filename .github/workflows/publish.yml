@@ -12,13 +12,13 @@ jobs:
     steps:
       - name: Checkout main
         uses: actions/checkout@v2
-      - run: |
-         ls -la
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+      - name: Install Requirements
+        run: |
+         pip install -r requirements.txt
       - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.RANDEV_GUIDE_UPDATE_TOKEN }}
-          CUSTOM_DOMAIN: help.randev.io
-          CONFIG_FILE: ./mkdocs.yml
-          EXTRA_PACKAGES: build-base
-          REQUIREMENTS: requirements.txt
+        run: |
+         mkdocs gh-deploy
