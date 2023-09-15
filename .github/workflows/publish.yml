@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -19,4 +19,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.RANDEV_GUIDE_UPDATE_TOKEN }}
           CUSTOM_DOMAIN: help.randev.io
           CONFIG_FILE: mkdocs.yml
-          EXTRA_PACKAGES: mkdocs-static-i18n,mkdocs-glightbox
+          EXTRA_PACKAGES: build-base
+          REQUIREMENTS: requirements.txt
