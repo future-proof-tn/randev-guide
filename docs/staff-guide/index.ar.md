@@ -36,7 +36,7 @@
 - اضغط على حجز
 
 <div align="center">
-  <img src="./img/instantbooking_ar.png">
+  <img src="./img/instantbooking.ar.png">
 </div>
 
 ## إدارة المواعيد
@@ -57,17 +57,17 @@
 - النقر فوق جدول عملي
 
 <div align="center">
-  <img src="./img/calendar_ar.png">
+  <img src="./img/calendar.ar.png">
 </div>
 
 يمكنك تغيير طريقة ظهور المعلومات عن طريق الضغط على الزر في أعلى اليسار
 
 <div align="center">
-  <img src="./img/advancedcalender_ar.png">
+  <img src="./img/advancedcalender.ar.png">
 </div>
 
 للاتصال بحريف أو ارسال رسالة له يمكنك النقر على الأيقونة المناسبة لفعل ذلك
 
 <div align="center">
-  <img src="./img/callmessage_ar.png">
+  <img src="./img/callmessage.ar.png">
 </div>

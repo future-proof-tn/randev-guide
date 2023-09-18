@@ -20,7 +20,7 @@
 الخيار الأخير لتسجيل الدخول هو استخدام البريد الإلكتروني الذي يتطلب أن يكون لديك حساب بالفعل. إذا لم يكن لديك ، يمكنك استخدام خيار إنشاء حساب.
 
 <div align="center">
-  <img src="./img/login_ar.png">
+  <img src="./img/login.ar.png">
 </div>
 
 ## البحث عن محلّ / مزوّد خدمة
@@ -32,7 +32,7 @@
 - بعد ذلك اكتب اسم المتجر.
 
 <div align="center">
-  <img src="./img/search_ar.png">
+  <img src="./img/search.ar.png">
 </div>
 
 ### البحث عن طريق الخرائط
@@ -46,7 +46,7 @@
 - ثم الضغط على الخريطة .
 
 <div align="center">
-  <img src="./img/location_ar.png">
+  <img src="./img/location.ar.png">
 </div>
 
 ### البحث المتقدّم
@@ -56,7 +56,7 @@
 للقيام بذلك ، انقر فوق رمز التصفية في أعلى يسار الصفحة.
 
 <div align="center">
-  <img src="./img/advancedsearch_ar.png">
+  <img src="./img/advancedsearch.ar.png">
 </div>
 
 ## التثبّت من معطيات محل/مزوّد خدمة
@@ -69,7 +69,7 @@
 - ثم الضغط على بطاقة المتجر التي يريد التحقق من تفاصيلها.
 
 <div align="center">
-  <img src="./img/details_ar.png">
+  <img src="./img/details.ar.png">
 </div>
 
 ### التحقق من مواعيد العمل
@@ -79,7 +79,7 @@
 يجد الحريف هذه التواقيت في صفحة تفاصيل المتجر.
 
 <div align="center">
-  <img src="./img/workhours_ar.png">
+  <img src="./img/workhours.ar.png">
 </div>
 
 ### التحقق من الخدمات
@@ -93,7 +93,7 @@
 - والتنقل للأسفل إلى الخدمات.
 
 <div align="center">
-  <img src="./img/services_ar.png">
+  <img src="./img/services.ar.png">
 </div>
 
 ## إضافة مراجعة المتجر
@@ -106,7 +106,7 @@
 - ثم إعطاء تقييمك الخاص مع تعليق إذا أردت وإرساله.
 
 <div align="center">
-  <img src="./img/avis_ar.png">
+  <img src="./img/avis.ar.png">
 </div>
 
 ## إجراء الحجز
@@ -118,7 +118,7 @@
 - ثم الضغط على حجز هذه الخدمة.
 
 <div align="center">
-  <img src="./img/Book_ar.png">
+  <img src="./img/Book.ar.png">
 </div>
 
 ## إضافة تذكير للحجز
@@ -135,7 +135,7 @@
 يمكنك حذف حجز أو إضافة تذكير بمجرد النقر على أيقونة الجرس.
 
 <div align="center">
-  <img src="./img/addreminder_ar.png">
+  <img src="./img/addreminder.ar.png">
 </div>
 
 ## إزالة تذكير للحجز
@@ -152,5 +152,5 @@
 انقر فوق رمز الجرس وستظهر نافذة تحتوي على أيقونات تغيير وحذف.
 
 <div align="center">
-  <img src="./img/DeleteReminder_ar.png">
+  <img src="./img/DeleteReminder.ar.png">
 </div>

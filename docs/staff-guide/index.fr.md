@@ -10,9 +10,10 @@ Accepter l'invitation : vous devenez alors un membre de staff confirmé, votre i
 
 Refuser l'invitation : rien ne changera pour vous et aucun lien ne sera effectué entre votre compte et le magasin duquel vous avez reçu l'invitation.
 
-<p align="center">
-  <img src="./img/invitationstaff_fr.jpg">
-</p>
+<figure markdown>
+  ![Invitation Employé](img/invitationstaff.jpg){ width="300" }
+  <figcaption>Notification pour l'invitation du patron</figcaption>
+</figure>
 
 ## Réservation instantanée
 
@@ -34,7 +35,7 @@ Pour faire une réservation instantanée :
 - Cliquez sur "Réserver"
 
 <p align="center">
-  <img src="./img/instantbooking_fr.png">
+  <img src="./img/instantbooking.fr.png">
 </p>
  <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
@@ -59,7 +60,7 @@ Pour faire ceci :
 
 
 <p align="center">
-  <img src="./img/advancedcalender_fr.png">
+  <img src="./img/advancedcalender.fr.png">
 </p>
 <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
@@ -69,7 +70,7 @@ Pour faire ceci :
 Vous pouvez changer l'affichage des rendez-vous en cliquant sur le bouton en haut à droite de la page.
 
 <p align="center">
-  <img src="./img/callmessage_fr.png">
+  <img src="./img/callmessage.fr.png">
 </p>
 
 Vous pouvez appeler ou envoyer un message au client en cliquant sur l'icône qui convient à votre besoin.

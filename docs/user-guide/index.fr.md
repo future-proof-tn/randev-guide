@@ -19,7 +19,7 @@ Pour utiliser Randev, il faut créer un compte. Voici comment :
   Félicitations, vous êtes désormais un utilisateur Randev !
   <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/CreateAccount_2.mp4" type="video/mp4">
+<source src="./assets/video/CreateAccount.mp4" type="video/mp4">
 </video>
 </div>
  
@@ -37,7 +37,7 @@ Voici trois méthodes :
 - Cliquez sur "Continuer avec Google"
 <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/GoogleLogin.mp4" type="video/mp4">
+<source src="./assets/video/GoogleLogin.mp4" type="video/mp4">
 </video>
 </div>
 ### Connexion avec Facebook
@@ -51,7 +51,7 @@ Voici trois méthodes :
   
   <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/Login_1.mp4" type="video/mp4">
+<source src="./assets/video/Login.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -66,12 +66,12 @@ Notre application vous permet de rechercher n'importe quelle boutique ou service
 - Tapez le nom de la boutique ou du service dans la barre de recherche.
 
 <p align="center">
-  <img src="./img/Recherche_fr.png">
+  <img src="./img/Recherche.fr.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/Search.mp4" type="video/mp4">
+<source src="./assets/video/Search.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -87,11 +87,11 @@ Pour faire ceci :
 - Cliquer sur "Carte"
 
 <p align="center">
-  <img src="./img/Location_fr.png">
+  <img src="./img/Location.fr.png">
 </p>
 <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/SeearchMap.mp4" type="video/mp4">
+<source src="./assets/video/SeearchMap.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -106,12 +106,12 @@ Pour accéder à la recherche avancée, utilisez les différents critères de re
 Vous pouvez utiliser des filtres tels que la localisation, le prix, le rayon, la position. Une fois que vous avez défini les critères, cliquez sur "Rechercher" pour lancer la recherche avancée.
 
 <p align="center">
-  <img src="./img/RechercheAvancée_fr.png">
+  <img src="./img/RechercheAvancée.fr.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/AdvancedSearch.mp4" type="video/mp4">
+<source src="./assets/video/AdvancedSearch.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -125,12 +125,12 @@ Vous pouvez cliquer sur chaque résultat pour en savoir plus sur la boutique ou 
 Vous pouvez trouver les horaires d'ouverture de la boutique pour planifier vos visites et rendez-vous.
 
 <p align="center">
-  <img src="./img/HeuresDeTravai_fr.png">
+  <img src="./img/HeuresDeTravai.fr.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/StoreSchedule.mp4" type="video/mp4">
+<source src="./assets/video/StoreSchedule.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -139,7 +139,7 @@ Vous pouvez trouver les horaires d'ouverture de la boutique pour planifier vos v
 Vous pouvez trouver les services proposés par la boutique et profiter de ce qu'elle a à offrir.
 
 <p align="center">
-  <img src="./img/Services_fr.png">
+  <img src="./img/Services.fr.png">
 </p>
 
 ## Ajout d'un avis d'utilisateur
@@ -147,12 +147,12 @@ Vous pouvez trouver les services proposés par la boutique et profiter de ce qu'
 Vous pouvez partager votre avis et aider à améliorer la qualité des services. Choisissez une note ou une évaluation pour le produit ou le service.
 
 <p align="center">
-  <img src="./img/avis_fr.png">
+  <img src="./img/avis.fr.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/Rate.mp4" type="video/mp4">
+<source src="./assets/video/Rate.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -168,12 +168,12 @@ Vous pouvez réserver des services proposés dans l'application.
 - Confirmez votre choix dans la pop-up
 
 <p align="center">
-  <img src="./img/reserve_fr.png">
+  <img src="./img/reserve.fr.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/Booking.mp4" type="video/mp4">
+<source src="./assets/video/Booking.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -189,12 +189,12 @@ Ajoutez un rappel pour ne pas manquer votre réservation.
 Vérifiez les informations et appuyez sur "Ajouter".
 
 <p align="center">
-  <img src="./img/addreminder_fr.png">
+  <img src="./img/addreminder.fr.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/AddReminder.mp4" type="video/mp4">
+<source src="./assets/video/AddReminder.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -208,11 +208,11 @@ Pour supprimer un rappel :
 - Confirmez
 
 <p align="center">
-  <img src="./img/deletereminder_fr.png">
+  <img src="./img/deletereminder.fr.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./Videos/FR/Final-product/DeleteReminder.mp4" type="video/mp4">
+<source src="./assets/video/DeleteReminder.mp4" type="video/mp4">
 </video>
 </div>
