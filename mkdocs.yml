@@ -87,41 +87,43 @@ plugins:
         - fr
         - ar
   - i18n:
-      default_language: en
-      material_alternate: true
+      docs_structure: suffix
+      fallback_to_default: true
       languages:
-        en:
+        - build: true
+          default: true
+          locale: en
           name: English
           site_name: Randev documentation
-          build: true
-        fr:
+        - build: true
+          default: false
+          locale: fr
           name: Français
+          nav_translations:
+            About: A propos
+            Contributing: Contributions
+            Getting in touch: Prise de contact
+            Getting started: Démarrage rapide
+            Home: Accueil
+            Release Notes: Notes de la release
+            Staff guide: Guide employé
+            Store owner guide: Guide patron
+            User guide: Guide utilisateur
           site_name: Documentation Randev
-          material_alternate: true
-          build: true
-        ar:
+        - build: true
+          default: false
+          locale: ar
           name: العربيّة
+          nav_translations:
+            About: حول البرنامج
+            Contributing: المساهمة
+            Getting in touch: الاتصال بنا
+            Getting started: بداية سريعة
+            Home: البداية
+            Release Notes: ملاحظات الاصدار
+            Staff guide: دليل العملة والموضفين
+            Store owner guide: دليل صاحب المحل
+            User guide: دليل المستخدم
           site_name: رندف - دليل المستخدم
-          material_alternate: true
-          build: true
-      nav_translations:
-        fr:
-          Home: Accueil
-          Getting started: Démarrage rapide
-          Store owner guide: Guide patron
-          Staff guide: Guide employé
-          User guide: Guide utilisateur
-          Release Notes: Notes de la release
-          Contributing: Contributions
-          Getting in touch: Prise de contact
-          About: A propos
-        ar:
-          Home: البداية
-          Getting started: بداية سريعة
-          Store owner guide: دليل صاحب المحل
-          Staff guide: دليل العملة والموضفين
-          User guide: دليل المستخدم
-          Release Notes: ملاحظات الاصدار
-          Contributing: المساهمة
-          Getting in touch: الاتصال بنا
-          About: حول البرنامج
+      reconfigure_material: true
+      reconfigure_search: true
