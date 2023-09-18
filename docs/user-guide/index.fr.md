@@ -17,11 +17,12 @@ Pour utiliser Randev, il faut créer un compte. Voici comment :
     3.  Entrer le code reçu par SMS
 
   Félicitations, vous êtes désormais un utilisateur Randev !
-  <div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./assets/video/CreateAccount.mp4" type="video/mp4">
-</video>
-</div>
+
+
+<figure markdown>
+  ![type:video](./assets/video/CreateAccount.mp4){height: 600}
+  <figcaption>Création d'un compte</figcaption>
+</figure>
  
 
 

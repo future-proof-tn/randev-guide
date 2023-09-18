@@ -80,6 +80,7 @@ extra:
       lang: ar
 plugins:
   - glightbox
+  - mkdocs-video
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
       lang:

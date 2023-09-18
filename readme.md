@@ -21,6 +21,7 @@ and also install the theme and plugins from command line:
 pip install mkdocs-material
 pip install mkdocs-static-i18n
 pip install mkdocs-glightbox
+pip install mkdocs-video
 ```
 
 ## Commands
@@ -39,6 +40,7 @@ pip install mkdocs --upgrade
 pip install mkdocs-material --upgrade
 pip install mkdocs-static-i18n --upgrade
 pip install mkdocs-glightbox --upgrade
+pip install mkdocs-video --upgrade
 ```
 
 
