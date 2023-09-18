@@ -30,6 +30,18 @@ pip install mkdocs-glightbox
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
+## Troubleshooting
+
+If you have troubles building, it is most probably related to outdated dependencies. Try the following commands to upgrade dependencies.
+
+```bash
+pip install mkdocs --upgrade
+pip install mkdocs-material --upgrade
+pip install mkdocs-static-i18n --upgrade
+pip install mkdocs-glightbox --upgrade
+```
+
+
 ## Interesting links
 
 [References for theme](https://squidfunk.github.io/mkdocs-material/reference/admonitions/).
