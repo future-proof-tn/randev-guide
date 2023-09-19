@@ -33,12 +33,14 @@ Pour faire une réservation instantanée :
 - Le calendrier sera alors affiché
 - Consultez les intervalles de temps dans tous les jours à venir
 - Cliquez sur "Réserver"
+
 <figure markdown>
   ![Réservation instantanée](img/instantbooking.png){ width="300" }
   <figcaption>Réservation instantanée</figcaption>
 </figure>
+
 <figure markdown>
-  ![type:video](./Videos/InstantBookingStaff.mp4){height: 600}
+  ![type:video](./videos/InstantBookingStaff.mp4){height: 600}
   <figcaption>Réservation instantanée</figcaption>
 </figure>
 
@@ -61,11 +63,14 @@ Pour faire ceci :
   ![Consulter mon calendrier](img/advancedcalender.png){ width="300" }
   <figcaption>Consulter mon calendrier</figcaption>
 </figure>
+
 <figure markdown>
-  ![type:video](./Videos/StaffSchedule.mp4){height: 600}
+  ![type:video](./videos/StaffSchedule.mp4){height: 600}
   <figcaption>Consulter mon calendrier</figcaption>
 </figure>
+
 Vous pouvez changer l'affichage des rendez-vous en cliquant sur le bouton en haut à droite de la page.
+
 <figure markdown>
   ![Appeler ou envoyer un message](img/callmessage.png){ width="300" }
   <figcaption>Appeler ou envoyer un message</figcaption>
