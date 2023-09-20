@@ -34,14 +34,15 @@ Pour faire une réservation instantanée :
 - Consultez les intervalles de temps dans tous les jours à venir
 - Cliquez sur "Réserver"
 
-<p align="center">
-  <img src="./img/instantbooking.fr.png">
-</p>
- <div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./Videos/InstantBookingStaff.mp4" type="video/mp4">
-</video>
-</div>
+<figure markdown>
+  ![Réservation instantanée](img/instantbooking.png){ width="300" }
+  <figcaption>Réservation instantanée</figcaption>
+</figure>
+
+<figure markdown>
+  ![type:video](./videos/InstantBookingStaff.mp4){height: 600}
+  <figcaption>Réservation instantanée</figcaption>
+</figure>
 
 ## Consulter les réservations
 
@@ -58,19 +59,21 @@ Pour faire ceci :
 - Cliquez sur "Programme"
 - Cliquez sur "Mon emploi du temps"
 
+<figure markdown>
+  ![Consulter mon calendrier](img/advancedcalender.png){ width="300" }
+  <figcaption>Consulter mon calendrier</figcaption>
+</figure>
 
-<p align="center">
-  <img src="./img/advancedcalender.fr.png">
-</p>
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./Videos/StaffSchedule.mp4" type="video/mp4">
-</video>
-</div>
+<figure markdown>
+  ![type:video](./videos/StaffSchedule.mp4){height: 600}
+  <figcaption>Consulter mon calendrier</figcaption>
+</figure>
+
 Vous pouvez changer l'affichage des rendez-vous en cliquant sur le bouton en haut à droite de la page.
 
-<p align="center">
-  <img src="./img/callmessage.fr.png">
-</p>
+<figure markdown>
+  ![Appeler ou envoyer un message](img/callmessage.png){ width="300" }
+  <figcaption>Appeler ou envoyer un message</figcaption>
+</figure>
 
 Vous pouvez appeler ou envoyer un message au client en cliquant sur l'icône qui convient à votre besoin.
