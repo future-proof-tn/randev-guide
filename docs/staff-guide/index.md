@@ -15,10 +15,10 @@ To proceed:
 - Choose one of the following:
     - Accept the invitation: This confirms your staff membership and grants access to the store.
     - Decline the invitation: No changes will occur, and you won't be linked to the inviting store.
-
-<p align="center">
-  <img src="./img/invitationstaff.png">
-</p>
+<figure markdown>
+  ![Store owner invitation](img/invitationstaff.png){ width="300" }
+  <figcaption>Store owner invitation</figcaption>
+</figure>
 
 ## Instant booking
 
@@ -41,10 +41,10 @@ You can also choose a different date:
 - Choose the date.
 - Select the timeslot.
 - Click "Book."
-
-<p align="center">
-  <img src="./img/InstantBooking.png">
-</p>
+<figure markdown>
+  ![Instant booking](img/InstantBooking.png){ width="300" }
+  <figcaption>Instant booking</figcaption>
+</figure>
 
 ## Manage bookings
 
@@ -62,18 +62,23 @@ To check your calendar:
 - Choose "My Work Schedule."
 - Click on a booking to view more details.
 
-<p align="center">
-  <img src="./img/calendar.png">
-</p>
+<figure markdown>
+  ![calendar](img/calendar.png){ width="300" }
+  <figcaption>calendar</figcaption>
+</figure>
+
 
 You can adjust the page layout by clicking the button in the top right corner.
 
-<p align="center">
-  <img src="./img/advancedcalender.png">
-</p>
+<figure markdown>
+  ![Second display calendar](img/advancedcalender.png){ width="300" }
+  <figcaption>Seecond display calendar</figcaption>
+</figure>
 
 You can directly call or message the client by clicking on the respective icons.
 
-<p align="center">
-  <img src="./img/callmessage.png">
-</p>
+<figure markdown>
+  ![Call or message](img/callmessage.png){ width="300" }
+  <figcaption>Call or send a message</figcaption>
+</figure>
+

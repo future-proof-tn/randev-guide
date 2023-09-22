@@ -36,11 +36,12 @@ Voici trois méthodes :
 - Ouvrir l'application
 - Ouvrir le menu déroulant
 - Cliquez sur "Continuer avec Google"
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./assets/video/GoogleLogin.mp4" type="video/mp4">
-</video>
-</div>
+
+<figure markdown>
+  ![type:video](./assets/video/GoogleLogin.mp4){height: 600}
+  <figcaption>Connexion avec Google</figcaption>
+</figure>
+
 ### Connexion avec Facebook
 - Ouvrir l'application
 - Ouvrir le menu déroulant
@@ -50,11 +51,12 @@ Voici trois méthodes :
 - Ouvrir le menu déroulant
 - Cliquez sur "Continuer avec email" (vous devez avoir déjà créé un compte)
   
-  <div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./assets/video/Login.mp4" type="video/mp4">
-</video>
-</div>
+  
+
+<figure markdown>
+  ![type:video](./assets/video/Login.mp4){height: 600}
+  <figcaption>Connexion avec un compte existant</figcaption>
+</figure>
 
 ## Recherche de boutique / service
 
@@ -66,16 +68,15 @@ Notre application vous permet de rechercher n'importe quelle boutique ou service
 - Accéder à l'onglet "Recherche" dans le menu principal
 - Tapez le nom de la boutique ou du service dans la barre de recherche.
 
-<p align="center">
-  <img src="./img/Recherche.fr.png">
-</p>
+<figure markdown>
+  ![Store owner invitation](img/Recherche.fr.png){ width="300" }
+  <figcaption>Recherche</figcaption>
+</figure>
 
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./assets/video/Search.mp4" type="video/mp4">
-</video>
-</div>
-
+<figure markdown>
+  ![type:video](./assets/video/Search.mp4){height: 600}
+  <figcaption>Recherche rapide</figcaption>
+</figure>
 
 ### Localisation de la boutique sur la carte
 
@@ -87,15 +88,15 @@ Pour faire ceci :
 - Cliquer sur l'icône du menu déroulant
 - Cliquer sur "Carte"
 
-<p align="center">
-  <img src="./img/Location.fr.png">
-</p>
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./assets/video/SeearchMap.mp4" type="video/mp4">
-</video>
-</div>
+<figure markdown>
+  ![Store owner invitation](img/Location.fr.png){ width="300" }
+  <figcaption>Localisation de la boutique</figcaption>
+</figure>
 
+<figure markdown>
+  ![type:video](./assets/video/SeearchMap.mp4){height: 600}
+  <figcaption>Recherche par carte</figcaption>
+</figure>
 
 ### Recherche avancée
 
@@ -106,16 +107,15 @@ Pour accéder à la recherche avancée, utilisez les différents critères de re
 
 Vous pouvez utiliser des filtres tels que la localisation, le prix, le rayon, la position. Une fois que vous avez défini les critères, cliquez sur "Rechercher" pour lancer la recherche avancée.
 
-<p align="center">
-  <img src="./img/RechercheAvancée.fr.png">
-</p>
+<figure markdown>
+  ![Store owner invitation](img/RechercheAvancée.fr.png){ width="300" }
+  <figcaption>Recherche avancée</figcaption>
+</figure>
 
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./assets/video/AdvancedSearch.mp4" type="video/mp4">
-</video>
-</div>
-
+<figure markdown>
+  ![type:video](./assets/video/AdvancedSearch.mp4){height: 600}
+  <figcaption>Recherche avancée</figcaption>
+</figure>
 
 ## Consulter les détails de la boutique
 
@@ -125,37 +125,38 @@ Vous pouvez cliquer sur chaque résultat pour en savoir plus sur la boutique ou 
 
 Vous pouvez trouver les horaires d'ouverture de la boutique pour planifier vos visites et rendez-vous.
 
-<p align="center">
-  <img src="./img/HeuresDeTravai.fr.png">
-</p>
+<figure markdown>
+  ![Store owner invitation](img/HeuresDeTravai.fr.png){ width="300" }
+  <figcaption>Horaires de travail</figcaption>
+</figure>
 
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./assets/video/StoreSchedule.mp4" type="video/mp4">
-</video>
-</div>
+<figure markdown>
+  ![type:video](./assets/video/StoreSchedule.mp4){height: 600}
+  <figcaption>Horaires de travail</figcaption>
+</figure>
 
 ### Services de la boutique
 
 Vous pouvez trouver les services proposés par la boutique et profiter de ce qu'elle a à offrir.
 
-<p align="center">
-  <img src="./img/Services.fr.png">
-</p>
+<figure markdown>
+  ![Store owner invitation](img/Services.fr.png){ width="300" }
+  <figcaption>Services</figcaption>
+</figure>
 
 ## Ajout d'un avis d'utilisateur
 
 Vous pouvez partager votre avis et aider à améliorer la qualité des services. Choisissez une note ou une évaluation pour le produit ou le service.
 
-<p align="center">
-  <img src="./img/avis.fr.png">
-</p>
+<figure markdown>
+  ![Store owner invitation](img/avis.fr.png){ width="300" }
+  <figcaption>Avis</figcaption>
+</figure>
 
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./assets/video/Rate.mp4" type="video/mp4">
-</video>
-</div>
+<figure markdown>
+  ![type:video](./assets/video/Rate.mp4){height: 600}
+  <figcaption>Avis</figcaption>
+</figure>
 
 
 ## Effectuer une réservation
@@ -168,15 +169,15 @@ Vous pouvez réserver des services proposés dans l'application.
 - Cliquez sur "Réservez"
 - Confirmez votre choix dans la pop-up
 
-<p align="center">
-  <img src="./img/reserve.fr.png">
-</p>
+<figure markdown>
+  ![Store owner invitation](img/reserve.fr.png){ width="300" }
+  <figcaption>Effectuer une réservation</figcaption>
+</figure>
 
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./assets/video/Booking.mp4" type="video/mp4">
-</video>
-</div>
+<figure markdown>
+  ![type:video](./assets/video/Booking.mp4){height: 600}
+  <figcaption>Effectuer une réservation</figcaption>
+</figure>
 
 ## Ajouter un rappel pour une réservation
 
@@ -189,15 +190,15 @@ Ajoutez un rappel pour ne pas manquer votre réservation.
 
 Vérifiez les informations et appuyez sur "Ajouter".
 
-<p align="center">
-  <img src="./img/addreminder.fr.png">
-</p>
+<figure markdown>
+  ![Store owner invitation](img/addreminder.fr.png){ width="300" }
+  <figcaption>Ajouter un rappel</figcaption>
+</figure>
 
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./assets/video/AddReminder.mp4" type="video/mp4">
-</video>
-</div>
+<figure markdown>
+  ![type:video](./assets/video/AddReminder.mp4){height: 600}
+  <figcaption>Ajouter un rappel</figcaption>
+</figure>
 
 ## Suppression d'un rappel pour une réservation
 
@@ -208,12 +209,12 @@ Pour supprimer un rappel :
 - Cliquez sur l'icône de suppression
 - Confirmez
 
-<p align="center">
-  <img src="./img/deletereminder.fr.png">
-</p>
+<figure markdown>
+  ![Store owner invitation](img/deletereminder.fr.png){ width="300" }
+  <figcaption>Supprimer un rappel</figcaption>
+</figure>
 
-<div style="display: flex; justify-content: center;">
-<video controls width=" 310" height="480 ">
-<source src="./assets/video/DeleteReminder.mp4" type="video/mp4">
-</video>
-</div>
+<figure markdown>
+  ![type:video](./assets/video/DeleteReminder.mp4){height: 600}
+  <figcaption>Supprimer un rappel</figcaption>
+</figure>

@@ -42,9 +42,10 @@ There are three ways to log in to the application.
     - Click on "Login."
     - Click on "Continue with email." You need to have already created an account as shown in the previous section. Enter the correct email and password.
 
-<p align="center">
-  <img src="./img/Login.jpg">
-</p>
+<figure markdown>
+  ![Login](img/Login.jpg){ width="300" }
+  <figcaption>Login</figcaption>
+</figure>
 
 ## Searching for a store
 
@@ -56,9 +57,11 @@ One of the exciting features of Randev is the store search feature.
 - Click on the search button at the top of the page.
 - Type in the name of the store.
 
-<p align="center">
-  <img src="./img/search.jpg">
-</p>
+<figure markdown>
+  ![search](img/search.jpg){ width="300" }
+  <figcaption>search</figcaption>
+</figure>
+
 
 ### Locating the store on the map
 
@@ -70,9 +73,10 @@ To check the store location:
 - Click on the dropdown menu icon.
 - Click on "Map."
 
-<p align="center">
-  <img src="./img/Location.png">
-</p>
+<figure markdown>
+  ![Location](img/Location.png){ width="300" }
+  <figcaption>Location</figcaption>
+</figure>
 
 ### Refining the search criteria
 
@@ -83,9 +87,10 @@ To access the advanced search:
 - Open the Randev application.
 - Click on the filter icon at the top right of the page.
 
-<p align="center">
-  <img src="./img/AdvancedSearch.jpg">
-</p>
+<figure markdown>
+  ![Advanced Search](img/AdvancedSearch.jpg){ width="300" }
+  <figcaption>Advanced Search</figcaption>
+</figure>
 
 ## Checking out store details
 
@@ -96,33 +101,38 @@ To check store details:
 - Open the Randev application.
 - Click on the store card to view details.
 
-<p align="center">
-  <img src="./img/Details.png">
-</p>
+<figure markdown>
+  ![Details](img/Details.png){ width="300" }
+  <figcaption>Store details</figcaption>
+</figure>
 
 ### Checking out the opening times
 
 Find store opening times on the store details page, making booking convenient for both the owner and the client.
 
-<p align="center">
-  <img src="./img/WorkHours.png">
-</p>
+<figure markdown>
+  ![Opening times](img/WorkHours.png){ width="300" }
+  <figcaption>Opening times</figcaption>
+</figure>
 
 ### Checking out the services
 
 Discover the services offered by the store, enabling you to take advantage of everything it offers.
 
-<p align="center">
-  <img src="./img/services.png">
-</p>
+<figure markdown>
+  ![services](img/services.png){ width="300" }
+  <figcaption>Services</figcaption>
+</figure>
+
 
 ## Adding a store review
 
 Share your thoughts to improve service quality by leaving a review with a star rating and comments.
 
-<p align="center">
-  <img src="./img/review.png">
-</p>
+<figure markdown>
+  ![review](img/review.png){ width="300" }
+  <figcaption>Leave a review</figcaption>
+</figure>
 
 ## Performing a booking
 
@@ -140,9 +150,10 @@ To make a booking:
   - Click the "Book" button.
   - Confirm or cancel the booking in the popup.
 
-<p align="center">
-  <img src="./img/book.png">
-</p>
+<figure markdown>
+  ![Booking](img/book.png){ width="300" }
+  <figcaption>Make a booking</figcaption>
+</figure>
 
 ## Adding a reminder for a booking
 
@@ -156,9 +167,10 @@ To add a reminder:
 - Click on "My bookings."
 - Manage your bookings, including adding a reminder by clicking the bell icon.
 
-<p align="center">
-  <img src="./img/addreminder.png">
-</p>
+<figure markdown>
+  ![Adding a reminder](img/addreminder.png){ width="300" }
+  <figcaption>Adding a reminder</figcaption>
+</figure>
 
 ## Removing a reminder for a booking
 
@@ -172,6 +184,7 @@ To remove a reminder:
 - Click on "My bookings."
 - Click on the bell icon for the booking and choose to edit or delete.
 
-<p align="center">
-  <img src="./img/DeleteReminder.png">
-</p>
+<figure markdown>
+  ![Removing a reminder](img/DeleteReminder.png){ width="300" }
+  <figcaption>Removing a reminder</figcaption>
+</figure>

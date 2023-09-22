@@ -21,9 +21,10 @@ Pour accéder à la page de création de la boutique, vous devez :
 - Ouvrir le menu
 - Cliquer sur le titre "Créer une boutique"
 
-<p align="center">
-  <img src="./img/CreateStor.fr.png">
-</p>
+<figure markdown>
+  ![Créer une boutique](img/createstor.fr.png){ width="300" }
+  <figcaption>Créer une boutique</figcaption>
+</figure>
 
 Vous devez fournir :
 
@@ -34,9 +35,10 @@ Vous devez fournir :
 - L'adresse de votre boutique : utilisez la carte pour la fournir, ainsi votre boutique sera visible sur les résultats de recherches à travers la carte géographique
 - Votre site web : ce champ est totalement optionnel
 
-<p align="center">
-  <img src="./img/Storedetails.fr.png">
-</p>
+<figure markdown>
+  ![Détails de la boutique](img/Storedetails.fr.png){ width="300" }
+  <figcaption>Détails de la boutique</figcaption>
+</figure>
 
 ## Mise en place de l'emploi du temps du magasin
 
@@ -51,13 +53,15 @@ Le calendrier vous permet de définir votre emploi du temps pour la semaine. Il 
 
 <b> Note : Vous pouvez copier la session des jours précédents dans le cas où vous avez le même horaire de travail pendant plusieurs jours, ceci vous évitera de donner la même information plusieurs fois </b>
 
-<p align="center">
-  <img src="./img/Schedule.fr.png">
-</p>
+<figure markdown>
+  ![Emploi du temps du magasin](img/Schedule.fr.png){ width="300" }
+  <figcaption>Emploi du temps du magasin</figcaption>
+</figure>
 
-<p align="center">
-  <img src="./img/CopyCalendar.fr.png">
-</p>
+<figure markdown>
+  ![Copier le programme du jour précédent](img/CopyCalendar.fr.png){ width="300" }
+  <figcaption>Copier le programme du jour précédent</figcaption>
+</figure>
 
 ## <h2 id="réservation instantanée"> Réservation instantanée </h2>
 
@@ -81,9 +85,10 @@ Randev vous offre encore plus de flexibilité pour réserver des intervalles de 
 - Consultez les intervalles de temps dans tous les jours à venir
 - Cliquez sur "Réserver"
 
-<p align="center">
-  <img src="./img/InstantBooking.fr.png">
-</p>
+<figure markdown>
+  ![réservation instantanée](img/InstantBooking.fr.png){ width="300" }
+  <figcaption>réservation instantanée</figcaption>
+</figure>
 
 ## Consulter mon calendrier
 
@@ -93,29 +98,33 @@ Pour ouvrir votre calendrier, vous devez :
 
 Vous pouvez voir l'emploi du temps de votre staff ou bien de la section "no staff" pour les services sans staff.
 
-<p align="center">
-  <img src="./img/Calendar.fr.png">
-</p>
+<figure markdown>
+  ![calendrier](img/Calendar.fr.png){ width="300" }
+  <figcaption>calendrier</figcaption>
+</figure>
 
 Vous pouvez changer l'affichage des rendez-vous en cliquant sur le bouton en haut à droite de la page.
 
-<p align="center">
-  <img src="./img/advancedcalender.fr.png">
-</p>
+<figure markdown>
+  ![calendrier](img/advancedcalender.fr.png){ width="300" }
+  <figcaption>calendrier</figcaption>
+</figure>
 
 Vous pouvez appeler ou envoyer un message au client en cliquant sur l'icône correspondante.
 
-<p align="center">
-  <img src="./img/callmessage.fr.png">
-</p>
+<figure markdown>
+  ![appeler ou envoyer un message](img/callmessage.fr.png){ width="300" }
+  <figcaption>appeler ou envoyer un message</figcaption>
+</figure>
 
 ### Vérifier le calendrier du personnel
 
 Vous pouvez aussi accéder au calendrier d'un employé en cliquant sur l'icône du profil. La liste de tous vos employés va s'afficher et là vous pouvez choisir lequel vous voulez consulter.
 
-<p align="center">
-  <img src="./img/StaffSchedule.fr.png">
-</p>
+<figure markdown>
+  ![le calendrier du personnel](img/StaffSchedule.fr.png){ width="300" }
+  <figcaption>le calendrier du personnel</figcaption>
+</figure>
 
 ### Annuler la réservation
 
@@ -128,9 +137,10 @@ Pour faire ceci, vous devez :
 - Cliquez sur "Les rendez-vous"
 - Cliquez sur l'icône de suppression
 
-<p align="center">
-  <img src="./img/deleteBooking.fr.png">
-</p>
+<figure markdown>
+  ![Annuler la réservation](img/deleteBooking.fr.png){ width="300" }
+  <figcaption>Annuler la réservation</figcaption>
+</figure>
 
 ## Gestion du personnel
 
@@ -140,9 +150,10 @@ La liste des employés est composée de 3 sections :
 - En attente : une section qui contient les membres que vous avez ajoutés et qui n'ont pas encore accepté votre invitation.
 - Supprimé : une section qui contient les membres du personnel que vous avez supprimés.
 
-<p align="center">
-  <img src="./img/Mystaff.fr.png">
-</p>
+<figure markdown>
+  ![Gestion du personnel](img/Mystaff.fr.png){ width="300" }
+  <figcaption>Gestion du personnel</figcaption>
+</figure>
 
 ### Ajouter du personnel à votre magasin
 
@@ -153,9 +164,10 @@ Vous êtes propriétaire d'un magasin et vous souhaitez ajouter du personnel à 
 - Cliquez sur "Membres du staff"
 - Cliquez sur le bouton "Ajouter un employé" et entrez son nom et ses informations de contact.
 
-<p align="center">
-  <img src="./img/addstaff.fr.png">
-</p>
+<figure markdown>
+  ![Ajouter du personnel à votre magasin](img/Addstaff.fr.png){ width="300" }
+  <figcaption>Ajouter du personnel à votre magasin</figcaption>
+</figure>
 
 ### Suppression de personnel de votre magasin
 
@@ -176,9 +188,10 @@ Pour faire ceci, vous devez :
 - Cliquez sur "Mon magasin"
 - Cliquez sur "Ressources matérielles"
 
-<p align="center">
-  <img src="./img/resources.fr.png">
-</p>
+<figure markdown>
+  ![Gestion des ressources](img/Resources.fr.png){ width="300" }
+  <figcaption>Gestion des ressources</figcaption>
+</figure>
 
 ### Ajouter des ressources matérielles
 
@@ -191,13 +204,15 @@ Pour faire ceci, vous devez :
 - Cliquez sur "Ressources matérielles"
 - Cliquez sur le bouton "plus"
 
-<p align="center">
-  <img src="./img/Resources.fr.png">
-</p>
+<figure markdown>
+  ![Ajouter des ressources matérielles](img/Resources.fr.png){ width="300" }
+  <figcaption>Ajouter des ressources matérielles</figcaption>
+</figure>
 
-<p align="center">
-  <img src="./img/AddResource.fr.png">
-</p>
+<figure markdown>
+  ![Ajouter des ressources matérielles](img/AddResource.fr.png){ width="300" }
+  <figcaption>Ajouter des ressources matérielles</figcaption>
+</figure>
 
 ### Supprimer des ressources matérielles
 
@@ -218,9 +233,10 @@ Pour faire ceci, vous devez :
 - Cliquez sur "Mon magasin"
 - Cliquez sur "Les services"
 
-<p align="center">
-  <img src="./img/Services.fr.png">
-</p>
+<figure markdown>
+  ![Gestion des services](img/Services.fr.png){ width="300" }
+  <figcaption>Gestion des services</figcaption>
+</figure>
 
 ### Ajouter un service
 
@@ -243,9 +259,10 @@ Pour ajouter un service, vous devez :
     - Activer le bouton "Service désigné"
     - Sélectionner les membres du personnel qualifiés pour ce service.
 
-<p align="center">
-  <img src="./img/addservice.fr.png">
-</p>
+<figure markdown>
+  ![Ajouter un service](img/addservice.fr.png){ width="300" }
+  <figcaption>Ajouter un service</figcaption>
+</figure>
 
 ### Suppression des services
 

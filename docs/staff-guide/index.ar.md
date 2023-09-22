@@ -35,9 +35,11 @@
 - اضغط على الوقت المناسب
 - اضغط على حجز
 
-<div align="center">
-  <img src="./img/instantbooking.ar.png">
-</div>
+<figure markdown>
+  ![الحجز الفوري](img/instantbooking.ar.png){ width="300" }
+  <figcaption>الحجز الفوري</figcaption>
+</figure>
+
 
 ## إدارة المواعيد
 
@@ -56,18 +58,21 @@
 - النقر فوق البرنامج
 - النقر فوق جدول عملي
 
-<div align="center">
-  <img src="./img/calendar.ar.png">
-</div>
+<figure markdown>
+  ![جدول المواعيد](img/calendar.ar.png){ width="300" }
+  <figcaption> جدول المواعيد</figcaption>
+</figure>
 
 يمكنك تغيير طريقة ظهور المعلومات عن طريق الضغط على الزر في أعلى اليسار
 
-<div align="center">
-  <img src="./img/advancedcalender.ar.png">
-</div>
+<figure markdown>
+  ![جدول المواعيد](img/advancedcalender.ar.png){ width="300" }
+  <figcaption> جدول المواعيد</figcaption>
+</figure>
 
 للاتصال بحريف أو ارسال رسالة له يمكنك النقر على الأيقونة المناسبة لفعل ذلك
 
-<div align="center">
-  <img src="./img/callmessage.ar.png">
-</div>
+<figure markdown>
+  ![ لاتصال أو ارسال رسالة](img/callmessage.ar.png){ width="300" }
+  <figcaption> لاتصال أو ارسال رسالة</figcaption>
+</figure>

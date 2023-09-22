@@ -19,9 +19,10 @@
 
 الخيار الأخير لتسجيل الدخول هو استخدام البريد الإلكتروني الذي يتطلب أن يكون لديك حساب بالفعل. إذا لم يكن لديك ، يمكنك استخدام خيار إنشاء حساب.
 
-<div align="center">
-  <img src="./img/login.ar.png">
-</div>
+<figure markdown>
+  ![تسجيل الدخول](img/Login.ar.png){ width="300" }
+  <figcaption>تسجيل الدخول</figcaption>
+</figure>
 
 ## البحث عن محلّ / مزوّد خدمة
 
@@ -31,9 +32,10 @@
 - ثم انقر ببساطة على زر البحث الموجود أعلى الصفحة.
 - بعد ذلك اكتب اسم المتجر.
 
-<div align="center">
-  <img src="./img/search.ar.png">
-</div>
+<figure markdown>
+  ![البحث عن محلّ](img/search.ar.png){ width="300" }
+  <figcaption>البحث عن محلّ</figcaption>
+</figure>
 
 ### البحث عن طريق الخرائط
 
@@ -45,9 +47,11 @@
 - والنقر فوق القائمة المنسدلة
 - ثم الضغط على الخريطة .
 
-<div align="center">
-  <img src="./img/location.ar.png">
-</div>
+<figure markdown>
+  ![البحث عن طريق الخرائط](img/Location.ar.png){ width="300" }
+  <figcaption>البحث عن طريق الخرائط</figcaption>
+</figure>
+
 
 ### البحث المتقدّم
 
@@ -55,9 +59,10 @@
 
 للقيام بذلك ، انقر فوق رمز التصفية في أعلى يسار الصفحة.
 
-<div align="center">
-  <img src="./img/advancedsearch.ar.png">
-</div>
+<figure markdown>
+  ![البحث المتقدّم](img/Advancedsearch.ar.png){ width="300" }
+  <figcaption>البحث المتقدّم</figcaption>
+</figure>
 
 ## التثبّت من معطيات محل/مزوّد خدمة
 
@@ -68,9 +73,11 @@
 - فتح تطبيق رندف
 - ثم الضغط على بطاقة المتجر التي يريد التحقق من تفاصيلها.
 
-<div align="center">
-  <img src="./img/details.ar.png">
-</div>
+<figure markdown>
+  ![المعطيات](img/details.ar.png){ width="300" }
+  <figcaption>المعطيات</figcaption>
+</figure>
+
 
 ### التحقق من مواعيد العمل
 
@@ -78,9 +85,10 @@
 
 يجد الحريف هذه التواقيت في صفحة تفاصيل المتجر.
 
-<div align="center">
-  <img src="./img/workhours.ar.png">
-</div>
+<figure markdown>
+  ![مواعيد العمل](img/workhours.ar.png){ width="300" }
+  <figcaption>مواعيد العمل</figcaption>
+</figure>
 
 ### التحقق من الخدمات
 
@@ -92,9 +100,10 @@
 - النقر فوق بطاقة المتجر التي يريد التحقق منها
 - والتنقل للأسفل إلى الخدمات.
 
-<div align="center">
-  <img src="./img/services.ar.png">
-</div>
+<figure markdown>
+  ![الخدمات](img/services.ar.png){ width="300" }
+  <figcaption>الخدمات</figcaption>
+</figure>
 
 ## إضافة مراجعة المتجر
 
@@ -105,9 +114,10 @@
 - والنقر على أيقونة النجوم ،
 - ثم إعطاء تقييمك الخاص مع تعليق إذا أردت وإرساله.
 
-<div align="center">
-  <img src="./img/avis.ar.png">
-</div>
+<figure markdown>
+  ![مراجعة المتجر](img/avis.ar.png){ width="300" }
+  <figcaption>مراجعة المتجر</figcaption>
+</figure>
 
 ## إجراء الحجز
 
@@ -117,9 +127,10 @@
 - ثم الضغط على الخدمة التي يحتاجها
 - ثم الضغط على حجز هذه الخدمة.
 
-<div align="center">
-  <img src="./img/Book.ar.png">
-</div>
+<figure markdown>
+  ![إجراء الحجز](img/Book.ar.png){ width="300" }
+  <figcaption>إجراء الحجز</figcaption>
+</figure>
 
 ## إضافة تذكير للحجز
 
@@ -134,9 +145,10 @@
 
 يمكنك حذف حجز أو إضافة تذكير بمجرد النقر على أيقونة الجرس.
 
-<div align="center">
-  <img src="./img/addreminder.ar.png">
-</div>
+<figure markdown>
+  ![إضافة تذكير](img/addreminder.ar.png){ width="300" }
+  <figcaption>إضافة تذكير</figcaption>
+</figure>
 
 ## إزالة تذكير للحجز
 
@@ -151,6 +163,7 @@
 
 انقر فوق رمز الجرس وستظهر نافذة تحتوي على أيقونات تغيير وحذف.
 
-<div align="center">
-  <img src="./img/DeleteReminder.ar.png">
-</div>
+<figure markdown>
+  ![إزالة تذكير](img/DeleteReminder.ar.png){ width="300" }
+  <figcaption>إزالة تذكير</figcaption>
+</figure>
