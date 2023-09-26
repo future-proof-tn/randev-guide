@@ -11,7 +11,7 @@ Accepter l'invitation : vous devenez alors un membre de staff confirmé, votre i
 Refuser l'invitation : rien ne changera pour vous et aucun lien ne sera effectué entre votre compte et le magasin duquel vous avez reçu l'invitation.
 
 <figure markdown>
-  ![Invitation Employé](img/invitationstaff.jpg){ width="300" }
+  ![Invitation Employé](img/invitationstaffFrench.jpg){ width="300" }
   <figcaption>Notification pour l'invitation du patron</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Pour faire une réservation instantanée :
 - Cliquez sur "Réserver"
 
 <figure markdown>
-  ![Réservation instantanée](img/instantbooking.png){ width="300" }
+  ![Réservation instantanée](img/InstantBookingFrench.png){ width="300" }
   <figcaption>Réservation instantanée</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Pour faire ceci :
 - Cliquez sur "Mon emploi du temps"
 
 <figure markdown>
-  ![Consulter mon calendrier](img/advancedcalender.png){ width="300" }
+  ![Consulter mon calendrier](img/advancedcalenderFrench.png){ width="300" }
   <figcaption>Consulter mon calendrier</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ Pour faire ceci :
 Vous pouvez changer l'affichage des rendez-vous en cliquant sur le bouton en haut à droite de la page.
 
 <figure markdown>
-  ![Appeler ou envoyer un message](img/callmessage.png){ width="300" }
+  ![Appeler ou envoyer un message](img/callmessageFrench.png){ width="300" }
   <figcaption>Appeler ou envoyer un message</figcaption>
 </figure>
 

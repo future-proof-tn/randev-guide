@@ -36,7 +36,7 @@
 - اضغط على حجز
 
 <figure markdown>
-  ![الحجز الفوري](img/instantbooking.ar.png){ width="300" }
+  ![الحجز الفوري](img/instantbookingArabic.png){ width="300" }
   <figcaption>الحجز الفوري</figcaption>
 </figure>
 
@@ -59,20 +59,20 @@
 - النقر فوق جدول عملي
 
 <figure markdown>
-  ![جدول المواعيد](img/calendar.ar.png){ width="300" }
+  ![جدول المواعيد](img/calendarArabic.png){ width="300" }
   <figcaption> جدول المواعيد</figcaption>
 </figure>
 
 يمكنك تغيير طريقة ظهور المعلومات عن طريق الضغط على الزر في أعلى اليسار
 
 <figure markdown>
-  ![جدول المواعيد](img/advancedcalender.ar.png){ width="300" }
+  ![جدول المواعيد](img/advancedcalenderArabic.png){ width="300" }
   <figcaption> جدول المواعيد</figcaption>
 </figure>
 
 للاتصال بحريف أو ارسال رسالة له يمكنك النقر على الأيقونة المناسبة لفعل ذلك
 
 <figure markdown>
-  ![ لاتصال أو ارسال رسالة](img/callmessage.ar.png){ width="300" }
+  ![ لاتصال أو ارسال رسالة](img/callmessageArabic.png){ width="300" }
   <figcaption> لاتصال أو ارسال رسالة</figcaption>
 </figure>
