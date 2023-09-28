@@ -69,7 +69,7 @@ Notre application vous permet de rechercher n'importe quelle boutique ou service
 - Tapez le nom de la boutique ou du service dans la barre de recherche.
 
 <figure markdown>
-  ![Store owner invitation](img/RechercheFrench.png){ width="300" }
+  ![Store owner invitation](img/Recherche.png){ width="300" }
   <figcaption>Recherche</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Pour faire ceci :
 - Cliquer sur "Carte"
 
 <figure markdown>
-  ![Store owner invitation](img/LocationFrench.png){ width="300" }
+  ![Store owner invitation](img/Localisation.png){ width="300" }
   <figcaption>Localisation de la boutique</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Pour accéder à la recherche avancée, utilisez les différents critères de re
 Vous pouvez utiliser des filtres tels que la localisation, le prix, le rayon, la position. Une fois que vous avez défini les critères, cliquez sur "Rechercher" pour lancer la recherche avancée.
 
 <figure markdown>
-  ![Store owner invitation](img/RechercheAvancéeFrench.png){ width="300" }
+  ![Store owner invitation](img/RechercheAvancée.png){ width="300" }
   <figcaption>Recherche avancée</figcaption>
 </figure>
 
@@ -126,7 +126,7 @@ Vous pouvez cliquer sur chaque résultat pour en savoir plus sur la boutique ou 
 Vous pouvez trouver les horaires d'ouverture de la boutique pour planifier vos visites et rendez-vous.
 
 <figure markdown>
-  ![Store owner invitation](img/HeuresDeTravaiFrench.png){ width="300" }
+  ![Store owner invitation](img/HeuresDeTravail.png){ width="300" }
   <figcaption>Horaires de travail</figcaption>
 </figure>
 
@@ -140,7 +140,7 @@ Vous pouvez trouver les horaires d'ouverture de la boutique pour planifier vos v
 Vous pouvez trouver les services proposés par la boutique et profiter de ce qu'elle a à offrir.
 
 <figure markdown>
-  ![Store owner invitation](img/ServicesFrench.png){ width="300" }
+  ![Store owner invitation](img/LesServices.png){ width="300" }
   <figcaption>Services</figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ Vous pouvez trouver les services proposés par la boutique et profiter de ce qu'
 Vous pouvez partager votre avis et aider à améliorer la qualité des services. Choisissez une note ou une évaluation pour le produit ou le service.
 
 <figure markdown>
-  ![Store owner invitation](img/avisFrench.png){ width="300" }
+  ![Store owner invitation](img/avis.png){ width="300" }
   <figcaption>Avis</figcaption>
 </figure>
 
@@ -170,7 +170,7 @@ Vous pouvez réserver des services proposés dans l'application.
 - Confirmez votre choix dans la pop-up
 
 <figure markdown>
-  ![Store owner invitation](img/reserveFrench.png){ width="300" }
+  ![Store owner invitation](img/reserve.png){ width="300" }
   <figcaption>Effectuer une réservation</figcaption>
 </figure>
 
@@ -191,7 +191,7 @@ Ajoutez un rappel pour ne pas manquer votre réservation.
 Vérifiez les informations et appuyez sur "Ajouter".
 
 <figure markdown>
-  ![Store owner invitation](img/addreminderFrench.png){ width="300" }
+  ![Store owner invitation](img/AjouterRappel.png){ width="300" }
   <figcaption>Ajouter un rappel</figcaption>
 </figure>
 
@@ -210,7 +210,7 @@ Pour supprimer un rappel :
 - Confirmez
 
 <figure markdown>
-  ![Store owner invitation](img/deletereminderFrench.png){ width="300" }
+  ![Store owner invitation](img/SupprimerRappel.png){ width="300" }
   <figcaption>Supprimer un rappel</figcaption>
 </figure>
 

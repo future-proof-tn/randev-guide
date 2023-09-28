@@ -22,7 +22,7 @@ Pour accéder à la page de création de la boutique, vous devez :
 - Cliquer sur le titre "Créer une boutique"
 
 <figure markdown>
-  ![Créer une boutique](img/createstorFrench.png){ width="300" }
+  ![Créer une boutique](img/CréerBoutique.png){ width="300" }
   <figcaption>Créer une boutique</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Vous devez fournir :
 - Votre site web : ce champ est totalement optionnel
 
 <figure markdown>
-  ![Détails de la boutique](img/StoredetailsFrench.png){ width="300" }
+  ![Détails de la boutique](img/Détails.png){ width="300" }
   <figcaption>Détails de la boutique</figcaption>
 </figure>
 
@@ -54,12 +54,12 @@ Le calendrier vous permet de définir votre emploi du temps pour la semaine. Il 
 <b> Note : Vous pouvez copier la session des jours précédents dans le cas où vous avez le même horaire de travail pendant plusieurs jours, ceci vous évitera de donner la même information plusieurs fois </b>
 
 <figure markdown>
-  ![Emploi du temps du magasin](img/ScheduleFrench.png){ width="300" }
+  ![Emploi du temps du magasin](img/emploi.png){ width="300" }
   <figcaption>Emploi du temps du magasin</figcaption>
 </figure>
 
 <figure markdown>
-  ![Copier le programme du jour précédent](img/CopyCalendarFrench.png){ width="300" }
+  ![Copier le programme du jour précédent](img/CopierCalendrier.png){ width="300" }
   <figcaption>Copier le programme du jour précédent</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Randev vous offre encore plus de flexibilité pour réserver des intervalles de 
 - Cliquez sur "Réserver"
 
 <figure markdown>
-  ![réservation instantanée](img/InstantBookingFrench.png){ width="300" }
+  ![réservation instantanée](img/RéservationInstannée.png){ width="300" }
   <figcaption>réservation instantanée</figcaption>
 </figure>
 
@@ -99,21 +99,21 @@ Pour ouvrir votre calendrier, vous devez :
 Vous pouvez voir l'emploi du temps de votre staff ou bien de la section "no staff" pour les services sans staff.
 
 <figure markdown>
-  ![calendrier](img/CalendarFrench.png){ width="300" }
+  ![calendrier](img/Calendrier.png){ width="300" }
   <figcaption>calendrier</figcaption>
 </figure>
 
 Vous pouvez changer l'affichage des rendez-vous en cliquant sur le bouton en haut à droite de la page.
 
 <figure markdown>
-  ![calendrier](img/advancedcalenderFrench.png){ width="300" }
+  ![calendrier](img/CalendrierAvancé.png){ width="300" }
   <figcaption>calendrier</figcaption>
 </figure>
 
 Vous pouvez appeler ou envoyer un message au client en cliquant sur l'icône correspondante.
 
 <figure markdown>
-  ![appeler ou envoyer un message](img/callmessageFrench.png){ width="300" }
+  ![appeler ou envoyer un message](img/Appeler.png){ width="300" }
   <figcaption>appeler ou envoyer un message</figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ Vous pouvez appeler ou envoyer un message au client en cliquant sur l'icône cor
 Vous pouvez aussi accéder au calendrier d'un employé en cliquant sur l'icône du profil. La liste de tous vos employés va s'afficher et là vous pouvez choisir lequel vous voulez consulter.
 
 <figure markdown>
-  ![le calendrier du personnel](img/StaffScheduleFrench.png){ width="300" }
+  ![le calendrier du personnel](img/CalendrierDuPersonnel.png){ width="300" }
   <figcaption>le calendrier du personnel</figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ Pour faire ceci, vous devez :
 - Cliquez sur l'icône de suppression
 
 <figure markdown>
-  ![Annuler la réservation](img/deleteBookingFrench.png){ width="300" }
+  ![Annuler la réservation](img/SupprimerRéservation.png){ width="300" }
   <figcaption>Annuler la réservation</figcaption>
 </figure>
 
@@ -151,7 +151,7 @@ La liste des employés est composée de 3 sections :
 - Supprimé : une section qui contient les membres du personnel que vous avez supprimés.
 
 <figure markdown>
-  ![Gestion du personnel](img/MystaffFrench.png){ width="300" }
+  ![Gestion du personnel](img/MonPersonnel.png){ width="300" }
   <figcaption>Gestion du personnel</figcaption>
 </figure>
 
@@ -165,7 +165,7 @@ Vous êtes propriétaire d'un magasin et vous souhaitez ajouter du personnel à 
 - Cliquez sur le bouton "Ajouter un employé" et entrez son nom et ses informations de contact.
 
 <figure markdown>
-  ![Ajouter du personnel à votre magasin](img/AddstaffFrench.png){ width="300" }
+  ![Ajouter du personnel à votre magasin](img/AjouterPersonnel.png){ width="300" }
   <figcaption>Ajouter du personnel à votre magasin</figcaption>
 </figure>
 
@@ -189,7 +189,7 @@ Pour faire ceci, vous devez :
 - Cliquez sur "Ressources matérielles"
 
 <figure markdown>
-  ![Gestion des ressources](img/ResourcesFrench.png){ width="300" }
+  ![Gestion des ressources](img/Resources.png){ width="300" }
   <figcaption>Gestion des ressources</figcaption>
 </figure>
 
@@ -205,12 +205,12 @@ Pour faire ceci, vous devez :
 - Cliquez sur le bouton "plus"
 
 <figure markdown>
-  ![Ajouter des ressources matérielles](img/ResourcesFrench.png){ width="300" }
+  ![Ajouter des ressources matérielles](img/Resources.png){ width="300" }
   <figcaption>Ajouter des ressources matérielles</figcaption>
 </figure>
 
 <figure markdown>
-  ![Ajouter des ressources matérielles](img/AddResourceFrench.png){ width="300" }
+  ![Ajouter des ressources matérielles](img/AjouterResources.png){ width="300" }
   <figcaption>Ajouter des ressources matérielles</figcaption>
 </figure>
 
@@ -234,7 +234,7 @@ Pour faire ceci, vous devez :
 - Cliquez sur "Les services"
 
 <figure markdown>
-  ![Gestion des services](img/ServicesFrench.png){ width="300" }
+  ![Gestion des services](img/Services.png){ width="300" }
   <figcaption>Gestion des services</figcaption>
 </figure>
 
@@ -260,7 +260,7 @@ Pour ajouter un service, vous devez :
     - Sélectionner les membres du personnel qualifiés pour ce service.
 
 <figure markdown>
-  ![Ajouter un service](img/addserviceFrench.png){ width="300" }
+  ![Ajouter un service](img/AjouterService.png){ width="300" }
   <figcaption>Ajouter un service</figcaption>
 </figure>
 

@@ -20,7 +20,7 @@
 الخيار الأخير لتسجيل الدخول هو استخدام البريد الإلكتروني الذي يتطلب أن يكون لديك حساب بالفعل. إذا لم يكن لديك ، يمكنك استخدام خيار إنشاء حساب.
 
 <figure markdown>
-  ![تسجيل الدخول](img/LoginArabic.png){ width="300" }
+  ![تسجيل الدخول](img/الدخول.png){ width="300" }
   <figcaption>تسجيل الدخول</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@
 - بعد ذلك اكتب اسم المتجر.
 
 <figure markdown>
-  ![البحث عن محلّ](img/searchArabic.png){ width="300" }
+  ![البحث عن محلّ](img/بحث.png){ width="300" }
   <figcaption>البحث عن محلّ</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@
 - ثم الضغط على الخريطة .
 
 <figure markdown>
-  ![البحث عن طريق الخرائط](img/LocationArabic.png){ width="300" }
+  ![البحث عن طريق الخرائط](img/موقع.png){ width="300" }
   <figcaption>البحث عن طريق الخرائط</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@
 للقيام بذلك ، انقر فوق رمز التصفية في أعلى يسار الصفحة.
 
 <figure markdown>
-  ![البحث المتقدّم](img/AdvancedsearchArabic.png){ width="300" }
+  ![البحث المتقدّم](img/البحث.png){ width="300" }
   <figcaption>البحث المتقدّم</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@
 - ثم الضغط على بطاقة المتجر التي يريد التحقق من تفاصيلها.
 
 <figure markdown>
-  ![المعطيات](img/detailsArabic.png){ width="300" }
+  ![المعطيات](img/تفاصيل.png){ width="300" }
   <figcaption>المعطيات</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@
 يجد الحريف هذه التواقيت في صفحة تفاصيل المتجر.
 
 <figure markdown>
-  ![مواعيد العمل](img/workhoursArabic.png){ width="300" }
+  ![مواعيد العمل](img/العمل.png){ width="300" }
   <figcaption>مواعيد العمل</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@
 - والتنقل للأسفل إلى الخدمات.
 
 <figure markdown>
-  ![الخدمات](img/servicesArabic.png){ width="300" }
+  ![الخدمات](img/الخدمات.png){ width="300" }
   <figcaption>الخدمات</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@
 - ثم إعطاء تقييمك الخاص مع تعليق إذا أردت وإرساله.
 
 <figure markdown>
-  ![مراجعة المتجر](img/avisArabic.png){ width="300" }
+  ![مراجعة المتجر](img/مراجعة.png){ width="300" }
   <figcaption>مراجعة المتجر</figcaption>
 </figure>
 
@@ -128,7 +128,7 @@
 - ثم الضغط على حجز هذه الخدمة.
 
 <figure markdown>
-  ![إجراء الحجز](img/BookArabic.png){ width="300" }
+  ![إجراء الحجز](img/الحجز.png){ width="300" }
   <figcaption>إجراء الحجز</figcaption>
 </figure>
 
@@ -146,7 +146,7 @@
 يمكنك حذف حجز أو إضافة تذكير بمجرد النقر على أيقونة الجرس.
 
 <figure markdown>
-  ![إضافة تذكير](img/addreminderArabic.png){ width="300" }
+  ![إضافة تذكير](img/تذكير.png){ width="300" }
   <figcaption>إضافة تذكير</figcaption>
 </figure>
 
@@ -164,6 +164,6 @@
 انقر فوق رمز الجرس وستظهر نافذة تحتوي على أيقونات تغيير وحذف.
 
 <figure markdown>
-  ![إزالة تذكير](img/DeleteReminderArabic.png){ width="300" }
+  ![إزالة تذكير](img/حذفالتذكير.png){ width="300" }
   <figcaption>إزالة تذكير</figcaption>
 </figure>
