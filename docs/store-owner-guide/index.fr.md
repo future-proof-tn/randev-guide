@@ -22,7 +22,7 @@ Pour accéder à la page de création de la boutique, vous devez :
 - Cliquer sur le titre "Créer une boutique"
 
 <p align="center">
-  <img src="./img/CreateStor.fr.png">
+  <img src="./img/CreateStore.png">
 </p>
 
 Vous devez fournir :
@@ -35,7 +35,7 @@ Vous devez fournir :
 - Votre site web : ce champ est totalement optionnel
 
 <p align="center">
-  <img src="./img/Storedetails.fr.png">
+  <img src="./img/StoreDetails.png">
 </p>
 
 ## Mise en place de l'emploi du temps du magasin
@@ -52,11 +52,11 @@ Le calendrier vous permet de définir votre emploi du temps pour la semaine. Il 
 <b> Note : Vous pouvez copier la session des jours précédents dans le cas où vous avez le même horaire de travail pendant plusieurs jours, ceci vous évitera de donner la même information plusieurs fois </b>
 
 <p align="center">
-  <img src="./img/Schedule.fr.png">
+  <img src="./img/Schedule.png">
 </p>
 
 <p align="center">
-  <img src="./img/CopyCalendar.fr.png">
+  <img src="./img/CopyCalendar.png">
 </p>
 
 ## <h2 id="réservation instantanée"> Réservation instantanée </h2>
@@ -82,7 +82,7 @@ Randev vous offre encore plus de flexibilité pour réserver des intervalles de 
 - Cliquez sur "Réserver"
 
 <p align="center">
-  <img src="./img/InstantBooking.fr.png">
+  <img src="./img/InstantBooking.png">
 </p>
 
 ## Consulter mon calendrier
@@ -94,19 +94,19 @@ Pour ouvrir votre calendrier, vous devez :
 Vous pouvez voir l'emploi du temps de votre staff ou bien de la section "no staff" pour les services sans staff.
 
 <p align="center">
-  <img src="./img/Calendar.fr.png">
+  <img src="./img/Calendar.png">
 </p>
 
 Vous pouvez changer l'affichage des rendez-vous en cliquant sur le bouton en haut à droite de la page.
 
 <p align="center">
-  <img src="./img/advancedcalender.fr.png">
+  <img src="./img/AdvancedCalendar.png">
 </p>
 
 Vous pouvez appeler ou envoyer un message au client en cliquant sur l'icône correspondante.
 
 <p align="center">
-  <img src="./img/callmessage.fr.png">
+  <img src="./img/CallMessage.png">
 </p>
 
 ### Vérifier le calendrier du personnel
@@ -114,7 +114,7 @@ Vous pouvez appeler ou envoyer un message au client en cliquant sur l'icône cor
 Vous pouvez aussi accéder au calendrier d'un employé en cliquant sur l'icône du profil. La liste de tous vos employés va s'afficher et là vous pouvez choisir lequel vous voulez consulter.
 
 <p align="center">
-  <img src="./img/StaffSchedule.fr.png">
+  <img src="./img/StaffSchedule.png">
 </p>
 
 ### Annuler la réservation
@@ -129,7 +129,7 @@ Pour faire ceci, vous devez :
 - Cliquez sur l'icône de suppression
 
 <p align="center">
-  <img src="./img/deleteBooking.fr.png">
+  <img src="./img/DeleteBooking.png">
 </p>
 
 ## Gestion du personnel
@@ -141,7 +141,7 @@ La liste des employés est composée de 3 sections :
 - Supprimé : une section qui contient les membres du personnel que vous avez supprimés.
 
 <p align="center">
-  <img src="./img/Mystaff.fr.png">
+  <img src="./img/MyStaff.png">
 </p>
 
 ### Ajouter du personnel à votre magasin
@@ -154,7 +154,7 @@ Vous êtes propriétaire d'un magasin et vous souhaitez ajouter du personnel à 
 - Cliquez sur le bouton "Ajouter un employé" et entrez son nom et ses informations de contact.
 
 <p align="center">
-  <img src="./img/addstaff.fr.png">
+  <img src="./img/AddStaff.png">
 </p>
 
 ### Suppression de personnel de votre magasin
@@ -177,7 +177,7 @@ Pour faire ceci, vous devez :
 - Cliquez sur "Ressources matérielles"
 
 <p align="center">
-  <img src="./img/resources.fr.png">
+  <img src="./img/Resources.png">
 </p>
 
 ### Ajouter des ressources matérielles
@@ -192,11 +192,11 @@ Pour faire ceci, vous devez :
 - Cliquez sur le bouton "plus"
 
 <p align="center">
-  <img src="./img/Resources.fr.png">
+  <img src="./img/Resources.png">
 </p>
 
 <p align="center">
-  <img src="./img/AddResource.fr.png">
+  <img src="./img/AddResource.png">
 </p>
 
 ### Supprimer des ressources matérielles
@@ -219,7 +219,7 @@ Pour faire ceci, vous devez :
 - Cliquez sur "Les services"
 
 <p align="center">
-  <img src="./img/Services.fr.png">
+  <img src="./img/Services.png">
 </p>
 
 ### Ajouter un service
@@ -244,7 +244,7 @@ Pour ajouter un service, vous devez :
     - Sélectionner les membres du personnel qualifiés pour ce service.
 
 <p align="center">
-  <img src="./img/addservice.fr.png">
+  <img src="./img/AddService.png">
 </p>
 
 ### Suppression des services
