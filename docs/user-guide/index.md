@@ -57,7 +57,7 @@ One of the exciting features of Randev is the store search feature.
 - Type in the name of the store.
 
 <p align="center">
-  <img src="./img/search.jpg">
+  <img src="./img/Search.jpg">
 </p>
 
 ### Locating the store on the map
@@ -113,7 +113,7 @@ Find store opening times on the store details page, making booking convenient fo
 Discover the services offered by the store, enabling you to take advantage of everything it offers.
 
 <p align="center">
-  <img src="./img/services.png">
+  <img src="./img/Services.png">
 </p>
 
 ## Adding a store review
@@ -121,7 +121,7 @@ Discover the services offered by the store, enabling you to take advantage of ev
 Share your thoughts to improve service quality by leaving a review with a star rating and comments.
 
 <p align="center">
-  <img src="./img/review.png">
+  <img src="./img/Review.png">
 </p>
 
 ## Performing a booking
@@ -141,7 +141,7 @@ To make a booking:
   - Confirm or cancel the booking in the popup.
 
 <p align="center">
-  <img src="./img/book.png">
+  <img src="./img/Book.png">
 </p>
 
 ## Adding a reminder for a booking
@@ -157,7 +157,7 @@ To add a reminder:
 - Manage your bookings, including adding a reminder by clicking the bell icon.
 
 <p align="center">
-  <img src="./img/addreminder.png">
+  <img src="./img/AddReminder.png">
 </p>
 
 ## Removing a reminder for a booking

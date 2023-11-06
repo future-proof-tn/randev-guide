@@ -67,7 +67,7 @@ Notre application vous permet de rechercher n'importe quelle boutique ou service
 - Tapez le nom de la boutique ou du service dans la barre de recherche.
 
 <p align="center">
-  <img src="./img/Recherche.fr.png">
+  <img src="./img/Recherche.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
@@ -88,11 +88,11 @@ Pour faire ceci :
 - Cliquer sur "Carte"
 
 <p align="center">
-  <img src="./img/Location.fr.png">
+  <img src="./img/Location.png">
 </p>
 <div style="display: flex; justify-content: center;">
 <video controls width=" 310" height="480 ">
-<source src="./assets/video/SeearchMap.mp4" type="video/mp4">
+<source src="./assets/video/SearchMap.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -107,7 +107,7 @@ Pour accéder à la recherche avancée, utilisez les différents critères de re
 Vous pouvez utiliser des filtres tels que la localisation, le prix, le rayon, la position. Une fois que vous avez défini les critères, cliquez sur "Rechercher" pour lancer la recherche avancée.
 
 <p align="center">
-  <img src="./img/RechercheAvancée.fr.png">
+  <img src="./img/RechercheAvancée.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
@@ -126,7 +126,7 @@ Vous pouvez cliquer sur chaque résultat pour en savoir plus sur la boutique ou 
 Vous pouvez trouver les horaires d'ouverture de la boutique pour planifier vos visites et rendez-vous.
 
 <p align="center">
-  <img src="./img/HeuresDeTravai.fr.png">
+  <img src="./img/HeuresDeTravail.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
@@ -140,7 +140,7 @@ Vous pouvez trouver les horaires d'ouverture de la boutique pour planifier vos v
 Vous pouvez trouver les services proposés par la boutique et profiter de ce qu'elle a à offrir.
 
 <p align="center">
-  <img src="./img/Services.fr.png">
+  <img src="./img/Services.png">
 </p>
 
 ## Ajout d'un avis d'utilisateur
@@ -148,7 +148,7 @@ Vous pouvez trouver les services proposés par la boutique et profiter de ce qu'
 Vous pouvez partager votre avis et aider à améliorer la qualité des services. Choisissez une note ou une évaluation pour le produit ou le service.
 
 <p align="center">
-  <img src="./img/avis.fr.png">
+  <img src="./img/Avis.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
@@ -169,7 +169,7 @@ Vous pouvez réserver des services proposés dans l'application.
 - Confirmez votre choix dans la pop-up
 
 <p align="center">
-  <img src="./img/reserve.fr.png">
+  <img src="./img/Reserve.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
@@ -190,7 +190,7 @@ Ajoutez un rappel pour ne pas manquer votre réservation.
 Vérifiez les informations et appuyez sur "Ajouter".
 
 <p align="center">
-  <img src="./img/addreminder.fr.png">
+  <img src="./img/AddReminder.png">
 </p>
 
 <div style="display: flex; justify-content: center;">
@@ -209,7 +209,7 @@ Pour supprimer un rappel :
 - Confirmez
 
 <p align="center">
-  <img src="./img/deletereminder.fr.png">
+  <img src="./img/DeleteReminder.png">
 </p>
 
 <div style="display: flex; justify-content: center;">

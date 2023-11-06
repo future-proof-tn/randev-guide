@@ -17,7 +17,7 @@ To proceed:
     - Decline the invitation: No changes will occur, and you won't be linked to the inviting store.
 
 <p align="center">
-  <img src="./img/invitationstaff.png">
+  <img src="./img/InvitationStaff.png">
 </p>
 
 ## Instant booking
@@ -63,17 +63,17 @@ To check your calendar:
 - Click on a booking to view more details.
 
 <p align="center">
-  <img src="./img/calendar.png">
+  <img src="./img/Calendar.png">
 </p>
 
 You can adjust the page layout by clicking the button in the top right corner.
 
 <p align="center">
-  <img src="./img/advancedcalender.png">
+  <img src="./img/AdvancedCalender.png">
 </p>
 
 You can directly call or message the client by clicking on the respective icons.
 
 <p align="center">
-  <img src="./img/callmessage.png">
+  <img src="./img/CallMessage.png">
 </p>
