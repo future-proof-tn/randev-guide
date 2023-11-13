@@ -69,35 +69,35 @@ extra_css:
   - stylesheets/extra.css
 extra:
   alternate:
-    - name: English
-      link: ./en/
-      lang: en
+#    - name: English
+#      link: ./en/
+#      lang: en
     - name: Français
       link: ./fr/
       lang: fr
-    - name: العربيّة
-      link: ./ar/
-      lang: ar
+#    - name: العربيّة
+#      link: ./ar/
+#      lang: ar
 plugins:
   - glightbox
   - mkdocs-video
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
       lang:
-        - en
+#        - en
         - fr
-        - ar
+#        - ar
   - i18n:
       docs_structure: suffix
       fallback_to_default: true
       languages:
         - build: true
-          default: true
+#          default: true
           locale: en
           name: English
           site_name: Randev documentation
         - build: true
-          default: false
+          default: true
           locale: fr
           name: Français
           nav_translations:
