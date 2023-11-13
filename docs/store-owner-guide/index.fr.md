@@ -38,6 +38,11 @@ Vous devez fournir :
   <img src="./img/StoreDetails.png">
 </p>
 
+<figure markdown>
+  ![type:video](./videos/CreateStore_5.mp4){height: 600}
+  <figcaption>Créer une boutique</figcaption>
+</figure>
+
 ## Mise en place de l'emploi du temps du magasin
 
 Le calendrier vous permet de définir votre emploi du temps pour la semaine. Il vous offre une flexibilité pour définir plusieurs sessions de travail pour chaque jour en déterminant les temps d'ouverture et de fermeture de votre boutique. Pour ajouter une session :
@@ -58,6 +63,11 @@ Le calendrier vous permet de définir votre emploi du temps pour la semaine. Il 
 <p align="center">
   <img src="./img/CopyCalendar.png">
 </p>
+
+<figure markdown>
+  ![type:video](./videos/StoreSchedule.mp4){height: 600}
+  <figcaption>Mise en place de l'emploi du temps du magasin</figcaption>
+</figure>
 
 ## <h2 id="réservation instantanée"> Réservation instantanée </h2>
 
@@ -85,6 +95,11 @@ Randev vous offre encore plus de flexibilité pour réserver des intervalles de 
   <img src="./img/InstantBooking.png">
 </p>
 
+<figure markdown>
+  ![type:video](./videos/InstantBooking_1.mp4){height: 600}
+  <figcaption>Réservation instantanée</figcaption>
+</figure>
+
 ## Consulter mon calendrier
 
 Pour ouvrir votre calendrier, vous devez :
@@ -109,6 +124,11 @@ Vous pouvez appeler ou envoyer un message au client en cliquant sur l'icône cor
   <img src="./img/CallMessage.png">
 </p>
 
+<figure markdown>
+  ![type:video](./videos/Schedule_1.mp4){height: 600}
+  <figcaption>Consulter mon calendrier</figcaption>
+</figure>
+
 ### Vérifier le calendrier du personnel
 
 Vous pouvez aussi accéder au calendrier d'un employé en cliquant sur l'icône du profil. La liste de tous vos employés va s'afficher et là vous pouvez choisir lequel vous voulez consulter.
@@ -116,6 +136,11 @@ Vous pouvez aussi accéder au calendrier d'un employé en cliquant sur l'icône 
 <p align="center">
   <img src="./img/StaffSchedule.png">
 </p>
+
+<figure markdown>
+  ![type:video](./videos/StaffSchedule_1.mp4){height: 600}
+  <figcaption>Vérifier le calendrier du personnel</figcaption>
+</figure>
 
 ### Annuler la réservation
 
@@ -144,6 +169,11 @@ La liste des employés est composée de 3 sections :
   <img src="./img/MyStaff.png">
 </p>
 
+<figure markdown>
+  ![type:video](./videos/Checkstaff.mp4){height: 600}
+  <figcaption>Gestion du personnel</figcaption>
+</figure>
+
 ### Ajouter du personnel à votre magasin
 
 Vous êtes propriétaire d'un magasin et vous souhaitez ajouter du personnel à votre équipe. Pour ajouter un employé :
@@ -156,6 +186,11 @@ Vous êtes propriétaire d'un magasin et vous souhaitez ajouter du personnel à 
 <p align="center">
   <img src="./img/AddStaff.png">
 </p>
+
+<figure markdown>
+  ![type:video](./videos/InviteStaff.mp4){height: 600}
+  <figcaption>Ajouter du personnel à votre magasin</figcaption>
+</figure>
 
 ### Suppression de personnel de votre magasin
 
@@ -180,6 +215,11 @@ Pour faire ceci, vous devez :
   <img src="./img/Resources.png">
 </p>
 
+<figure markdown>
+  ![type:video](./videos/ManageResources.mp4){height: 600}
+  <figcaption>Gestion des ressources</figcaption>
+</figure>
+
 ### Ajouter des ressources matérielles
 
 Déterminez les ressources que vous devez gérer dans votre boutique. Par exemple, vous pourriez avoir besoin de gérer des produits, des équipements...
@@ -198,6 +238,11 @@ Pour faire ceci, vous devez :
 <p align="center">
   <img src="./img/AddResource.png">
 </p>
+
+<figure markdown>
+  ![type:video](./videos/AddRessources.mp4){height: 600}
+  <figcaption>Ajouter des ressources matérielles</figcaption>
+</figure>
 
 ### Supprimer des ressources matérielles
 
@@ -221,6 +266,11 @@ Pour faire ceci, vous devez :
 <p align="center">
   <img src="./img/Services.png">
 </p>
+
+<figure markdown>
+  ![type:video](./videos/ManageServices.mp4){height: 600}
+  <figcaption>Gestion des services</figcaption>
+</figure>
 
 ### Ajouter un service
 
@@ -246,6 +296,11 @@ Pour ajouter un service, vous devez :
 <p align="center">
   <img src="./img/AddService.png">
 </p>
+
+<figure markdown>
+  ![type:video](./videos/CreateService.mp4){height: 600}
+  <figcaption>Ajouter un service</figcaption>
+</figure>
 
 ### Suppression des services
 
