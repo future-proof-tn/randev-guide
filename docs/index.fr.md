@@ -1,9 +1,8 @@
 # Randev - Gérez vos rendez vous de façon intelligente
 
-In this website you will find all the information you need for a quick and easy introduction into Randev, the one store shop for appointment management.
+Sur ce site web, vous trouverez toutes les informations dont vous avez besoin pour une introduction rapide et facile à Randev, la boutique tout-en-un pour la gestion des rendez-vous.
 
-For the english version click [here](/en/)
+[//]: # (For the english version click [here](/en/))
 
-للنسخة العربية، اضغط [هنا](/ar/) 
-
+[//]: # (للنسخة العربية، اضغط [هنا](/ar/) )
 
