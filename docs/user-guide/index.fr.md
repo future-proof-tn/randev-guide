@@ -41,6 +41,7 @@ Voici trois méthodes :
 <source src="./assets/video/GoogleLogin.mp4" type="video/mp4">
 </video>
 </div>
+
 ### Connexion avec Facebook
 - Ouvrir l'application
 - Ouvrir le menu déroulant
