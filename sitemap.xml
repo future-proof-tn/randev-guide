@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://help.randev.io/getting-started/</loc>
+        <lastmod>2024-02-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://help.randev.io/</loc>
+        <lastmod>2024-02-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/"/>
+    </url>
+    <url>
+        <loc>https://help.randev.io/staff-guide/</loc>
+        <lastmod>2024-02-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/staff-guide/"/>
+    </url>
+    <url>
+        <loc>https://help.randev.io/store-owner-guide/</loc>
+        <lastmod>2024-02-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/store-owner-guide/"/>
+    </url>
+    <url>
+        <loc>https://help.randev.io/user-guide/</loc>
+        <lastmod>2024-02-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://help.randev.io/user-guide/"/>
+    </url>
+</urlset>
